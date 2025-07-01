@@ -1,0 +1,1001 @@
+Cliente_ID,Nombre,Comuna,Producto,Categoría,Fecha_Venta,Cantidad,Precio_Unitario,Total_Venta,Método_Pago
+86292,Genoveva Solsona,Panguipulli,Taladro,Herramientas Eléctricas,2023-02-01,6,269311,1615866,Efectivo
+35222,Melchor Almagro,Paillaco,Lavadora,Línea Blanca,2022-01-25,9,358169,3223521,Tarjeta Débito
+81238,Evelia Azcona,Río Bueno,Cocina Eléctrica,Línea Blanca,2023-02-24,9,442201,3979809,Tarjeta Débito
+76627,Rosa Portero,Futrono,Home Theater,Línea Marrón,2023-08-03,8,350928,2807424,Efectivo
+14174,Berto Almazán,Paillaco,Refrigerador,Línea Blanca,2022-03-26,9,444125,3997125,Transferencia
+31411,Felix Cuesta,Los Lagos,Televisor LED,Línea Marrón,2023-10-25,4,120748,482992,Tarjeta Crédito
+46750,Jenaro Plaza,Paillaco,Ampolleta LED,Iluminación,2022-12-22,7,151969,1063783,Efectivo
+54359,Baldomero Valencia,Río Bueno,Sierra Circular,Herramientas Eléctricas,2023-09-03,1,15139,15139,Tarjeta Débito
+91036,Joan Palacio,Futrono,Televisor LED,Línea Marrón,2022-04-17,5,325467,1627335,Tarjeta Crédito
+94083,Darío Pozo,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2023-02-15,3,438438,1315314,Tarjeta Débito
+18286,Hugo Suárez,Máfil,Televisor LED,Línea Marrón,2023-09-17,3,297203,891609,Transferencia
+12858,Isaías Albero,Máfil,Cocina Eléctrica,Línea Blanca,2023-02-06,2,341971,683942,Transferencia
+69221,Chema Sáez,Lanco,Ampolleta LED,Iluminación,2024-01-17,4,193828,775312,Tarjeta Débito
+92513,Adán Domínguez,Panguipulli,Esmeril Angular,Herramientas Eléctricas,2024-06-05,2,242666,485332,Tarjeta Débito
+79675,María Pilar Mir,Mariquina,Foco LED,Iluminación,2022-08-05,1,20652,20652,Tarjeta Débito
+41441,Emelina Hernández,Lago Ranco,Taladro,Herramientas Eléctricas,2023-09-29,8,345334,2762672,Tarjeta Débito
+30790,Nico Fuente,Valdivia,Tubo Fluorescente,Iluminación,2023-02-08,7,172636,1208452,Tarjeta Débito
+30843,Gabriel Grande,Valdivia,Taladro,Herramientas Eléctricas,2022-06-06,3,466407,1399221,Efectivo
+36879,Régulo Calleja,Panguipulli,Ampolleta LED,Iluminación,2022-10-21,4,258546,1034184,Transferencia
+86453,Marino Alvarez,Paillaco,Esmeril Angular,Herramientas Eléctricas,2022-05-31,2,480281,960562,Efectivo
+91838,Kike Frías,Máfil,Taladro,Herramientas Eléctricas,2023-07-05,8,255014,2040112,Transferencia
+46749,Duilio Maza,La Unión,Ampolleta LED,Iluminación,2024-01-03,7,261692,1831844,Tarjeta Débito
+68284,Petrona Carlos,Mariquina,Tubo Fluorescente,Iluminación,2022-08-06,8,191968,1535744,Efectivo
+36361,Yago Valenzuela,Máfil,Refrigerador,Línea Blanca,2023-02-23,6,183770,1102620,Tarjeta Crédito
+44395,Claudia Milla,Paillaco,Refrigerador,Línea Blanca,2022-10-27,5,313626,1568130,Efectivo
+43219,Amado Llabrés,Panguipulli,Microondas,Línea Blanca,2022-01-18,7,36832,257824,Tarjeta Débito
+50361,Lucas Company,Lanco,Microondas,Línea Blanca,2024-04-08,1,73290,73290,Efectivo
+97292,Benita Sosa,Paillaco,Sierra Circular,Herramientas Eléctricas,2023-09-12,6,469696,2818176,Tarjeta Débito
+71306,Plácido Asenjo,Máfil,Sierra Circular,Herramientas Eléctricas,2023-03-13,5,49984,249920,Tarjeta Débito
+64754,Priscila Osorio,Lanco,Home Theater,Línea Marrón,2023-06-04,3,344730,1034190,Transferencia
+44498,Lupita Solís,Lago Ranco,Equipo de Música,Línea Marrón,2023-12-17,6,184274,1105644,Tarjeta Débito
+16925,Demetrio Piquer,Lanco,Foco LED,Iluminación,2024-01-10,3,422453,1267359,Efectivo
+83806,Geraldo Chamorro,Futrono,Sierra Circular,Herramientas Eléctricas,2024-03-20,6,374314,2245884,Tarjeta Débito
+90611,Isaura Merino,Río Bueno,Sierra Circular,Herramientas Eléctricas,2024-03-22,1,94759,94759,Tarjeta Crédito
+68542,Amancio Escalona,Río Bueno,Foco LED,Iluminación,2023-12-25,5,434244,2171220,Tarjeta Crédito
+11786,Matías Escalona,Lanco,Esmeril Angular,Herramientas Eléctricas,2023-10-17,3,189744,569232,Tarjeta Débito
+82497,Concepción Gárate,Valdivia,Cocina Eléctrica,Línea Blanca,2022-03-04,7,43463,304241,Transferencia
+91397,Claudia Camino,Lanco,Taladro,Herramientas Eléctricas,2023-07-21,7,309353,2165471,Tarjeta Débito
+82857,Leticia Becerra,La Unión,Home Theater,Línea Marrón,2023-03-09,2,358012,716024,Tarjeta Débito
+12458,Rafael Suarez,Panguipulli,Microondas,Línea Blanca,2024-01-16,7,224659,1572613,Efectivo
+69943,Adelaida Naranjo,Los Lagos,Ampolleta LED,Iluminación,2023-01-20,8,477932,3823456,Transferencia
+42819,Adelina Iñiguez,Lago Ranco,Microondas,Línea Blanca,2022-07-16,8,110537,884296,Efectivo
+18108,Yolanda Ferrer,Paillaco,Esmeril Angular,Herramientas Eléctricas,2024-03-24,4,426691,1706764,Tarjeta Débito
+73739,Aitana Ramos,Mariquina,Cocina Eléctrica,Línea Blanca,2023-04-16,2,377403,754806,Efectivo
+66045,Apolinar Echevarría,Futrono,Lavadora,Línea Blanca,2022-05-29,5,434301,2171505,Tarjeta Crédito
+71067,Encarnación Carvajal,Máfil,Esmeril Angular,Herramientas Eléctricas,2024-02-16,4,167867,671468,Efectivo
+37025,Claudia Madrigal,Corral,Equipo de Música,Línea Marrón,2022-05-17,8,198881,1591048,Tarjeta Débito
+24848,Florentino Arenas,La Unión,Lavadora,Línea Blanca,2024-03-19,2,136999,273998,Efectivo
+71848,Fortunato Oliva,Lanco,Refrigerador,Línea Blanca,2023-06-01,2,276884,553768,Transferencia
+84968,Cruz Goicoechea,La Unión,Ampolleta LED,Iluminación,2024-01-25,9,150002,1350018,Tarjeta Crédito
+60530,Melania Julián,Los Lagos,Home Theater,Línea Marrón,2022-09-19,9,359187,3232683,Efectivo
+65080,Emiliano Martinez,Los Lagos,Ampolleta LED,Iluminación,2023-09-25,3,103061,309183,Efectivo
+13918,Eusebia Barragán,Lago Ranco,Sierra Circular,Herramientas Eléctricas,2023-02-14,7,293576,2055032,Transferencia
+39857,Máximo Pina,Futrono,Tubo Fluorescente,Iluminación,2022-11-17,9,169138,1522242,Transferencia
+88603,Concha Arribas,Lanco,Taladro,Herramientas Eléctricas,2022-11-19,5,146779,733895,Efectivo
+24884,Charo Ordóñez,Río Bueno,Foco LED,Iluminación,2023-09-18,3,379466,1138398,Transferencia
+81181,Anunciación Gabaldón,Máfil,Ampolleta LED,Iluminación,2023-03-06,4,20247,80988,Tarjeta Débito
+35644,Encarnita Cabo,La Unión,Refrigerador,Línea Blanca,2022-02-24,4,394666,1578664,Transferencia
+92318,Pastora Cardona,Valdivia,Foco LED,Iluminación,2023-09-06,1,190460,190460,Efectivo
+58345,Manuelita Pina,Lanco,Foco LED,Iluminación,2022-02-15,1,147576,147576,Efectivo
+56914,Florencia Plaza,Paillaco,Televisor LED,Línea Marrón,2022-02-12,2,179065,358130,Tarjeta Crédito
+82674,Eulalia Guardia,Valdivia,Microondas,Línea Blanca,2024-06-05,2,473928,947856,Tarjeta Débito
+99733,Leocadia Salom,Los Lagos,Ampolleta LED,Iluminación,2023-05-28,4,428687,1714748,Tarjeta Débito
+88730,Genoveva Angulo,Los Lagos,Cocina Eléctrica,Línea Blanca,2023-03-05,8,461439,3691512,Tarjeta Débito
+51503,Andrea Samper,Paillaco,Lavadora,Línea Blanca,2022-11-12,4,340627,1362508,Tarjeta Débito
+49917,Loida Palacios,Corral,Ampolleta LED,Iluminación,2022-06-27,2,441285,882570,Tarjeta Crédito
+45239,Norberto Fajardo,Río Bueno,Taladro,Herramientas Eléctricas,2023-02-07,9,35694,321246,Transferencia
+96169,Fabián Mariño,La Unión,Televisor LED,Línea Marrón,2024-04-18,3,318425,955275,Transferencia
+82605,Gerónimo Torre,Máfil,Tubo Fluorescente,Iluminación,2023-03-02,8,477944,3823552,Tarjeta Crédito
+63976,Arsenio Iñiguez,La Unión,Sierra Circular,Herramientas Eléctricas,2022-10-10,3,288450,865350,Tarjeta Débito
+94357,Heliodoro Piñol,Lago Ranco,Microondas,Línea Blanca,2023-12-27,1,254258,254258,Tarjeta Débito
+88505,Bernardino Aguado,Máfil,Home Theater,Línea Marrón,2023-12-13,4,189420,757680,Efectivo
+33455,Mauricio Tejedor,Paillaco,Refrigerador,Línea Blanca,2022-07-28,9,70625,635625,Tarjeta Crédito
+42683,Clarisa Julián,Futrono,Tubo Fluorescente,Iluminación,2023-10-10,7,356958,2498706,Efectivo
+90522,Roberto Pacheco,Panguipulli,Ampolleta LED,Iluminación,2023-12-01,8,228512,1828096,Transferencia
+70700,Alcides Yuste,Lago Ranco,Esmeril Angular,Herramientas Eléctricas,2022-02-14,1,24054,24054,Transferencia
+98393,Victoria Ribas,Lanco,Sierra Circular,Herramientas Eléctricas,2022-01-20,5,420330,2101650,Tarjeta Débito
+78265,Augusto Pujol,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2023-11-02,2,263049,526098,Efectivo
+82783,Norberto Aparicio,Máfil,Home Theater,Línea Marrón,2023-03-23,9,306086,2754774,Transferencia
+36152,Lupita Landa,Máfil,Ampolleta LED,Iluminación,2022-07-24,4,258555,1034220,Efectivo
+44866,Yago Dávila,Lago Ranco,Cocina Eléctrica,Línea Blanca,2022-06-28,4,409546,1638184,Tarjeta Débito
+76783,Atilio Solano,Futrono,Taladro,Herramientas Eléctricas,2023-09-28,5,328031,1640155,Transferencia
+91692,Apolinar Carbó,Futrono,Cocina Eléctrica,Línea Blanca,2023-02-28,5,279447,1397235,Tarjeta Débito
+22208,Faustino Izquierdo,Río Bueno,Ampolleta LED,Iluminación,2022-09-06,6,356560,2139360,Tarjeta Débito
+64683,Concepción Tamarit,Río Bueno,Equipo de Música,Línea Marrón,2022-06-19,1,458841,458841,Tarjeta Crédito
+71540,Daniela Samper,Futrono,Televisor LED,Línea Marrón,2023-05-22,5,189947,949735,Efectivo
+86773,Arcelia Peláez,La Unión,Sierra Circular,Herramientas Eléctricas,2023-12-31,7,328301,2298107,Transferencia
+96474,Bartolomé Villegas,Máfil,Televisor LED,Línea Marrón,2023-04-14,7,438560,3069920,Tarjeta Crédito
+55923,Iván Rincón,La Unión,Microondas,Línea Blanca,2023-08-28,5,351718,1758590,Transferencia
+24528,Gervasio Solana,Valdivia,Televisor LED,Línea Marrón,2022-01-16,4,486803,1947212,Efectivo
+68787,Leopoldo Villaverde,Futrono,Refrigerador,Línea Blanca,2022-03-23,7,20845,145915,Transferencia
+32627,Encarnita Gimenez,Máfil,Home Theater,Línea Marrón,2024-06-21,2,210238,420476,Tarjeta Débito
+56275,Áurea Gutierrez,Paillaco,Home Theater,Línea Marrón,2024-06-13,2,322204,644408,Tarjeta Crédito
+10090,Lisandro Paz,Los Lagos,Foco LED,Iluminación,2024-04-14,3,198588,595764,Efectivo
+88571,Blanca Sureda,Futrono,Lavadora,Línea Blanca,2022-08-25,1,449959,449959,Tarjeta Crédito
+12010,Virginia Álamo,Futrono,Foco LED,Iluminación,2024-01-25,7,73648,515536,Tarjeta Crédito
+45961,Georgina Ramis,Lago Ranco,Home Theater,Línea Marrón,2022-06-23,8,51799,414392,Tarjeta Crédito
+11043,Ulises Mariño,Río Bueno,Televisor LED,Línea Marrón,2023-08-01,8,352086,2816688,Tarjeta Crédito
+81531,Nando Alegre,Lago Ranco,Tubo Fluorescente,Iluminación,2023-05-24,8,213141,1705128,Efectivo
+30862,Soraya Piquer,Panguipulli,Foco LED,Iluminación,2022-06-15,4,323361,1293444,Efectivo
+59856,Sabina Ribera,Paillaco,Equipo de Música,Línea Marrón,2023-05-07,4,335401,1341604,Efectivo
+34520,Osvaldo Torrent,Máfil,Home Theater,Línea Marrón,2023-07-13,5,452157,2260785,Tarjeta Crédito
+48635,Ani Miguel,Mariquina,Sierra Circular,Herramientas Eléctricas,2024-05-30,4,390009,1560036,Tarjeta Crédito
+29768,Julie Giménez,La Unión,Microondas,Línea Blanca,2022-01-28,1,431288,431288,Efectivo
+79726,Che Luz,Mariquina,Sierra Circular,Herramientas Eléctricas,2023-11-27,9,336287,3026583,Transferencia
+92487,Maximino Cornejo,Los Lagos,Equipo de Música,Línea Marrón,2022-10-15,4,131592,526368,Transferencia
+65703,Amor Vizcaíno,La Unión,Tubo Fluorescente,Iluminación,2022-06-27,8,156590,1252720,Transferencia
+36434,Heriberto Boix,La Unión,Taladro,Herramientas Eléctricas,2022-05-16,3,468280,1404840,Tarjeta Crédito
+86953,Ezequiel Ferrando,Lago Ranco,Sierra Circular,Herramientas Eléctricas,2023-09-24,9,292916,2636244,Tarjeta Débito
+72568,Concha Giménez,Valdivia,Ampolleta LED,Iluminación,2023-05-21,8,464126,3713008,Tarjeta Crédito
+99587,Hortensia Porta,Lago Ranco,Equipo de Música,Línea Marrón,2022-05-02,2,258782,517564,Transferencia
+61300,Alejandro Meléndez,Valdivia,Lavadora,Línea Blanca,2023-11-10,8,397177,3177416,Efectivo
+76354,Camila Martín,Valdivia,Lavadora,Línea Blanca,2022-04-28,3,280977,842931,Efectivo
+44145,Griselda Palma,Corral,Equipo de Música,Línea Marrón,2022-10-24,1,457008,457008,Tarjeta Débito
+41350,Eutropio Azcona,Futrono,Taladro,Herramientas Eléctricas,2022-12-05,4,336845,1347380,Efectivo
+92504,Sebastian Oliver,Paillaco,Microondas,Línea Blanca,2022-04-02,4,164703,658812,Transferencia
+75073,Eloísa Clemente,Lanco,Cocina Eléctrica,Línea Blanca,2024-06-13,6,468170,2809020,Efectivo
+76183,Marcelino Pol,Valdivia,Foco LED,Iluminación,2023-05-10,2,263381,526762,Efectivo
+26862,Iván Rivero,Lanco,Televisor LED,Línea Marrón,2022-02-05,9,36214,325926,Transferencia
+37423,Isabel Canet,Valdivia,Taladro,Herramientas Eléctricas,2022-08-21,8,229217,1833736,Efectivo
+55791,Emma Peiró,Futrono,Foco LED,Iluminación,2024-04-21,9,434437,3909933,Tarjeta Crédito
+39242,Félix Vargas,Futrono,Sierra Circular,Herramientas Eléctricas,2022-03-07,4,19528,78112,Tarjeta Crédito
+90279,Priscila Barrios,La Unión,Equipo de Música,Línea Marrón,2023-10-20,4,470491,1881964,Efectivo
+36613,Tomás Portero,Futrono,Taladro,Herramientas Eléctricas,2022-05-25,7,129424,905968,Tarjeta Débito
+37148,Elisa Miguel,Mariquina,Microondas,Línea Blanca,2023-03-10,3,95104,285312,Efectivo
+36757,Espiridión Ayllón,Panguipulli,Cocina Eléctrica,Línea Blanca,2023-01-15,5,327071,1635355,Transferencia
+28347,Gastón Grau,Mariquina,Televisor LED,Línea Marrón,2022-08-31,1,171454,171454,Transferencia
+67061,Sabina Cañellas,La Unión,Taladro,Herramientas Eléctricas,2024-04-11,5,334318,1671590,Efectivo
+85184,Remigio Ferrández,Lanco,Televisor LED,Línea Marrón,2023-11-16,6,87732,526392,Tarjeta Crédito
+41114,Reynaldo Almagro,Panguipulli,Taladro,Herramientas Eléctricas,2023-05-29,6,151445,908670,Tarjeta Débito
+60273,Calixta Lopez,La Unión,Foco LED,Iluminación,2022-06-29,3,266467,799401,Transferencia
+32288,Pancho Herrera,La Unión,Televisor LED,Línea Marrón,2022-07-25,1,454954,454954,Tarjeta Débito
+95706,Sabas Aller,Mariquina,Ampolleta LED,Iluminación,2022-09-09,8,485562,3884496,Tarjeta Débito
+84068,Felipa Iñiguez,La Unión,Cocina Eléctrica,Línea Blanca,2023-02-27,4,194393,777572,Transferencia
+95617,Inocencio Cañellas,Futrono,Esmeril Angular,Herramientas Eléctricas,2023-04-03,4,328249,1312996,Transferencia
+58147,Fidel Pedraza,Corral,Equipo de Música,Línea Marrón,2024-02-13,8,103428,827424,Tarjeta Crédito
+85923,Lorenza Duarte,Los Lagos,Foco LED,Iluminación,2022-04-03,2,23491,46982,Transferencia
+45299,Elisa Céspedes,Mariquina,Foco LED,Iluminación,2022-05-08,9,13339,120051,Tarjeta Débito
+44206,Jordana Estrada,Paillaco,Televisor LED,Línea Marrón,2023-07-09,3,376997,1130991,Tarjeta Débito
+17275,Irene Rey,Río Bueno,Cocina Eléctrica,Línea Blanca,2024-01-08,2,442495,884990,Transferencia
+39531,Claudio Roda,Máfil,Esmeril Angular,Herramientas Eléctricas,2022-10-27,5,78186,390930,Tarjeta Crédito
+13423,Bonifacio Manjón,Lanco,Refrigerador,Línea Blanca,2023-09-17,4,218352,873408,Transferencia
+51340,Maximiano Tejera,Lago Ranco,Televisor LED,Línea Marrón,2022-05-17,6,375290,2251740,Efectivo
+74542,Aitana Cervera,Paillaco,Esmeril Angular,Herramientas Eléctricas,2023-05-26,2,437914,875828,Efectivo
+42525,Emperatriz Uría,Corral,Cocina Eléctrica,Línea Blanca,2024-04-17,4,255460,1021840,Tarjeta Crédito
+23108,Lalo Morcillo,Los Lagos,Cocina Eléctrica,Línea Blanca,2023-09-20,9,429319,3863871,Efectivo
+91793,Mirta Alcalde,Corral,Sierra Circular,Herramientas Eléctricas,2023-06-23,9,370077,3330693,Transferencia
+81722,Pilar Villar,Mariquina,Foco LED,Iluminación,2023-12-20,9,68354,615186,Efectivo
+60168,María José Roig,Lanco,Home Theater,Línea Marrón,2023-07-22,6,320359,1922154,Transferencia
+98878,Flor Gámez,Lanco,Tubo Fluorescente,Iluminación,2023-01-08,7,260498,1823486,Tarjeta Débito
+99566,Kike Matas,Paillaco,Refrigerador,Línea Blanca,2022-09-12,4,130036,520144,Tarjeta Crédito
+75245,Graciela Pérez,Corral,Lavadora,Línea Blanca,2022-09-14,7,272990,1910930,Tarjeta Crédito
+77421,Lorenzo Amor,Mariquina,Televisor LED,Línea Marrón,2024-06-02,2,390100,780200,Tarjeta Débito
+34400,Itziar Castilla,La Unión,Equipo de Música,Línea Marrón,2022-01-17,6,450176,2701056,Tarjeta Crédito
+47961,Nuria Escrivá,Futrono,Sierra Circular,Herramientas Eléctricas,2024-02-16,9,438187,3943683,Tarjeta Débito
+48658,Juan Francisco Madrigal,Lanco,Home Theater,Línea Marrón,2022-11-27,8,146276,1170208,Efectivo
+81502,Alma Aguiló,Paillaco,Televisor LED,Línea Marrón,2022-05-04,2,357526,715052,Efectivo
+82477,Rosalva Belmonte,Río Bueno,Sierra Circular,Herramientas Eléctricas,2023-08-02,7,51087,357609,Tarjeta Débito
+78074,Leyre Meléndez,Lago Ranco,Esmeril Angular,Herramientas Eléctricas,2023-04-04,6,27070,162420,Tarjeta Crédito
+19550,Calixto Aragonés,Mariquina,Ampolleta LED,Iluminación,2022-05-14,5,171069,855345,Efectivo
+30323,Débora Mascaró,La Unión,Sierra Circular,Herramientas Eléctricas,2022-02-23,5,242207,1211035,Tarjeta Débito
+79115,Eladio Gárate,Lanco,Foco LED,Iluminación,2022-07-16,6,319886,1919316,Efectivo
+71303,Julián Agustín,Máfil,Televisor LED,Línea Marrón,2024-02-13,7,142506,997542,Tarjeta Crédito
+74033,Encarnita Pomares,Panguipulli,Tubo Fluorescente,Iluminación,2022-03-26,4,160243,640972,Efectivo
+49674,Maximiano Bartolomé,Los Lagos,Lavadora,Línea Blanca,2023-03-24,3,461090,1383270,Efectivo
+13631,Curro Moll,Mariquina,Cocina Eléctrica,Línea Blanca,2022-09-06,8,351405,2811240,Tarjeta Crédito
+49842,Isa Escolano,Lanco,Sierra Circular,Herramientas Eléctricas,2023-05-13,7,357112,2499784,Tarjeta Crédito
+47132,Cándida Amores,Paillaco,Refrigerador,Línea Blanca,2023-03-11,7,210815,1475705,Transferencia
+21345,Nereida Juliá,Corral,Lavadora,Línea Blanca,2023-04-15,6,260050,1560300,Efectivo
+30255,Ibán Vall,Paillaco,Tubo Fluorescente,Iluminación,2024-02-16,3,24474,73422,Tarjeta Crédito
+47609,María Fernanda Hidalgo,Corral,Microondas,Línea Blanca,2024-06-12,3,52103,156309,Efectivo
+47333,Cándido Carro,Futrono,Sierra Circular,Herramientas Eléctricas,2022-12-06,4,72253,289012,Tarjeta Crédito
+18876,Osvaldo Aguilera,Paillaco,Home Theater,Línea Marrón,2022-11-21,2,341134,682268,Tarjeta Débito
+54023,Jose Miguel Expósito,Paillaco,Taladro,Herramientas Eléctricas,2024-01-10,7,51221,358547,Tarjeta Crédito
+11418,Octavio Huerta,Mariquina,Refrigerador,Línea Blanca,2022-11-19,3,96589,289767,Tarjeta Débito
+93722,Rosaura Delgado,Máfil,Sierra Circular,Herramientas Eléctricas,2022-02-13,1,415714,415714,Tarjeta Débito
+38832,Hermenegildo Aroca,Máfil,Tubo Fluorescente,Iluminación,2024-03-06,3,377384,1132152,Efectivo
+52394,Onofre Moraleda,Mariquina,Foco LED,Iluminación,2023-09-26,7,69496,486472,Tarjeta Débito
+52765,Cándido Blanco,Lago Ranco,Ampolleta LED,Iluminación,2022-08-14,4,272016,1088064,Tarjeta Débito
+27848,Gervasio Caro,La Unión,Ampolleta LED,Iluminación,2023-05-23,2,379850,759700,Efectivo
+83650,Felipa Téllez,Máfil,Tubo Fluorescente,Iluminación,2023-03-13,2,469671,939342,Transferencia
+95894,Nicolás Recio,Río Bueno,Equipo de Música,Línea Marrón,2024-06-02,9,174208,1567872,Tarjeta Débito
+68789,América Calzada,Futrono,Cocina Eléctrica,Línea Blanca,2024-04-12,6,246931,1481586,Transferencia
+16363,José Colom,Panguipulli,Microondas,Línea Blanca,2024-01-18,4,271186,1084744,Tarjeta Crédito
+67877,Rufino Valenciano,Corral,Cocina Eléctrica,Línea Blanca,2023-04-21,5,450612,2253060,Tarjeta Débito
+94862,Gastón Real,Valdivia,Televisor LED,Línea Marrón,2024-01-05,6,466752,2800512,Tarjeta Crédito
+21409,Plácido Grau,Panguipulli,Sierra Circular,Herramientas Eléctricas,2024-03-13,4,58912,235648,Tarjeta Débito
+97500,Emiliano Seguí,Futrono,Equipo de Música,Línea Marrón,2022-12-09,4,94156,376624,Tarjeta Crédito
+34999,Olegario Conesa,Panguipulli,Taladro,Herramientas Eléctricas,2022-01-15,3,117787,353361,Transferencia
+69034,Mohamed Peñalver,Futrono,Sierra Circular,Herramientas Eléctricas,2022-05-05,4,88651,354604,Tarjeta Crédito
+14844,Apolonia Vizcaíno,Lago Ranco,Lavadora,Línea Blanca,2024-05-07,7,245490,1718430,Transferencia
+64054,Ricarda Pujol,Lanco,Equipo de Música,Línea Marrón,2023-07-30,6,181093,1086558,Tarjeta Débito
+19639,Malena Sandoval,Los Lagos,Taladro,Herramientas Eléctricas,2023-11-28,7,446037,3122259,Tarjeta Débito
+43437,Arcelia Arévalo,Futrono,Televisor LED,Línea Marrón,2022-01-07,9,120289,1082601,Transferencia
+68464,Apolonia Rivero,Valdivia,Lavadora,Línea Blanca,2023-04-18,5,251628,1258140,Tarjeta Crédito
+44697,Ofelia Guillen,Máfil,Ampolleta LED,Iluminación,2023-09-20,8,258807,2070456,Tarjeta Crédito
+53321,Régulo Hervás,Lanco,Lavadora,Línea Blanca,2023-10-03,5,359828,1799140,Tarjeta Crédito
+34001,Julián Redondo,Paillaco,Sierra Circular,Herramientas Eléctricas,2023-08-19,6,181161,1086966,Tarjeta Débito
+40595,Eligio Mora,Río Bueno,Foco LED,Iluminación,2023-04-28,6,355124,2130744,Tarjeta Crédito
+51946,Artemio Ávila,Lanco,Home Theater,Línea Marrón,2024-03-14,3,66424,199272,Tarjeta Débito
+28736,Maricruz Alonso,Río Bueno,Equipo de Música,Línea Marrón,2023-08-11,5,199990,999950,Efectivo
+22909,Miguel Ángel Soriano,Máfil,Foco LED,Iluminación,2022-10-25,5,290659,1453295,Transferencia
+58478,Calisto Soria,Paillaco,Cocina Eléctrica,Línea Blanca,2024-03-16,3,183381,550143,Tarjeta Crédito
+60500,Leonor Domingo,Futrono,Home Theater,Línea Marrón,2023-05-19,3,83553,250659,Efectivo
+43270,Inocencio Ortiz,Máfil,Ampolleta LED,Iluminación,2022-12-23,4,403051,1612204,Efectivo
+97674,Rosario Peña,Río Bueno,Home Theater,Línea Marrón,2022-02-19,8,122383,979064,Efectivo
+27385,Pili Velázquez,Los Lagos,Lavadora,Línea Blanca,2023-10-23,8,294853,2358824,Transferencia
+95792,Óscar Bernal,Máfil,Sierra Circular,Herramientas Eléctricas,2023-06-27,4,321295,1285180,Tarjeta Crédito
+40120,Paloma Llano,Mariquina,Esmeril Angular,Herramientas Eléctricas,2024-05-19,1,23737,23737,Tarjeta Crédito
+62897,Cristóbal Alcolea,Valdivia,Equipo de Música,Línea Marrón,2022-05-27,8,221733,1773864,Tarjeta Débito
+88632,Plinio Solsona,Panguipulli,Foco LED,Iluminación,2024-01-26,4,17081,68324,Transferencia
+75350,Ángel Herrera,Mariquina,Ampolleta LED,Iluminación,2023-07-07,1,34189,34189,Transferencia
+49436,Lidia Teruel,Máfil,Refrigerador,Línea Blanca,2024-02-18,4,34697,138788,Transferencia
+36414,Genoveva Molins,Paillaco,Equipo de Música,Línea Marrón,2024-05-05,9,245203,2206827,Tarjeta Débito
+78926,Pancho Moll,La Unión,Foco LED,Iluminación,2023-07-20,9,34758,312822,Tarjeta Crédito
+60689,Juan José Hidalgo,Panguipulli,Microondas,Línea Blanca,2023-04-26,6,433183,2599098,Tarjeta Crédito
+85444,Asdrubal Palomar,Futrono,Tubo Fluorescente,Iluminación,2024-03-06,6,50644,303864,Efectivo
+94647,Olimpia Llorente,Máfil,Home Theater,Línea Marrón,2023-10-26,9,490721,4416489,Tarjeta Débito
+88413,Héctor Vigil,Valdivia,Ampolleta LED,Iluminación,2023-10-26,9,128830,1159470,Efectivo
+34500,María Manuela Solé,Mariquina,Ampolleta LED,Iluminación,2022-12-03,8,111276,890208,Tarjeta Débito
+95233,Manu Beltran,Mariquina,Ampolleta LED,Iluminación,2022-09-15,6,356814,2140884,Tarjeta Débito
+62155,Maristela Manrique,Valdivia,Televisor LED,Línea Marrón,2022-02-22,3,11333,33999,Transferencia
+36886,Griselda Gonzalez,Mariquina,Microondas,Línea Blanca,2022-02-03,6,323449,1940694,Transferencia
+40527,Paloma Sarabia,Los Lagos,Cocina Eléctrica,Línea Blanca,2023-05-07,7,296195,2073365,Transferencia
+31024,Luna Nicolau,Río Bueno,Sierra Circular,Herramientas Eléctricas,2024-02-13,2,26846,53692,Transferencia
+71946,Blanca Prado,Los Lagos,Lavadora,Línea Blanca,2024-02-10,2,401576,803152,Efectivo
+45320,Matías Gallo,Mariquina,Lavadora,Línea Blanca,2022-08-05,8,335188,2681504,Tarjeta Crédito
+69982,Mauricio Briones,Valdivia,Microondas,Línea Blanca,2024-03-08,3,67169,201507,Efectivo
+97359,Luis Miguel Rivas,Paillaco,Lavadora,Línea Blanca,2023-06-01,4,81013,324052,Tarjeta Crédito
+57591,Alfonso Contreras,Valdivia,Refrigerador,Línea Blanca,2023-02-22,3,320604,961812,Efectivo
+62483,Maxi Ripoll,Mariquina,Esmeril Angular,Herramientas Eléctricas,2023-09-23,4,300898,1203592,Transferencia
+92180,Néstor Arcos,Río Bueno,Tubo Fluorescente,Iluminación,2023-11-06,3,77151,231453,Tarjeta Débito
+23036,Roque Diego,Lanco,Foco LED,Iluminación,2024-02-08,6,322981,1937886,Transferencia
+35675,Débora Galiano,Lago Ranco,Tubo Fluorescente,Iluminación,2023-01-29,4,267333,1069332,Efectivo
+36994,Evita Duque,Paillaco,Microondas,Línea Blanca,2022-12-02,2,387428,774856,Tarjeta Débito
+86752,Gabino Catalá,Valdivia,Refrigerador,Línea Blanca,2023-11-08,6,392539,2355234,Tarjeta Crédito
+21982,Reyna Peiró,Lago Ranco,Microondas,Línea Blanca,2022-10-24,8,197469,1579752,Transferencia
+22592,Rubén Barbero,Futrono,Televisor LED,Línea Marrón,2022-05-03,2,235321,470642,Transferencia
+73344,Paloma Benavides,Lago Ranco,Home Theater,Línea Marrón,2022-08-20,9,436457,3928113,Tarjeta Débito
+31180,Edelmiro Zamora,Los Lagos,Home Theater,Línea Marrón,2023-05-16,2,38455,76910,Tarjeta Crédito
+55632,Vinicio Paz,La Unión,Tubo Fluorescente,Iluminación,2023-12-09,2,263587,527174,Transferencia
+47997,Tamara Jaén,Corral,Televisor LED,Línea Marrón,2024-04-28,5,485943,2429715,Transferencia
+78015,Débora Samper,Lago Ranco,Refrigerador,Línea Blanca,2024-02-21,1,365886,365886,Transferencia
+77670,Gervasio Cueto,Mariquina,Tubo Fluorescente,Iluminación,2024-05-12,5,465386,2326930,Efectivo
+20595,Roberto Pina,Futrono,Equipo de Música,Línea Marrón,2023-01-03,9,309856,2788704,Transferencia
+92397,Zaira Galan,La Unión,Esmeril Angular,Herramientas Eléctricas,2022-03-13,3,454777,1364331,Efectivo
+39472,Benjamín Andrés,Panguipulli,Home Theater,Línea Marrón,2023-11-03,6,38876,233256,Transferencia
+34888,Palmira Baró,Corral,Equipo de Música,Línea Marrón,2023-01-17,9,265000,2385000,Tarjeta Crédito
+26521,Amaya Lucena,Lanco,Equipo de Música,Línea Marrón,2023-05-20,6,76356,458136,Tarjeta Crédito
+22972,Eusebia Luna,Valdivia,Home Theater,Línea Marrón,2022-12-04,2,275274,550548,Efectivo
+58818,Noé Sebastián,Paillaco,Esmeril Angular,Herramientas Eléctricas,2023-05-19,9,126033,1134297,Transferencia
+94404,Natividad Posada,Valdivia,Equipo de Música,Línea Marrón,2022-12-23,7,59860,419020,Efectivo
+48518,Petrona Bermudez,Lanco,Foco LED,Iluminación,2022-10-31,9,251846,2266614,Efectivo
+78496,Felicidad Nevado,Mariquina,Tubo Fluorescente,Iluminación,2023-07-21,9,208878,1879902,Transferencia
+50066,Eligio Escolano,Lago Ranco,Refrigerador,Línea Blanca,2023-04-01,1,159776,159776,Tarjeta Crédito
+58110,Brunilda Iniesta,Futrono,Ampolleta LED,Iluminación,2022-02-16,5,396178,1980890,Tarjeta Débito
+70387,Ligia Villena,Lago Ranco,Ampolleta LED,Iluminación,2023-01-31,9,146938,1322442,Tarjeta Crédito
+66262,Belen Reina,Los Lagos,Equipo de Música,Línea Marrón,2022-02-03,3,437852,1313556,Tarjeta Débito
+41655,Sol Nicolau,Corral,Televisor LED,Línea Marrón,2022-01-09,2,27148,54296,Tarjeta Crédito
+56290,Paco Pombo,Lago Ranco,Tubo Fluorescente,Iluminación,2022-01-14,9,382922,3446298,Efectivo
+97365,Domitila Canet,Lanco,Lavadora,Línea Blanca,2023-08-11,7,251355,1759485,Tarjeta Débito
+28041,Jesusa Ballesteros,Valdivia,Sierra Circular,Herramientas Eléctricas,2024-02-04,1,399136,399136,Tarjeta Débito
+19500,Alfredo Lillo,Corral,Tubo Fluorescente,Iluminación,2023-09-24,5,373236,1866180,Tarjeta Débito
+27999,Iván Barreda,Los Lagos,Taladro,Herramientas Eléctricas,2024-03-26,1,428467,428467,Tarjeta Débito
+26085,Joaquín Almagro,Panguipulli,Foco LED,Iluminación,2023-01-17,8,459251,3674008,Tarjeta Débito
+66850,Heraclio Arellano,Corral,Televisor LED,Línea Marrón,2024-01-28,5,360854,1804270,Transferencia
+58931,Alfredo Cañellas,Lago Ranco,Cocina Eléctrica,Línea Blanca,2022-10-23,9,404552,3640968,Tarjeta Crédito
+47607,Ceferino Mendizábal,Mariquina,Lavadora,Línea Blanca,2023-03-12,9,286861,2581749,Tarjeta Débito
+80848,Prudencia Valle,Lanco,Taladro,Herramientas Eléctricas,2022-12-02,6,461741,2770446,Tarjeta Crédito
+78922,Wilfredo Solera,La Unión,Foco LED,Iluminación,2023-05-28,7,208554,1459878,Transferencia
+75303,Eulalia Manjón,Futrono,Home Theater,Línea Marrón,2022-01-11,3,347287,1041861,Tarjeta Crédito
+43873,Gastón Ripoll,Máfil,Ampolleta LED,Iluminación,2023-07-06,6,99398,596388,Transferencia
+16609,Emigdio Roda,La Unión,Foco LED,Iluminación,2022-08-25,7,110247,771729,Tarjeta Crédito
+19138,Claudio Camacho,La Unión,Esmeril Angular,Herramientas Eléctricas,2023-04-08,7,466500,3265500,Tarjeta Crédito
+15224,Paco Serra,Lanco,Microondas,Línea Blanca,2022-01-25,7,408623,2860361,Transferencia
+20039,Ximena Llobet,Valdivia,Sierra Circular,Herramientas Eléctricas,2022-03-19,3,247507,742521,Tarjeta Débito
+60004,Severino Pintor,Corral,Tubo Fluorescente,Iluminación,2023-04-24,6,16020,96120,Tarjeta Crédito
+92888,Nicanor Querol,Futrono,Equipo de Música,Línea Marrón,2023-03-20,2,475175,950350,Tarjeta Débito
+98066,Encarnacion Calleja,Máfil,Home Theater,Línea Marrón,2022-09-11,5,378127,1890635,Efectivo
+79198,Delfina Cabeza,Lanco,Refrigerador,Línea Blanca,2023-06-12,3,389770,1169310,Tarjeta Crédito
+92214,Jose Manuel Baeza,Máfil,Ampolleta LED,Iluminación,2023-05-12,5,480245,2401225,Tarjeta Débito
+95491,Matilde Cuéllar,Valdivia,Microondas,Línea Blanca,2022-09-08,6,169940,1019640,Efectivo
+18404,José Maldonado,Corral,Sierra Circular,Herramientas Eléctricas,2023-04-07,6,391495,2348970,Transferencia
+49016,Samuel Izquierdo,La Unión,Taladro,Herramientas Eléctricas,2022-06-28,2,397316,794632,Tarjeta Crédito
+28919,Heriberto Barba,Futrono,Home Theater,Línea Marrón,2023-08-28,7,19370,135590,Transferencia
+16249,Cirino Verdejo,Valdivia,Ampolleta LED,Iluminación,2024-02-29,1,310531,310531,Tarjeta Crédito
+89176,Crescencia Tamarit,La Unión,Home Theater,Línea Marrón,2023-07-17,5,366863,1834315,Transferencia
+95131,Fanny Barrena,Máfil,Microondas,Línea Blanca,2023-06-26,8,118119,944952,Tarjeta Débito
+19751,Eduardo Paredes,Mariquina,Home Theater,Línea Marrón,2024-04-13,8,332291,2658328,Tarjeta Débito
+80690,Aura Busquets,Corral,Refrigerador,Línea Blanca,2024-04-06,1,428867,428867,Efectivo
+92617,Lalo Simó,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2023-09-16,5,378055,1890275,Efectivo
+50530,Jenny Pi,Lanco,Equipo de Música,Línea Marrón,2024-05-04,8,447338,3578704,Efectivo
+16771,Montserrat Moliner,Futrono,Refrigerador,Línea Blanca,2023-08-25,9,337872,3040848,Transferencia
+54910,Calixto Mendez,Corral,Esmeril Angular,Herramientas Eléctricas,2023-03-24,1,486360,486360,Tarjeta Crédito
+69029,Rosario Bosch,Lanco,Televisor LED,Línea Marrón,2024-04-30,4,381754,1527016,Tarjeta Débito
+96700,Mohamed Montserrat,Futrono,Foco LED,Iluminación,2023-09-10,2,453612,907224,Tarjeta Débito
+86003,Guillermo Gámez,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2023-07-25,3,436369,1309107,Tarjeta Débito
+14815,Aureliano Ramírez,Panguipulli,Foco LED,Iluminación,2023-06-02,3,64278,192834,Efectivo
+91299,Constanza Valderrama,Lanco,Esmeril Angular,Herramientas Eléctricas,2023-02-23,5,249219,1246095,Tarjeta Crédito
+84987,Guiomar Vidal,Corral,Refrigerador,Línea Blanca,2023-02-18,7,265228,1856596,Efectivo
+18151,Priscila Poza,Máfil,Cocina Eléctrica,Línea Blanca,2023-12-29,7,466401,3264807,Tarjeta Crédito
+54051,Rebeca Rojas,Corral,Esmeril Angular,Herramientas Eléctricas,2022-12-12,1,369438,369438,Transferencia
+89336,Nilda Carrión,Lago Ranco,Esmeril Angular,Herramientas Eléctricas,2022-11-10,8,131215,1049720,Efectivo
+87831,Charo Aragonés,Mariquina,Foco LED,Iluminación,2022-06-23,6,491102,2946612,Tarjeta Débito
+37613,Evangelina Mascaró,La Unión,Ampolleta LED,Iluminación,2022-03-23,6,236560,1419360,Efectivo
+27837,Eva María Arrieta,Valdivia,Foco LED,Iluminación,2022-02-16,2,154930,309860,Efectivo
+66221,Yésica Villar,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2022-03-25,9,459959,4139631,Tarjeta Débito
+26398,Gregorio Llabrés,Lanco,Sierra Circular,Herramientas Eléctricas,2024-06-18,1,275830,275830,Tarjeta Crédito
+28433,Demetrio Planas,Mariquina,Microondas,Línea Blanca,2022-12-16,1,382319,382319,Transferencia
+77649,Chus Sandoval,Futrono,Equipo de Música,Línea Marrón,2022-05-22,6,53602,321612,Tarjeta Débito
+91868,Rita Borja,Lago Ranco,Taladro,Herramientas Eléctricas,2024-03-05,5,158055,790275,Efectivo
+48055,Yaiza Cabello,La Unión,Sierra Circular,Herramientas Eléctricas,2022-07-21,8,36796,294368,Tarjeta Débito
+56047,Odalis Sans,Corral,Sierra Circular,Herramientas Eléctricas,2023-10-28,4,499023,1996092,Efectivo
+67161,Dionisia Atienza,Río Bueno,Televisor LED,Línea Marrón,2023-11-21,5,272548,1362740,Transferencia
+26151,Tristán Arana,Corral,Taladro,Herramientas Eléctricas,2022-12-12,1,352073,352073,Tarjeta Débito
+62819,Emperatriz Uría,Río Bueno,Taladro,Herramientas Eléctricas,2024-04-13,9,95698,861282,Tarjeta Débito
+78631,Miguel Bayón,Los Lagos,Lavadora,Línea Blanca,2022-03-25,4,157433,629732,Transferencia
+64445,Encarnacion Briones,Máfil,Lavadora,Línea Blanca,2024-06-26,6,61366,368196,Tarjeta Débito
+59923,Ciro Galan,Valdivia,Taladro,Herramientas Eléctricas,2024-03-20,8,472919,3783352,Transferencia
+38372,Vanesa Calvet,La Unión,Esmeril Angular,Herramientas Eléctricas,2022-11-02,7,326027,2282189,Tarjeta Débito
+59712,Felipe Bou,Corral,Esmeril Angular,Herramientas Eléctricas,2022-06-05,5,43921,219605,Tarjeta Débito
+87925,Pía Alvarado,Valdivia,Tubo Fluorescente,Iluminación,2022-06-15,3,131285,393855,Efectivo
+64543,Gil Lastra,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2022-05-09,1,218715,218715,Tarjeta Débito
+48329,Esteban Estévez,Río Bueno,Televisor LED,Línea Marrón,2023-11-24,8,354699,2837592,Tarjeta Débito
+83084,Jaime León,Lanco,Esmeril Angular,Herramientas Eléctricas,2022-05-10,6,150427,902562,Tarjeta Crédito
+12037,Estrella Reina,Corral,Esmeril Angular,Herramientas Eléctricas,2023-09-02,1,214848,214848,Tarjeta Crédito
+45285,Eulalia Almansa,Paillaco,Taladro,Herramientas Eléctricas,2022-09-27,3,467590,1402770,Efectivo
+83512,Clara Marí,Río Bueno,Taladro,Herramientas Eléctricas,2024-04-14,5,391877,1959385,Tarjeta Crédito
+50292,Sebastián Cabeza,Valdivia,Sierra Circular,Herramientas Eléctricas,2022-08-09,6,370866,2225196,Efectivo
+32068,Bárbara Portillo,La Unión,Ampolleta LED,Iluminación,2023-12-21,9,258259,2324331,Transferencia
+68908,Jeremías Barceló,Lago Ranco,Esmeril Angular,Herramientas Eléctricas,2022-10-04,4,116543,466172,Tarjeta Crédito
+43013,Dimas Ferrero,Paillaco,Cocina Eléctrica,Línea Blanca,2023-05-21,9,150718,1356462,Efectivo
+24172,Gabriel Montserrat,La Unión,Refrigerador,Línea Blanca,2022-01-04,5,370963,1854815,Transferencia
+38679,Leopoldo Carrera,Máfil,Sierra Circular,Herramientas Eléctricas,2023-02-11,3,248490,745470,Tarjeta Débito
+26885,Hortensia Nevado,Lanco,Microondas,Línea Blanca,2024-01-28,4,64408,257632,Tarjeta Débito
+12246,Bruno Maldonado,Río Bueno,Tubo Fluorescente,Iluminación,2022-01-04,7,53256,372792,Efectivo
+70216,Moreno Ballester,Mariquina,Lavadora,Línea Blanca,2023-02-26,1,468480,468480,Tarjeta Débito
+67971,Julián Lledó,Paillaco,Foco LED,Iluminación,2023-10-27,6,499926,2999556,Transferencia
+41617,Calixto Jara,Corral,Home Theater,Línea Marrón,2024-01-13,1,207771,207771,Tarjeta Débito
+94259,Arturo Peláez,Panguipulli,Cocina Eléctrica,Línea Blanca,2024-03-01,9,241017,2169153,Transferencia
+87775,Carmelita Guillen,Panguipulli,Esmeril Angular,Herramientas Eléctricas,2023-09-17,8,369573,2956584,Efectivo
+96513,Genoveva Mateos,Lanco,Sierra Circular,Herramientas Eléctricas,2024-02-07,8,20247,161976,Transferencia
+95602,Zaida Torrijos,Los Lagos,Sierra Circular,Herramientas Eléctricas,2023-01-03,4,400019,1600076,Tarjeta Débito
+47591,Inmaculada Barceló,Lanco,Lavadora,Línea Blanca,2022-12-23,5,464449,2322245,Tarjeta Crédito
+17326,Antonio Martín,Valdivia,Microondas,Línea Blanca,2024-01-13,6,247130,1482780,Transferencia
+24889,Martirio Ripoll,Río Bueno,Tubo Fluorescente,Iluminación,2024-03-08,6,203174,1219044,Transferencia
+57768,Victor Olivera,Valdivia,Equipo de Música,Línea Marrón,2023-11-13,5,425610,2128050,Tarjeta Crédito
+34363,Lola Cañas,Valdivia,Home Theater,Línea Marrón,2024-04-03,5,364873,1824365,Transferencia
+80937,Lorenzo Otero,La Unión,Taladro,Herramientas Eléctricas,2022-08-21,5,246407,1232035,Efectivo
+10717,Héctor Bilbao,Lanco,Home Theater,Línea Marrón,2023-04-04,5,347715,1738575,Efectivo
+68864,Priscila Pallarès,La Unión,Ampolleta LED,Iluminación,2023-03-23,4,298339,1193356,Tarjeta Débito
+98786,Milagros Bellido,Máfil,Esmeril Angular,Herramientas Eléctricas,2024-05-20,2,432758,865516,Tarjeta Crédito
+25596,María Ángeles Puerta,Futrono,Taladro,Herramientas Eléctricas,2023-04-25,6,309000,1854000,Transferencia
+51815,Manu Real,Panguipulli,Sierra Circular,Herramientas Eléctricas,2023-07-22,5,147556,737780,Tarjeta Débito
+63187,Zacarías Barceló,Mariquina,Ampolleta LED,Iluminación,2022-07-21,9,91262,821358,Efectivo
+30506,Gerónimo Ayala,Los Lagos,Microondas,Línea Blanca,2023-03-19,4,15028,60112,Tarjeta Débito
+63610,Calixta Tur,Futrono,Televisor LED,Línea Marrón,2022-02-18,7,430421,3012947,Tarjeta Débito
+73105,Aurelia Bayón,Panguipulli,Ampolleta LED,Iluminación,2022-09-27,4,243141,972564,Transferencia
+34399,Armida Cabo,Mariquina,Microondas,Línea Blanca,2023-05-30,3,207717,623151,Tarjeta Crédito
+68693,Gregorio Gil,Futrono,Microondas,Línea Blanca,2023-06-22,9,100251,902259,Transferencia
+40370,Victor Manuel Clavero,Paillaco,Esmeril Angular,Herramientas Eléctricas,2022-07-21,2,29388,58776,Tarjeta Crédito
+63850,Noelia Calderon,Valdivia,Tubo Fluorescente,Iluminación,2022-03-04,9,323369,2910321,Transferencia
+86760,Melania Pascual,Mariquina,Cocina Eléctrica,Línea Blanca,2022-09-26,7,372974,2610818,Tarjeta Débito
+71900,Renata Santos,Río Bueno,Home Theater,Línea Marrón,2023-02-02,6,179598,1077588,Efectivo
+47305,Pelayo Almagro,Lanco,Ampolleta LED,Iluminación,2023-09-10,3,267181,801543,Efectivo
+86854,José Antonio Gonzalo,Paillaco,Equipo de Música,Línea Marrón,2022-11-26,8,133806,1070448,Transferencia
+15209,Regina Alvarez,Lanco,Lavadora,Línea Blanca,2022-12-15,1,198682,198682,Transferencia
+91344,Aitor Chacón,Lago Ranco,Sierra Circular,Herramientas Eléctricas,2022-07-31,6,53727,322362,Tarjeta Crédito
+33202,Belén Fernández,Los Lagos,Lavadora,Línea Blanca,2023-12-06,9,97819,880371,Tarjeta Crédito
+45601,Jose Ramón Goicoechea,Río Bueno,Refrigerador,Línea Blanca,2023-01-20,4,168512,674048,Efectivo
+64549,Estefanía Anaya,Los Lagos,Microondas,Línea Blanca,2023-04-21,5,26888,134440,Tarjeta Débito
+12845,Josué Perez,Corral,Tubo Fluorescente,Iluminación,2023-03-20,7,446046,3122322,Transferencia
+42714,Isa Aguado,Lago Ranco,Equipo de Música,Línea Marrón,2023-12-31,1,131665,131665,Efectivo
+86640,Celestina Robles,Lago Ranco,Cocina Eléctrica,Línea Blanca,2022-05-17,2,139460,278920,Efectivo
+45805,Dorita Barberá,Valdivia,Sierra Circular,Herramientas Eléctricas,2023-03-17,7,396789,2777523,Tarjeta Débito
+41438,Lázaro Uriarte,Corral,Televisor LED,Línea Marrón,2022-08-22,7,315637,2209459,Tarjeta Crédito
+60082,Edu Sierra,Futrono,Sierra Circular,Herramientas Eléctricas,2024-03-12,1,199681,199681,Transferencia
+22765,Hipólito Escribano,La Unión,Microondas,Línea Blanca,2022-02-05,8,56824,454592,Tarjeta Crédito
+28838,Macario Bustamante,Paillaco,Televisor LED,Línea Marrón,2023-02-02,3,33091,99273,Tarjeta Débito
+46349,Cecilia Águila,Lago Ranco,Cocina Eléctrica,Línea Blanca,2023-04-04,5,97902,489510,Transferencia
+87396,Roldán Naranjo,Mariquina,Microondas,Línea Blanca,2022-06-25,2,414414,828828,Transferencia
+48404,Aarón Pedraza,Panguipulli,Ampolleta LED,Iluminación,2023-01-17,6,66981,401886,Tarjeta Crédito
+84248,Gabino Cánovas,La Unión,Ampolleta LED,Iluminación,2023-06-12,6,311687,1870122,Tarjeta Crédito
+61110,Juan Antonio Ródenas,Los Lagos,Foco LED,Iluminación,2023-12-15,5,112430,562150,Tarjeta Crédito
+44144,Esmeralda Lillo,Río Bueno,Equipo de Música,Línea Marrón,2024-01-17,7,67019,469133,Tarjeta Crédito
+76311,Amarilis Santiago,Máfil,Microondas,Línea Blanca,2023-03-31,3,202027,606081,Transferencia
+21947,Tatiana Campo,Valdivia,Esmeril Angular,Herramientas Eléctricas,2023-07-26,2,184363,368726,Efectivo
+90629,Joel Olmedo,Máfil,Equipo de Música,Línea Marrón,2023-12-27,1,40119,40119,Tarjeta Crédito
+12688,Jesús Pedrero,Río Bueno,Tubo Fluorescente,Iluminación,2022-12-11,7,396179,2773253,Transferencia
+36422,Ascensión Benitez,Los Lagos,Cocina Eléctrica,Línea Blanca,2022-10-08,4,95446,381784,Tarjeta Débito
+13262,Lupe Burgos,Futrono,Cocina Eléctrica,Línea Blanca,2023-03-02,2,29534,59068,Tarjeta Crédito
+72135,Ruth Cuadrado,Corral,Home Theater,Línea Marrón,2024-05-29,1,71909,71909,Transferencia
+71408,Mohamed Ponce,Mariquina,Esmeril Angular,Herramientas Eléctricas,2023-11-24,5,420353,2101765,Transferencia
+84634,Malena Cerdán,Máfil,Foco LED,Iluminación,2022-10-04,8,469247,3753976,Tarjeta Débito
+63205,Maximiano Vilaplana,Valdivia,Cocina Eléctrica,Línea Blanca,2023-12-27,2,156225,312450,Transferencia
+52840,Olalla Cuéllar,Futrono,Home Theater,Línea Marrón,2023-06-22,4,331097,1324388,Efectivo
+76631,Montserrat Pavón,Mariquina,Tubo Fluorescente,Iluminación,2023-12-24,1,56990,56990,Tarjeta Crédito
+19788,Azeneth Gallo,Máfil,Microondas,Línea Blanca,2023-05-17,1,474781,474781,Tarjeta Débito
+85959,Aníbal Uribe,Corral,Home Theater,Línea Marrón,2022-09-23,4,60276,241104,Tarjeta Crédito
+56876,Ariel Pina,Futrono,Foco LED,Iluminación,2023-04-18,1,166164,166164,Transferencia
+89389,Vicenta Quirós,Lago Ranco,Foco LED,Iluminación,2024-04-01,4,20510,82040,Transferencia
+37855,Francisco Javier Galan,Lanco,Esmeril Angular,Herramientas Eléctricas,2024-03-04,6,134162,804972,Tarjeta Crédito
+73894,Chuy Garriga,Futrono,Home Theater,Línea Marrón,2024-01-21,6,451523,2709138,Tarjeta Débito
+39357,Hugo Arribas,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2022-03-20,2,164911,329822,Tarjeta Débito
+21843,Amaro Zorrilla,Corral,Ampolleta LED,Iluminación,2023-11-18,2,268919,537838,Tarjeta Débito
+26279,Prudencia Bautista,Río Bueno,Televisor LED,Línea Marrón,2023-05-10,3,46757,140271,Efectivo
+90114,Gustavo Caballero,Corral,Refrigerador,Línea Blanca,2023-08-08,7,449346,3145422,Tarjeta Crédito
+63903,Arturo Pagès,Máfil,Sierra Circular,Herramientas Eléctricas,2023-04-03,4,320957,1283828,Efectivo
+90314,Agapito Corominas,Lago Ranco,Cocina Eléctrica,Línea Blanca,2023-12-25,2,129384,258768,Tarjeta Débito
+28770,Mercedes Escrivá,Valdivia,Televisor LED,Línea Marrón,2023-04-01,6,497031,2982186,Efectivo
+11076,Rosario Rodríguez,Paillaco,Ampolleta LED,Iluminación,2023-12-31,6,104395,626370,Transferencia
+10240,Loreto Benavides,Río Bueno,Ampolleta LED,Iluminación,2023-02-27,1,25671,25671,Efectivo
+79516,Asunción Mata,Panguipulli,Tubo Fluorescente,Iluminación,2022-01-30,2,181561,363122,Tarjeta Débito
+96663,Godofredo Arnal,Corral,Refrigerador,Línea Blanca,2022-04-19,3,386508,1159524,Transferencia
+74649,Lucas Crespo,Corral,Foco LED,Iluminación,2022-09-05,3,234379,703137,Transferencia
+38172,Asunción Angulo,Lanco,Tubo Fluorescente,Iluminación,2024-06-19,9,279649,2516841,Tarjeta Débito
+47718,Lucila Fabregat,Río Bueno,Equipo de Música,Línea Marrón,2023-12-27,2,214397,428794,Efectivo
+17679,Jerónimo Goñi,Lanco,Home Theater,Línea Marrón,2022-04-13,4,300587,1202348,Tarjeta Crédito
+98793,José María Plaza,Máfil,Cocina Eléctrica,Línea Blanca,2022-02-18,5,154632,773160,Efectivo
+73873,Eusebio Gil,Lanco,Taladro,Herramientas Eléctricas,2024-06-28,7,87679,613753,Transferencia
+44459,Yolanda Conde,Río Bueno,Cocina Eléctrica,Línea Blanca,2022-04-17,4,200026,800104,Tarjeta Débito
+83373,Adora Agullo,Mariquina,Foco LED,Iluminación,2023-06-17,4,306389,1225556,Efectivo
+98223,Rosalinda Bauzà,Valdivia,Home Theater,Línea Marrón,2022-12-17,5,37102,185510,Efectivo
+61229,Plácido Peñas,Paillaco,Sierra Circular,Herramientas Eléctricas,2022-03-05,9,25331,227979,Tarjeta Crédito
+93914,Áurea Tejero,Paillaco,Taladro,Herramientas Eléctricas,2023-05-29,1,229915,229915,Tarjeta Crédito
+89226,Noé Real,Los Lagos,Home Theater,Línea Marrón,2022-04-02,8,242621,1940968,Transferencia
+28078,Zaira Camino,Río Bueno,Lavadora,Línea Blanca,2023-11-24,3,50061,150183,Efectivo
+99316,Benjamín Pintor,Valdivia,Cocina Eléctrica,Línea Blanca,2022-01-23,1,167578,167578,Tarjeta Crédito
+50660,Guiomar Cobo,Lago Ranco,Esmeril Angular,Herramientas Eléctricas,2022-04-21,5,98275,491375,Tarjeta Débito
+93895,Cándido Solís,Lago Ranco,Cocina Eléctrica,Línea Blanca,2022-01-15,6,345295,2071770,Efectivo
+52330,Omar Sastre,Panguipulli,Microondas,Línea Blanca,2022-06-16,2,148989,297978,Tarjeta Crédito
+64982,Lucas Calvo,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2022-01-18,8,157814,1262512,Transferencia
+76879,Calixto Bárcena,Lago Ranco,Televisor LED,Línea Marrón,2022-10-08,5,68399,341995,Tarjeta Crédito
+26281,Nereida Nebot,Lago Ranco,Lavadora,Línea Blanca,2023-03-31,6,103007,618042,Tarjeta Crédito
+66723,Ofelia Pujol,Valdivia,Equipo de Música,Línea Marrón,2024-01-26,5,69386,346930,Tarjeta Débito
+37559,Noemí Armengol,La Unión,Televisor LED,Línea Marrón,2022-05-15,9,378747,3408723,Transferencia
+14106,Domingo Vara,Lago Ranco,Microondas,Línea Blanca,2023-12-18,8,275551,2204408,Tarjeta Crédito
+11353,Úrsula Ayuso,Panguipulli,Ampolleta LED,Iluminación,2024-05-03,4,303399,1213596,Transferencia
+86263,Venceslás Marí,Máfil,Televisor LED,Línea Marrón,2022-01-25,7,191872,1343104,Tarjeta Crédito
+23243,Adán Bayón,Los Lagos,Tubo Fluorescente,Iluminación,2023-06-17,1,71922,71922,Efectivo
+65450,Reina Perez,La Unión,Ampolleta LED,Iluminación,2023-09-23,5,65148,325740,Tarjeta Débito
+79324,Ramona Alcázar,Futrono,Televisor LED,Línea Marrón,2023-04-09,4,190123,760492,Efectivo
+17019,Maura Montoya,Corral,Foco LED,Iluminación,2022-01-08,3,330901,992703,Tarjeta Crédito
+20751,Aurora Madrid,Lago Ranco,Foco LED,Iluminación,2023-03-17,2,60540,121080,Efectivo
+22199,Carla Baeza,Panguipulli,Esmeril Angular,Herramientas Eléctricas,2024-03-21,9,206624,1859616,Efectivo
+45841,Juan Carlos Busquets,Los Lagos,Equipo de Música,Línea Marrón,2023-08-31,8,405261,3242088,Efectivo
+86710,Ignacia Cerdá,Futrono,Taladro,Herramientas Eléctricas,2022-05-07,2,134344,268688,Tarjeta Crédito
+13884,Efraín Heredia,Lago Ranco,Home Theater,Línea Marrón,2024-03-16,5,305775,1528875,Transferencia
+90409,Ernesto Molina,Lanco,Home Theater,Línea Marrón,2022-03-11,8,161431,1291448,Efectivo
+37046,América Cerdán,Río Bueno,Home Theater,Línea Marrón,2022-01-08,2,71453,142906,Tarjeta Crédito
+51601,Jeremías Granados,Máfil,Refrigerador,Línea Blanca,2022-06-25,9,435376,3918384,Efectivo
+37516,Eufemia Juárez,Los Lagos,Televisor LED,Línea Marrón,2023-09-04,5,198168,990840,Transferencia
+24108,José Antonio Campo,Futrono,Televisor LED,Línea Marrón,2023-02-12,1,132696,132696,Efectivo
+57498,Reyes González,Paillaco,Taladro,Herramientas Eléctricas,2024-01-25,6,288257,1729542,Tarjeta Crédito
+22557,Concepción Tomás,Río Bueno,Home Theater,Línea Marrón,2023-06-19,4,327735,1310940,Tarjeta Crédito
+29993,Ignacio Salvà,Futrono,Foco LED,Iluminación,2023-01-31,6,497198,2983188,Transferencia
+15422,Ariadna Castillo,Río Bueno,Cocina Eléctrica,Línea Blanca,2023-07-23,7,285459,1998213,Tarjeta Crédito
+70834,María Luisa Hervás,Los Lagos,Foco LED,Iluminación,2024-01-04,1,256899,256899,Efectivo
+24859,Coral Cobo,La Unión,Televisor LED,Línea Marrón,2022-01-07,8,214851,1718808,Tarjeta Crédito
+85977,Gastón Carrera,Paillaco,Lavadora,Línea Blanca,2022-08-16,2,436902,873804,Efectivo
+31958,María Carmen Noriega,La Unión,Home Theater,Línea Marrón,2024-03-28,6,265739,1594434,Tarjeta Débito
+34894,Judith Carrera,Lanco,Tubo Fluorescente,Iluminación,2022-11-09,1,456993,456993,Transferencia
+85442,Maximino Pardo,La Unión,Cocina Eléctrica,Línea Blanca,2023-02-16,9,42966,386694,Transferencia
+28505,Vicenta Saura,Lanco,Sierra Circular,Herramientas Eléctricas,2023-09-21,7,424916,2974412,Tarjeta Crédito
+45362,Ricarda Noguera,Río Bueno,Home Theater,Línea Marrón,2023-12-31,6,374378,2246268,Tarjeta Débito
+25043,Débora Briones,Río Bueno,Televisor LED,Línea Marrón,2024-05-21,6,186541,1119246,Transferencia
+96784,Cipriano Pina,Máfil,Taladro,Herramientas Eléctricas,2022-02-10,8,85278,682224,Tarjeta Crédito
+84137,Chuy Laguna,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2022-01-05,3,251332,753996,Transferencia
+33700,Eusebia Pont,Máfil,Televisor LED,Línea Marrón,2023-09-25,8,313652,2509216,Tarjeta Crédito
+89955,Charo Serna,Paillaco,Home Theater,Línea Marrón,2022-09-15,2,186226,372452,Tarjeta Débito
+68093,Cándido Sastre,Máfil,Tubo Fluorescente,Iluminación,2022-05-11,6,368833,2212998,Transferencia
+48684,Gustavo Marin,Lanco,Equipo de Música,Línea Marrón,2023-11-10,6,384659,2307954,Efectivo
+71703,Cristóbal Gras,Panguipulli,Televisor LED,Línea Marrón,2022-10-06,1,88708,88708,Tarjeta Débito
+84421,Bienvenida Segovia,Panguipulli,Refrigerador,Línea Blanca,2024-01-16,1,190952,190952,Tarjeta Crédito
+80355,Roxana Laguna,Lago Ranco,Tubo Fluorescente,Iluminación,2023-05-01,7,109340,765380,Efectivo
+18255,Virginia Cobos,Máfil,Tubo Fluorescente,Iluminación,2022-03-22,9,19313,173817,Transferencia
+66968,Mohamed Mas,Lanco,Ampolleta LED,Iluminación,2024-05-28,2,412716,825432,Transferencia
+41762,Jose Ramón Gárate,Corral,Microondas,Línea Blanca,2022-07-03,5,399325,1996625,Tarjeta Débito
+90791,Nacho Cárdenas,Mariquina,Esmeril Angular,Herramientas Eléctricas,2022-05-13,3,73338,220014,Efectivo
+91925,Clemente Urrutia,Valdivia,Televisor LED,Línea Marrón,2022-04-14,5,421898,2109490,Tarjeta Débito
+79396,Octavia Albero,Río Bueno,Equipo de Música,Línea Marrón,2022-03-23,3,480750,1442250,Tarjeta Crédito
+34811,Alejandra Baquero,Río Bueno,Microondas,Línea Blanca,2022-07-22,7,153447,1074129,Efectivo
+60745,Curro Salinas,La Unión,Equipo de Música,Línea Marrón,2023-12-14,4,329688,1318752,Efectivo
+69143,Macarena Mateo,La Unión,Televisor LED,Línea Marrón,2022-01-28,2,464093,928186,Efectivo
+24568,Angélica Sala,Mariquina,Sierra Circular,Herramientas Eléctricas,2023-06-22,7,254009,1778063,Tarjeta Débito
+81355,Imelda Simó,Futrono,Televisor LED,Línea Marrón,2023-07-12,9,221106,1989954,Tarjeta Crédito
+35419,Eladio Jaén,Lanco,Televisor LED,Línea Marrón,2023-07-15,9,29208,262872,Tarjeta Débito
+77808,Aureliano Oliva,La Unión,Cocina Eléctrica,Línea Blanca,2022-11-18,1,262285,262285,Tarjeta Crédito
+93625,Natividad Gallo,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2023-12-18,7,16362,114534,Transferencia
+74354,Damián Corbacho,Panguipulli,Esmeril Angular,Herramientas Eléctricas,2023-10-02,5,50349,251745,Tarjeta Débito
+34651,Manuelita Llorente,Los Lagos,Sierra Circular,Herramientas Eléctricas,2023-04-19,4,425324,1701296,Tarjeta Crédito
+10743,Carmina Saldaña,Lanco,Refrigerador,Línea Blanca,2022-07-24,6,498620,2991720,Transferencia
+46071,Gloria Fuster,Paillaco,Equipo de Música,Línea Marrón,2023-07-02,9,40711,366399,Tarjeta Crédito
+39102,Caridad Santamaria,Lago Ranco,Home Theater,Línea Marrón,2024-06-24,3,110804,332412,Tarjeta Crédito
+10241,Nuria Torrens,Máfil,Lavadora,Línea Blanca,2022-02-02,6,46843,281058,Tarjeta Débito
+29585,Florencio Gabaldón,Los Lagos,Ampolleta LED,Iluminación,2023-06-10,2,381092,762184,Transferencia
+44511,Miguel Armas,Corral,Refrigerador,Línea Blanca,2023-11-14,2,123817,247634,Tarjeta Débito
+33619,Lucho Fernández,Lago Ranco,Esmeril Angular,Herramientas Eléctricas,2023-05-16,1,352996,352996,Efectivo
+44847,Melchor Martorell,Paillaco,Equipo de Música,Línea Marrón,2022-07-08,6,329744,1978464,Tarjeta Débito
+58950,Lino Montoya,Lanco,Foco LED,Iluminación,2023-10-16,3,286554,859662,Tarjeta Débito
+98882,Rogelio Rivera,Futrono,Home Theater,Línea Marrón,2023-05-30,5,425764,2128820,Efectivo
+95910,Rafael Vicens,Corral,Ampolleta LED,Iluminación,2023-02-20,7,292653,2048571,Efectivo
+12197,Sabas Criado,Paillaco,Cocina Eléctrica,Línea Blanca,2024-05-15,4,67025,268100,Efectivo
+18837,Vasco Barros,Panguipulli,Televisor LED,Línea Marrón,2022-07-07,4,129795,519180,Transferencia
+84530,Yéssica Ródenas,Lanco,Sierra Circular,Herramientas Eléctricas,2022-05-18,2,369504,739008,Tarjeta Débito
+38642,Raúl Almazán,Paillaco,Foco LED,Iluminación,2023-01-13,6,184517,1107102,Efectivo
+10998,Adelardo Ribas,Máfil,Home Theater,Línea Marrón,2023-04-06,5,18771,93855,Tarjeta Débito
+46410,Cayetana Lladó,Valdivia,Sierra Circular,Herramientas Eléctricas,2022-02-16,3,333162,999486,Efectivo
+18241,Rogelio Cuesta,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2024-01-17,6,246210,1477260,Transferencia
+30626,Pía Barrios,Corral,Ampolleta LED,Iluminación,2022-04-29,2,482175,964350,Transferencia
+80037,Lorenzo Cabezas,Valdivia,Ampolleta LED,Iluminación,2024-03-23,1,364226,364226,Tarjeta Débito
+59124,José Ángel Alberola,Mariquina,Ampolleta LED,Iluminación,2023-12-16,2,347191,694382,Efectivo
+86139,Timoteo Herranz,Panguipulli,Microondas,Línea Blanca,2024-06-19,8,407334,3258672,Tarjeta Débito
+44765,Bruno Aparicio,Futrono,Esmeril Angular,Herramientas Eléctricas,2024-06-11,5,136641,683205,Efectivo
+74528,Roque Gutiérrez,Futrono,Equipo de Música,Línea Marrón,2023-11-02,9,398383,3585447,Tarjeta Débito
+21714,Alejandra Barón,Río Bueno,Ampolleta LED,Iluminación,2023-03-11,4,101591,406364,Transferencia
+46204,Laura Manzanares,Lanco,Foco LED,Iluminación,2022-01-02,8,463532,3708256,Efectivo
+75842,Guillermo Arroyo,Futrono,Cocina Eléctrica,Línea Blanca,2024-02-04,7,266538,1865766,Tarjeta Débito
+26636,Remedios Flores,Máfil,Tubo Fluorescente,Iluminación,2022-08-09,9,123176,1108584,Tarjeta Débito
+52058,Graciela Busquets,Máfil,Home Theater,Línea Marrón,2022-09-12,3,106913,320739,Efectivo
+26198,Cruz Macías,Río Bueno,Equipo de Música,Línea Marrón,2022-10-19,2,360230,720460,Tarjeta Débito
+25531,Epifanio Alemany,Valdivia,Tubo Fluorescente,Iluminación,2022-10-23,5,88502,442510,Efectivo
+34900,Salud Iñiguez,La Unión,Taladro,Herramientas Eléctricas,2023-05-18,3,31266,93798,Tarjeta Débito
+41375,Jordán Azorin,Valdivia,Refrigerador,Línea Blanca,2022-10-13,7,309956,2169692,Tarjeta Crédito
+70363,Cebrián Piquer,La Unión,Sierra Circular,Herramientas Eléctricas,2022-11-01,2,375187,750374,Transferencia
+93820,Rolando Higueras,Río Bueno,Sierra Circular,Herramientas Eléctricas,2023-12-09,3,70491,211473,Efectivo
+44843,Gregorio Villaverde,Corral,Cocina Eléctrica,Línea Blanca,2023-04-29,8,99639,797112,Tarjeta Débito
+80031,María Belén Ferrán,Río Bueno,Equipo de Música,Línea Marrón,2022-05-25,6,470915,2825490,Tarjeta Crédito
+39588,Mirta Calvet,Mariquina,Esmeril Angular,Herramientas Eléctricas,2023-08-20,7,360125,2520875,Efectivo
+86824,Amaro Acedo,Valdivia,Tubo Fluorescente,Iluminación,2023-07-04,8,319106,2552848,Efectivo
+44018,Ibán Manzanares,Futrono,Tubo Fluorescente,Iluminación,2023-11-18,9,17366,156294,Efectivo
+35224,Ángeles Cortés,Lago Ranco,Microondas,Línea Blanca,2023-05-12,9,410830,3697470,Efectivo
+32192,Virginia Franch,Corral,Taladro,Herramientas Eléctricas,2023-01-07,8,263589,2108712,Tarjeta Débito
+41262,Guadalupe Jimenez,Mariquina,Taladro,Herramientas Eléctricas,2023-08-10,8,55438,443504,Tarjeta Crédito
+99753,Celia Lobo,Lago Ranco,Home Theater,Línea Marrón,2022-11-08,2,266154,532308,Tarjeta Débito
+83511,Rocío Quintana,Corral,Foco LED,Iluminación,2022-02-24,6,61917,371502,Transferencia
+93313,Clemente Manuel,Lanco,Equipo de Música,Línea Marrón,2023-08-06,1,194997,194997,Efectivo
+30627,Abilio Baró,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2022-01-09,1,313910,313910,Tarjeta Crédito
+91680,Rosalía Jaume,Panguipulli,Sierra Circular,Herramientas Eléctricas,2023-08-28,1,425073,425073,Transferencia
+54119,Macaria Hernando,Los Lagos,Sierra Circular,Herramientas Eléctricas,2023-06-26,6,275394,1652364,Transferencia
+93863,Aristides Escalona,La Unión,Ampolleta LED,Iluminación,2022-09-10,7,110234,771638,Efectivo
+54392,Abraham Barba,Lago Ranco,Foco LED,Iluminación,2022-06-10,3,286727,860181,Tarjeta Crédito
+24870,Febe Pera,Valdivia,Tubo Fluorescente,Iluminación,2024-01-16,9,495510,4459590,Efectivo
+71598,Lorenza Ruiz,Panguipulli,Tubo Fluorescente,Iluminación,2024-05-11,5,81690,408450,Transferencia
+27389,Dalila Roma,Futrono,Lavadora,Línea Blanca,2023-08-10,1,167780,167780,Tarjeta Débito
+17745,Lorena Capdevila,Lago Ranco,Refrigerador,Línea Blanca,2023-03-05,7,356848,2497936,Tarjeta Crédito
+12832,Raimundo Luján,Valdivia,Equipo de Música,Línea Marrón,2022-01-23,5,252884,1264420,Efectivo
+11785,Gala Cabrero,Los Lagos,Cocina Eléctrica,Línea Blanca,2023-12-30,9,207655,1868895,Tarjeta Crédito
+52994,Nieves Calderon,Corral,Equipo de Música,Línea Marrón,2022-01-18,5,399068,1995340,Tarjeta Crédito
+21274,Ángeles Torrecilla,Mariquina,Equipo de Música,Línea Marrón,2024-06-26,9,470014,4230126,Tarjeta Crédito
+80027,Darío Mena,Futrono,Tubo Fluorescente,Iluminación,2023-12-12,1,129990,129990,Efectivo
+38914,Félix Barral,Mariquina,Tubo Fluorescente,Iluminación,2022-01-06,8,57037,456296,Efectivo
+76008,Joel Olivé,Lanco,Lavadora,Línea Blanca,2022-07-02,6,76925,461550,Tarjeta Crédito
+40326,Rosalina Mayoral,Valdivia,Taladro,Herramientas Eléctricas,2024-06-21,5,75982,379910,Tarjeta Crédito
+47902,Carmen Miralles,Panguipulli,Refrigerador,Línea Blanca,2023-10-27,9,50844,457596,Transferencia
+28616,Cecilio Barceló,Lago Ranco,Home Theater,Línea Marrón,2024-04-11,6,439813,2638878,Transferencia
+57857,Gil Aller,Valdivia,Microondas,Línea Blanca,2022-11-25,8,326058,2608464,Tarjeta Crédito
+83076,León Marín,Máfil,Foco LED,Iluminación,2022-03-12,5,33670,168350,Tarjeta Crédito
+20335,Baldomero Jiménez,Lanco,Foco LED,Iluminación,2024-06-10,9,458806,4129254,Tarjeta Crédito
+32712,Marianela Jove,Paillaco,Tubo Fluorescente,Iluminación,2022-05-07,5,78256,391280,Efectivo
+88942,Ainoa Borrás,Los Lagos,Equipo de Música,Línea Marrón,2023-06-10,2,451013,902026,Tarjeta Débito
+83715,Fermín Muro,Río Bueno,Equipo de Música,Línea Marrón,2024-04-12,6,400760,2404560,Efectivo
+32703,Lidia Zamora,Corral,Cocina Eléctrica,Línea Blanca,2022-04-26,4,51948,207792,Tarjeta Crédito
+28710,Benigno Roldán,Mariquina,Cocina Eléctrica,Línea Blanca,2022-09-21,2,186510,373020,Tarjeta Débito
+91631,Yésica Alcolea,Los Lagos,Microondas,Línea Blanca,2023-12-15,6,337064,2022384,Tarjeta Crédito
+69387,Rosalinda Corral,Mariquina,Esmeril Angular,Herramientas Eléctricas,2022-02-14,6,323525,1941150,Transferencia
+68408,María Jesús Pelayo,Valdivia,Televisor LED,Línea Marrón,2022-08-25,6,409197,2455182,Transferencia
+27876,Narciso Giménez,Río Bueno,Ampolleta LED,Iluminación,2023-03-21,7,183625,1285375,Efectivo
+40243,María Pilar Badía,Los Lagos,Foco LED,Iluminación,2023-11-14,6,153523,921138,Tarjeta Crédito
+13357,Adela Tovar,Mariquina,Tubo Fluorescente,Iluminación,2024-05-29,6,223922,1343532,Efectivo
+61041,Joaquín Mendizábal,Río Bueno,Lavadora,Línea Blanca,2023-02-18,2,337856,675712,Transferencia
+38196,Odalis Guerrero,Mariquina,Sierra Circular,Herramientas Eléctricas,2022-04-16,9,144254,1298286,Tarjeta Crédito
+69634,Tamara Larrañaga,Los Lagos,Sierra Circular,Herramientas Eléctricas,2022-08-18,3,418696,1256088,Tarjeta Débito
+62583,Marco Ugarte,Los Lagos,Taladro,Herramientas Eléctricas,2022-07-19,4,84822,339288,Efectivo
+63070,Goyo Casado,Valdivia,Lavadora,Línea Blanca,2024-05-17,8,391111,3128888,Tarjeta Crédito
+49687,Isaura Mir,Lanco,Televisor LED,Línea Marrón,2022-02-05,7,491298,3439086,Efectivo
+80302,Marcela Valera,Lanco,Microondas,Línea Blanca,2022-10-22,5,396621,1983105,Tarjeta Débito
+71190,Cruz Llano,Lanco,Ampolleta LED,Iluminación,2022-02-19,1,81743,81743,Transferencia
+20556,Bienvenida Cardona,Futrono,Ampolleta LED,Iluminación,2022-01-31,8,301049,2408392,Tarjeta Crédito
+70895,Virgilio Cervera,Máfil,Tubo Fluorescente,Iluminación,2024-04-29,5,431585,2157925,Tarjeta Débito
+66208,Quirino Carro,Los Lagos,Sierra Circular,Herramientas Eléctricas,2023-12-27,3,363486,1090458,Tarjeta Débito
+45836,Encarnita Godoy,Lago Ranco,Foco LED,Iluminación,2024-01-28,6,21634,129804,Tarjeta Crédito
+74189,Eliseo Sanchez,Río Bueno,Microondas,Línea Blanca,2023-09-06,7,439626,3077382,Tarjeta Débito
+78674,Baldomero Calderón,Mariquina,Equipo de Música,Línea Marrón,2023-06-10,2,58114,116228,Transferencia
+71750,Olimpia Sanabria,Los Lagos,Lavadora,Línea Blanca,2023-02-21,8,12477,99816,Tarjeta Débito
+19458,Apolinar Castelló,La Unión,Foco LED,Iluminación,2024-02-05,6,346482,2078892,Transferencia
+46990,Marianela Ibáñez,Valdivia,Sierra Circular,Herramientas Eléctricas,2022-04-20,1,67245,67245,Efectivo
+38353,Hermenegildo Martí,Los Lagos,Televisor LED,Línea Marrón,2022-12-24,7,306939,2148573,Transferencia
+99172,Lupe Pallarès,Mariquina,Sierra Circular,Herramientas Eléctricas,2024-03-04,7,487291,3411037,Transferencia
+96855,Gil Serna,Lanco,Televisor LED,Línea Marrón,2022-01-28,1,213560,213560,Transferencia
+37932,Bibiana Barrena,Mariquina,Televisor LED,Línea Marrón,2023-02-01,2,214120,428240,Tarjeta Débito
+29136,Víctor Herrera,Los Lagos,Foco LED,Iluminación,2022-05-16,9,209931,1889379,Transferencia
+88378,Pío Batalla,Los Lagos,Lavadora,Línea Blanca,2022-11-14,2,390551,781102,Tarjeta Crédito
+21220,Fabricio Vara,Río Bueno,Equipo de Música,Línea Marrón,2023-08-21,7,60866,426062,Efectivo
+91048,Flor Uriarte,Lanco,Home Theater,Línea Marrón,2022-09-06,1,259399,259399,Tarjeta Crédito
+49946,Lalo Mínguez,La Unión,Taladro,Herramientas Eléctricas,2022-08-19,6,168394,1010364,Tarjeta Crédito
+72285,Rocío Córdoba,Máfil,Tubo Fluorescente,Iluminación,2022-08-16,1,470347,470347,Tarjeta Débito
+94527,Catalina Martorell,Paillaco,Refrigerador,Línea Blanca,2022-07-23,8,251255,2010040,Efectivo
+10742,Fanny Saavedra,La Unión,Taladro,Herramientas Eléctricas,2022-06-15,5,31792,158960,Tarjeta Débito
+52030,Gabriel Carretero,Río Bueno,Lavadora,Línea Blanca,2022-05-14,6,316053,1896318,Transferencia
+56413,Jose Manuel Torrijos,Lanco,Ampolleta LED,Iluminación,2023-05-20,4,490679,1962716,Tarjeta Crédito
+19325,Ruy Cuervo,Paillaco,Esmeril Angular,Herramientas Eléctricas,2024-03-21,8,335329,2682632,Efectivo
+67744,Rita Vázquez,Máfil,Tubo Fluorescente,Iluminación,2023-09-03,3,244979,734937,Tarjeta Crédito
+89007,Américo Guitart,Panguipulli,Foco LED,Iluminación,2023-09-04,7,353035,2471245,Transferencia
+39776,Corona Millán,Río Bueno,Refrigerador,Línea Blanca,2023-06-27,9,92471,832239,Transferencia
+21746,Consuela Vargas,Lanco,Home Theater,Línea Marrón,2023-12-19,4,464766,1859064,Tarjeta Débito
+67395,Domitila Carrión,Corral,Foco LED,Iluminación,2023-03-26,5,422223,2111115,Tarjeta Crédito
+62191,Sabina Ochoa,Paillaco,Cocina Eléctrica,Línea Blanca,2023-01-20,5,231853,1159265,Transferencia
+45763,Jovita Codina,Los Lagos,Refrigerador,Línea Blanca,2024-02-25,6,370052,2220312,Efectivo
+30009,Teobaldo Arce,Máfil,Esmeril Angular,Herramientas Eléctricas,2024-03-05,8,430485,3443880,Tarjeta Crédito
+34812,Enrique Caro,Río Bueno,Taladro,Herramientas Eléctricas,2022-06-07,4,324009,1296036,Efectivo
+62488,Daniela Suárez,Máfil,Foco LED,Iluminación,2023-05-17,3,305878,917634,Efectivo
+53496,Aitor Beltran,Máfil,Televisor LED,Línea Marrón,2023-07-01,4,238385,953540,Transferencia
+59621,Wilfredo Gracia,Valdivia,Cocina Eléctrica,Línea Blanca,2022-03-13,2,118711,237422,Tarjeta Crédito
+52193,Tamara Casal,Lanco,Ampolleta LED,Iluminación,2024-04-13,5,40443,202215,Transferencia
+70075,Emilio Leal,Máfil,Cocina Eléctrica,Línea Blanca,2023-09-22,2,123673,247346,Efectivo
+43692,Victorino Buendía,Lago Ranco,Ampolleta LED,Iluminación,2022-12-11,5,366510,1832550,Tarjeta Débito
+38655,Íngrid Villar,Lanco,Equipo de Música,Línea Marrón,2022-11-08,7,226002,1582014,Tarjeta Débito
+20074,Ruperta Corbacho,Panguipulli,Tubo Fluorescente,Iluminación,2023-07-11,7,197334,1381338,Tarjeta Débito
+67791,Galo Sánchez,Valdivia,Taladro,Herramientas Eléctricas,2023-10-31,4,156178,624712,Transferencia
+87899,Claudio Mayo,Paillaco,Refrigerador,Línea Blanca,2023-09-17,1,228356,228356,Transferencia
+38873,Eusebio Tudela,Mariquina,Esmeril Angular,Herramientas Eléctricas,2022-03-14,5,253735,1268675,Transferencia
+13959,Kike Berenguer,Máfil,Lavadora,Línea Blanca,2024-06-10,8,229206,1833648,Tarjeta Débito
+32926,Sabina Ripoll,Lago Ranco,Equipo de Música,Línea Marrón,2024-05-14,4,153961,615844,Transferencia
+37652,Guillermo Sala,Futrono,Lavadora,Línea Blanca,2023-11-02,6,102562,615372,Tarjeta Débito
+58969,Carmelita Puga,Paillaco,Refrigerador,Línea Blanca,2022-12-20,6,304952,1829712,Transferencia
+45162,Eusebia Rosell,Lanco,Home Theater,Línea Marrón,2023-02-19,9,355935,3203415,Transferencia
+34115,Roldán Calvet,Corral,Cocina Eléctrica,Línea Blanca,2022-01-06,1,388780,388780,Tarjeta Débito
+25439,Amelia Pizarro,Paillaco,Taladro,Herramientas Eléctricas,2022-11-26,7,137726,964082,Tarjeta Débito
+85762,Danilo Nieto,La Unión,Refrigerador,Línea Blanca,2024-01-08,5,14559,72795,Tarjeta Crédito
+94570,María Dolores Roman,Futrono,Ampolleta LED,Iluminación,2022-12-28,1,201225,201225,Tarjeta Crédito
+39053,Guillermo Zabala,La Unión,Taladro,Herramientas Eléctricas,2023-04-23,5,213756,1068780,Tarjeta Débito
+81767,Ana Sofía Aramburu,Lanco,Taladro,Herramientas Eléctricas,2022-12-02,3,41847,125541,Tarjeta Crédito
+78551,Lisandro Mendoza,Los Lagos,Sierra Circular,Herramientas Eléctricas,2023-03-28,4,185103,740412,Efectivo
+91081,Amada Font,Corral,Esmeril Angular,Herramientas Eléctricas,2022-11-05,8,167219,1337752,Tarjeta Crédito
+10561,Lino Lerma,Lago Ranco,Equipo de Música,Línea Marrón,2023-05-21,8,80053,640424,Tarjeta Débito
+78769,Efraín Blanch,Panguipulli,Refrigerador,Línea Blanca,2022-02-17,8,234717,1877736,Tarjeta Crédito
+50387,Gisela Jover,La Unión,Microondas,Línea Blanca,2022-04-11,9,30311,272799,Tarjeta Débito
+21998,Baltasar Real,La Unión,Ampolleta LED,Iluminación,2023-09-07,2,161446,322892,Efectivo
+11605,Brígida Julián,Río Bueno,Taladro,Herramientas Eléctricas,2024-01-08,5,257061,1285305,Tarjeta Débito
+47531,Matilde Pavón,La Unión,Tubo Fluorescente,Iluminación,2023-07-25,8,370285,2962280,Transferencia
+81646,Abril Luna,Los Lagos,Taladro,Herramientas Eléctricas,2023-05-26,9,122940,1106460,Tarjeta Crédito
+18684,Sara Gámez,Corral,Esmeril Angular,Herramientas Eléctricas,2024-06-01,7,61421,429947,Tarjeta Débito
+42593,Ulises Gómez,Mariquina,Televisor LED,Línea Marrón,2024-03-18,2,447450,894900,Tarjeta Crédito
+39936,Elba Macias,Corral,Taladro,Herramientas Eléctricas,2022-05-17,5,50779,253895,Tarjeta Débito
+98876,Malena Campoy,Río Bueno,Foco LED,Iluminación,2024-02-13,5,356464,1782320,Tarjeta Débito
+59178,Leticia Perea,Lago Ranco,Microondas,Línea Blanca,2022-10-31,1,118827,118827,Transferencia
+82653,Amancio Saura,Máfil,Televisor LED,Línea Marrón,2022-05-07,9,156351,1407159,Transferencia
+16123,Cayetana Villegas,Río Bueno,Ampolleta LED,Iluminación,2022-04-21,8,113400,907200,Tarjeta Débito
+94814,Teobaldo Guitart,Panguipulli,Microondas,Línea Blanca,2022-08-20,8,278704,2229632,Tarjeta Débito
+68075,Hernán Borrego,Valdivia,Foco LED,Iluminación,2024-05-22,7,153768,1076376,Transferencia
+10749,Carolina Acero,Paillaco,Taladro,Herramientas Eléctricas,2023-01-30,4,378223,1512892,Tarjeta Débito
+41727,Apolonia Vara,Río Bueno,Taladro,Herramientas Eléctricas,2024-02-22,2,174276,348552,Efectivo
+89102,Tadeo Larrea,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2022-03-17,5,241699,1208495,Tarjeta Crédito
+67267,Ulises Morell,Paillaco,Microondas,Línea Blanca,2022-09-06,9,372066,3348594,Transferencia
+41790,Ariel Pedrosa,Panguipulli,Refrigerador,Línea Blanca,2024-05-13,4,19788,79152,Transferencia
+56321,Aureliano Padilla,Paillaco,Televisor LED,Línea Marrón,2023-01-19,2,450727,901454,Efectivo
+40764,Mayte Domingo,Corral,Esmeril Angular,Herramientas Eléctricas,2023-08-26,8,218846,1750768,Tarjeta Débito
+42110,Angelino Alcaraz,Mariquina,Home Theater,Línea Marrón,2022-10-04,3,121419,364257,Tarjeta Crédito
+22825,Juan Antonio Pastor,La Unión,Esmeril Angular,Herramientas Eléctricas,2023-12-08,6,287186,1723116,Transferencia
+42693,Ale Lorenzo,Panguipulli,Esmeril Angular,Herramientas Eléctricas,2023-09-22,2,122073,244146,Tarjeta Crédito
+77748,Olegario Mulet,Los Lagos,Sierra Circular,Herramientas Eléctricas,2022-03-05,9,480098,4320882,Transferencia
+94748,Julio Lorenzo,Corral,Taladro,Herramientas Eléctricas,2023-09-10,5,377796,1888980,Efectivo
+97191,Primitivo Benet,Corral,Ampolleta LED,Iluminación,2022-03-26,4,354399,1417596,Tarjeta Crédito
+37806,Nydia Lara,Lanco,Ampolleta LED,Iluminación,2022-08-23,8,195392,1563136,Efectivo
+34334,Víctor Canet,Mariquina,Televisor LED,Línea Marrón,2022-08-30,7,100742,705194,Tarjeta Débito
+63485,Evelia Lillo,Corral,Esmeril Angular,Herramientas Eléctricas,2023-09-06,1,247047,247047,Tarjeta Crédito
+69828,Violeta Sans,Máfil,Televisor LED,Línea Marrón,2024-01-27,4,233768,935072,Efectivo
+54716,Demetrio Gascón,Lanco,Equipo de Música,Línea Marrón,2023-08-17,1,270340,270340,Efectivo
+46705,Olalla Vilalta,Lago Ranco,Equipo de Música,Línea Marrón,2024-06-18,4,324763,1299052,Efectivo
+23225,América Heredia,Corral,Sierra Circular,Herramientas Eléctricas,2024-06-06,3,248966,746898,Efectivo
+32095,Julio César Vazquez,Los Lagos,Sierra Circular,Herramientas Eléctricas,2022-12-25,5,443149,2215745,Tarjeta Crédito
+61053,Germán Farré,Río Bueno,Tubo Fluorescente,Iluminación,2022-02-08,2,318973,637946,Tarjeta Crédito
+97335,Adelina Agullo,Paillaco,Esmeril Angular,Herramientas Eléctricas,2024-04-25,5,411696,2058480,Efectivo
+77199,Jordi Iriarte,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2023-11-25,4,291342,1165368,Tarjeta Crédito
+36985,Victorino Herrero,Corral,Cocina Eléctrica,Línea Blanca,2022-08-23,8,390138,3121104,Tarjeta Crédito
+36971,Leandra Elías,Los Lagos,Refrigerador,Línea Blanca,2022-01-14,3,486696,1460088,Tarjeta Débito
+94555,Nilo Gelabert,Valdivia,Taladro,Herramientas Eléctricas,2022-08-17,1,118908,118908,Tarjeta Débito
+31990,María Fernanda Montesinos,Lago Ranco,Home Theater,Línea Marrón,2023-08-27,3,291105,873315,Efectivo
+25747,Visitación Cañete,Lago Ranco,Home Theater,Línea Marrón,2023-03-10,1,475085,475085,Efectivo
+66876,Rosario Amaya,Lanco,Esmeril Angular,Herramientas Eléctricas,2023-05-30,2,456095,912190,Tarjeta Débito
+40802,Pacífica Font,Valdivia,Home Theater,Línea Marrón,2022-02-19,4,357622,1430488,Tarjeta Crédito
+56828,Ariadna Piquer,Máfil,Home Theater,Línea Marrón,2022-12-17,4,322391,1289564,Tarjeta Débito
+84938,Efraín Cabo,Mariquina,Sierra Circular,Herramientas Eléctricas,2022-12-17,1,334931,334931,Efectivo
+67999,Raimundo Boada,Futrono,Foco LED,Iluminación,2023-08-07,2,413474,826948,Efectivo
+31834,Clemente Otero,Paillaco,Ampolleta LED,Iluminación,2022-05-04,6,129078,774468,Transferencia
+45052,Vito Arana,Máfil,Foco LED,Iluminación,2024-04-09,4,274712,1098848,Transferencia
+92658,Rafaela Sáenz,Lago Ranco,Microondas,Línea Blanca,2022-04-01,9,183936,1655424,Tarjeta Débito
+65804,Flora Villanueva,Los Lagos,Equipo de Música,Línea Marrón,2023-12-11,3,367765,1103295,Efectivo
+40262,Sigfrido Gomis,Futrono,Foco LED,Iluminación,2023-01-17,1,364431,364431,Tarjeta Débito
+79142,Paco Vila,Mariquina,Equipo de Música,Línea Marrón,2024-01-23,8,309991,2479928,Tarjeta Débito
+11712,Javiera Cruz,Panguipulli,Televisor LED,Línea Marrón,2023-08-17,2,159991,319982,Transferencia
+87554,Teobaldo Parra,Corral,Lavadora,Línea Blanca,2022-05-01,9,69091,621819,Efectivo
+77893,Cecilio Terrón,Panguipulli,Equipo de Música,Línea Marrón,2022-12-05,3,485742,1457226,Transferencia
+14836,Rita Carretero,Río Bueno,Tubo Fluorescente,Iluminación,2022-11-12,2,197553,395106,Tarjeta Débito
+61152,Belén Márquez,Mariquina,Esmeril Angular,Herramientas Eléctricas,2022-05-26,6,306792,1840752,Tarjeta Débito
+47797,Pía Larrea,La Unión,Esmeril Angular,Herramientas Eléctricas,2022-03-31,3,155093,465279,Transferencia
+60639,Guillermo Estévez,Futrono,Home Theater,Línea Marrón,2024-03-20,8,163237,1305896,Tarjeta Crédito
+29999,Antonia Lucena,Paillaco,Televisor LED,Línea Marrón,2022-09-19,2,253739,507478,Transferencia
+70009,Lupe Salom,Panguipulli,Cocina Eléctrica,Línea Blanca,2023-10-03,1,236217,236217,Tarjeta Crédito
+66665,Hermenegildo Vera,Mariquina,Equipo de Música,Línea Marrón,2024-03-10,1,436622,436622,Tarjeta Crédito
+42914,Graciano Gomis,Futrono,Taladro,Herramientas Eléctricas,2022-11-25,3,124045,372135,Transferencia
+79066,José Palacio,Lanco,Esmeril Angular,Herramientas Eléctricas,2022-10-25,3,348067,1044201,Transferencia
+50882,Fulgencio Anaya,Futrono,Televisor LED,Línea Marrón,2024-04-27,2,244355,488710,Tarjeta Débito
+84348,Alejandra Leon,Mariquina,Cocina Eléctrica,Línea Blanca,2023-11-17,5,377260,1886300,Tarjeta Débito
+92839,Vito Marcos,Panguipulli,Foco LED,Iluminación,2023-07-02,8,438004,3504032,Efectivo
+95229,Tomás Río,Lanco,Lavadora,Línea Blanca,2024-06-07,4,45387,181548,Tarjeta Débito
+56790,Elena Sanabria,Los Lagos,Televisor LED,Línea Marrón,2022-09-17,7,460272,3221904,Tarjeta Débito
+16552,Clara Piña,Río Bueno,Taladro,Herramientas Eléctricas,2024-02-14,3,216613,649839,Efectivo
+78834,Nacio Giralt,Valdivia,Televisor LED,Línea Marrón,2023-08-03,4,39279,157116,Tarjeta Crédito
+53495,Aroa Peláez,Río Bueno,Equipo de Música,Línea Marrón,2023-11-27,5,429902,2149510,Tarjeta Crédito
+27776,Salomé Solé,Futrono,Esmeril Angular,Herramientas Eléctricas,2023-08-16,8,187553,1500424,Tarjeta Crédito
+16634,Perla Vila,Lanco,Foco LED,Iluminación,2023-06-23,4,421258,1685032,Efectivo
+87501,Joaquina Domingo,Máfil,Esmeril Angular,Herramientas Eléctricas,2022-10-14,6,40505,243030,Tarjeta Débito
+50010,Bernarda Gordillo,Los Lagos,Sierra Circular,Herramientas Eléctricas,2022-08-16,6,483431,2900586,Tarjeta Crédito
+53751,Cruz Niño,Máfil,Televisor LED,Línea Marrón,2024-03-21,2,185156,370312,Transferencia
+66026,Reyna Borrell,Paillaco,Ampolleta LED,Iluminación,2023-03-31,9,328622,2957598,Tarjeta Crédito
+59740,Carlito Vall,Corral,Refrigerador,Línea Blanca,2022-06-21,9,375773,3381957,Tarjeta Crédito
+35285,Odalis Ferrán,La Unión,Esmeril Angular,Herramientas Eléctricas,2022-05-12,4,374583,1498332,Transferencia
+38332,Bartolomé Torrens,Panguipulli,Foco LED,Iluminación,2022-05-30,8,106843,854744,Transferencia
+61828,Azucena Ripoll,Futrono,Ampolleta LED,Iluminación,2024-04-19,4,319474,1277896,Transferencia
+84742,Ofelia Camps,Mariquina,Microondas,Línea Blanca,2023-07-05,5,46674,233370,Transferencia
+74562,Marisa Cortés,Paillaco,Foco LED,Iluminación,2022-08-09,6,168470,1010820,Efectivo
+62498,Encarnación Cerdán,Panguipulli,Sierra Circular,Herramientas Eléctricas,2023-03-29,2,38697,77394,Transferencia
+15632,Amelia Carvajal,Futrono,Foco LED,Iluminación,2022-03-01,3,489732,1469196,Tarjeta Crédito
+66509,Piedad Gil,Lanco,Sierra Circular,Herramientas Eléctricas,2022-11-30,7,88739,621173,Transferencia
+84538,Estela Cornejo,La Unión,Ampolleta LED,Iluminación,2022-11-02,1,277088,277088,Tarjeta Crédito
+21494,Sarita Navarrete,Corral,Televisor LED,Línea Marrón,2023-12-01,6,444430,2666580,Tarjeta Débito
+60563,Aurelio Águila,Lanco,Sierra Circular,Herramientas Eléctricas,2023-06-20,8,108655,869240,Transferencia
+68892,Desiderio Machado,Mariquina,Esmeril Angular,Herramientas Eléctricas,2023-03-14,1,21637,21637,Tarjeta Crédito
+61000,Camilo Ruiz,Los Lagos,Ampolleta LED,Iluminación,2022-10-02,3,295600,886800,Transferencia
+83136,Nayara Vallés,Corral,Foco LED,Iluminación,2023-10-06,5,302106,1510530,Tarjeta Débito
+30711,Macario Bello,Futrono,Taladro,Herramientas Eléctricas,2024-06-21,2,135704,271408,Tarjeta Crédito
+32116,Alicia Palomino,Río Bueno,Taladro,Herramientas Eléctricas,2023-08-17,9,452480,4072320,Tarjeta Crédito
+92980,Genoveva Bolaños,La Unión,Microondas,Línea Blanca,2023-12-28,3,44054,132162,Tarjeta Crédito
+56798,Águeda Esparza,Los Lagos,Ampolleta LED,Iluminación,2022-09-16,8,334363,2674904,Efectivo
+27235,Fabián Mínguez,Lago Ranco,Taladro,Herramientas Eléctricas,2023-01-10,7,86974,608818,Efectivo
+65958,Aureliano Sastre,Futrono,Foco LED,Iluminación,2023-10-13,2,366297,732594,Tarjeta Débito
+68083,Abigaíl Huertas,Lanco,Sierra Circular,Herramientas Eléctricas,2024-03-09,2,379158,758316,Tarjeta Débito
+69047,Martirio Alegre,Paillaco,Taladro,Herramientas Eléctricas,2024-05-27,8,436358,3490864,Tarjeta Crédito
+99355,Abigaíl Acuña,Valdivia,Foco LED,Iluminación,2023-03-10,6,483300,2899800,Transferencia
+30319,Sandalio Cañas,Lanco,Televisor LED,Línea Marrón,2023-07-31,2,195405,390810,Transferencia
+26188,Roxana Mir,Los Lagos,Sierra Circular,Herramientas Eléctricas,2023-07-16,6,421455,2528730,Tarjeta Crédito
+87120,Rosalinda Ripoll,Futrono,Esmeril Angular,Herramientas Eléctricas,2024-04-24,2,58386,116772,Tarjeta Crédito
+51502,Roberto Serna,Lanco,Equipo de Música,Línea Marrón,2022-09-21,8,335885,2687080,Tarjeta Crédito
+73052,Jessica Pla,Máfil,Cocina Eléctrica,Línea Blanca,2024-06-02,7,144364,1010548,Tarjeta Crédito
+95850,Maxi Suárez,Río Bueno,Televisor LED,Línea Marrón,2023-03-01,4,242619,970476,Tarjeta Débito
+11008,Gema Blázquez,Los Lagos,Cocina Eléctrica,Línea Blanca,2022-11-26,3,248116,744348,Efectivo
+24104,Lisandro Exposito,Futrono,Equipo de Música,Línea Marrón,2023-07-05,2,426955,853910,Tarjeta Débito
+56058,Tamara Vives,Lanco,Ampolleta LED,Iluminación,2024-01-31,7,459152,3214064,Efectivo
+54598,Nando Bautista,Lago Ranco,Ampolleta LED,Iluminación,2022-08-16,5,196778,983890,Transferencia
+98881,Hernán Marquez,Lanco,Microondas,Línea Blanca,2023-09-12,9,468097,4212873,Tarjeta Crédito
+73867,Wálter Cárdenas,Futrono,Televisor LED,Línea Marrón,2024-06-25,1,396194,396194,Efectivo
+84409,Ángeles Silva,Los Lagos,Tubo Fluorescente,Iluminación,2023-07-14,2,249000,498000,Efectivo
+26999,Martirio Zabaleta,Los Lagos,Foco LED,Iluminación,2023-07-26,9,58764,528876,Tarjeta Débito
+88561,Camila Barriga,Valdivia,Televisor LED,Línea Marrón,2022-02-26,6,134375,806250,Tarjeta Débito
+68106,Custodio Sabater,La Unión,Esmeril Angular,Herramientas Eléctricas,2023-01-19,1,333173,333173,Tarjeta Crédito
+74451,Camilo Exposito,Lago Ranco,Tubo Fluorescente,Iluminación,2023-12-29,2,335827,671654,Efectivo
+41903,Nacho Pérez,Panguipulli,Televisor LED,Línea Marrón,2023-09-20,9,242434,2181906,Transferencia
+12524,Rebeca Montero,Mariquina,Equipo de Música,Línea Marrón,2022-07-23,4,354053,1416212,Efectivo
+81201,Lázaro Arenas,Futrono,Sierra Circular,Herramientas Eléctricas,2022-07-06,1,36648,36648,Tarjeta Crédito
+45962,Andrés Felipe Pinilla,Máfil,Lavadora,Línea Blanca,2023-01-05,9,267205,2404845,Transferencia
+32424,Luisa Figueras,Los Lagos,Sierra Circular,Herramientas Eléctricas,2022-04-23,2,492631,985262,Tarjeta Crédito
+93084,Martín Sevilla,Paillaco,Equipo de Música,Línea Marrón,2022-08-15,6,458877,2753262,Efectivo
+31798,Bárbara Boix,Máfil,Home Theater,Línea Marrón,2022-01-11,9,121233,1091097,Tarjeta Débito
+46456,Perlita Múñiz,Panguipulli,Home Theater,Línea Marrón,2023-08-31,9,42928,386352,Transferencia
+80160,Agustina Cordero,Futrono,Sierra Circular,Herramientas Eléctricas,2022-12-07,8,346624,2772992,Efectivo
+77005,Vito Ureña,Río Bueno,Taladro,Herramientas Eléctricas,2023-11-29,1,30346,30346,Transferencia
+53752,Isidoro Seco,Valdivia,Televisor LED,Línea Marrón,2024-05-22,9,118100,1062900,Tarjeta Débito
+23633,Che Carreras,Máfil,Foco LED,Iluminación,2023-01-16,6,295664,1773984,Efectivo
+32902,Jose Ignacio Sales,Futrono,Ampolleta LED,Iluminación,2023-06-22,7,265417,1857919,Tarjeta Crédito
+37445,Daniela Ferreras,Futrono,Equipo de Música,Línea Marrón,2022-03-03,9,251710,2265390,Transferencia
+68919,Mayte Cifuentes,Corral,Esmeril Angular,Herramientas Eléctricas,2023-03-27,4,453677,1814708,Efectivo
+71767,Rubén Gelabert,Mariquina,Televisor LED,Línea Marrón,2022-12-19,9,390294,3512646,Tarjeta Crédito
+56785,Daniel Ballesteros,Río Bueno,Equipo de Música,Línea Marrón,2023-11-19,1,396585,396585,Transferencia
+87848,Irene Abella,La Unión,Equipo de Música,Línea Marrón,2024-03-16,6,334239,2005434,Tarjeta Crédito
+71062,Jesús Hervás,Río Bueno,Tubo Fluorescente,Iluminación,2023-04-28,8,457955,3663640,Tarjeta Débito
+40036,Gilberto Suarez,Lago Ranco,Foco LED,Iluminación,2022-01-02,4,298234,1192936,Tarjeta Débito
+49143,Teodora Carballo,Río Bueno,Sierra Circular,Herramientas Eléctricas,2023-07-13,6,399576,2397456,Efectivo
+65344,Jacinta Arteaga,Valdivia,Equipo de Música,Línea Marrón,2024-04-02,3,318861,956583,Efectivo
+43065,Lorenzo Bayona,Corral,Televisor LED,Línea Marrón,2022-05-21,6,457862,2747172,Tarjeta Crédito
+32440,Anselma Hoz,Mariquina,Tubo Fluorescente,Iluminación,2022-07-17,9,380888,3427992,Tarjeta Crédito
+76574,Gregorio Seco,La Unión,Microondas,Línea Blanca,2022-06-02,9,362282,3260538,Tarjeta Débito
+10368,Eugenio Rodríguez,La Unión,Microondas,Línea Blanca,2023-11-27,2,30382,60764,Transferencia
+17881,Edu Goicoechea,Río Bueno,Foco LED,Iluminación,2022-09-20,1,454288,454288,Tarjeta Crédito
+68245,Bruno Cuenca,La Unión,Foco LED,Iluminación,2022-02-09,8,144771,1158168,Tarjeta Crédito
+28369,Jose Ignacio Sales,Panguipulli,Home Theater,Línea Marrón,2022-03-02,5,292467,1462335,Tarjeta Débito
+31646,Débora Hervia,Mariquina,Televisor LED,Línea Marrón,2023-11-10,1,328498,328498,Tarjeta Crédito
+45608,Nicolás Monreal,Río Bueno,Tubo Fluorescente,Iluminación,2022-07-21,6,424877,2549262,Tarjeta Crédito
+59731,Fito Luz,Lanco,Lavadora,Línea Blanca,2023-10-17,7,214614,1502298,Tarjeta Crédito
+36200,Rosendo Beltran,Paillaco,Home Theater,Línea Marrón,2023-07-26,4,150270,601080,Efectivo
+50492,Anna Escobar,Máfil,Tubo Fluorescente,Iluminación,2023-09-19,4,165571,662284,Tarjeta Crédito
+22301,Jonatan Cabrero,Valdivia,Foco LED,Iluminación,2022-06-01,9,62734,564606,Efectivo
+75032,Carmela Martorell,Panguipulli,Taladro,Herramientas Eléctricas,2024-02-11,3,318119,954357,Transferencia
+61455,Elisa Espada,Máfil,Sierra Circular,Herramientas Eléctricas,2024-04-02,7,289712,2027984,Tarjeta Débito
+52961,Jose Antonio Narváez,Los Lagos,Televisor LED,Línea Marrón,2022-01-04,6,266622,1599732,Tarjeta Crédito
+14389,María Luisa Corral,Panguipulli,Tubo Fluorescente,Iluminación,2023-01-18,6,135476,812856,Efectivo
+60748,Tomás Montesinos,Lanco,Refrigerador,Línea Blanca,2022-09-24,4,125550,502200,Tarjeta Débito
+32438,Laura Palomares,Mariquina,Televisor LED,Línea Marrón,2022-11-13,9,309480,2785320,Efectivo
+29518,María Robles,Máfil,Televisor LED,Línea Marrón,2024-05-22,9,270974,2438766,Transferencia
+81522,Rosa María Valverde,Paillaco,Foco LED,Iluminación,2023-12-16,1,38483,38483,Tarjeta Crédito
+50939,Luis Capdevila,Río Bueno,Lavadora,Línea Blanca,2024-01-17,1,278240,278240,Efectivo
+69435,Chita Casanova,Máfil,Taladro,Herramientas Eléctricas,2022-04-27,5,385505,1927525,Transferencia
+35254,Cayetano Palomo,Valdivia,Ampolleta LED,Iluminación,2022-12-25,4,91120,364480,Tarjeta Crédito
+89275,Darío Costa,Futrono,Televisor LED,Línea Marrón,2023-04-11,4,228254,913016,Efectivo
+87228,Florinda Blanes,Paillaco,Cocina Eléctrica,Línea Blanca,2023-08-01,7,359049,2513343,Efectivo
+64352,Carlota Novoa,Corral,Equipo de Música,Línea Marrón,2022-08-30,5,315578,1577890,Tarjeta Crédito
+94436,Casandra Rodrigo,Valdivia,Lavadora,Línea Blanca,2023-02-05,3,186542,559626,Efectivo
+32219,Diego Poza,Corral,Foco LED,Iluminación,2023-10-11,9,464576,4181184,Tarjeta Débito
+48959,Vicenta Ribas,Los Lagos,Cocina Eléctrica,Línea Blanca,2024-03-23,9,425613,3830517,Efectivo
+62375,Clementina Echevarría,Lago Ranco,Equipo de Música,Línea Marrón,2022-09-02,3,395707,1187121,Tarjeta Crédito
+11651,Ana Salvà,La Unión,Cocina Eléctrica,Línea Blanca,2023-04-22,4,166545,666180,Tarjeta Débito
+91255,Fabiola Romeu,Máfil,Home Theater,Línea Marrón,2023-07-17,6,128077,768462,Efectivo
+63653,Marino Blasco,Río Bueno,Foco LED,Iluminación,2023-11-06,4,466162,1864648,Transferencia
+88198,Camila Puga,Los Lagos,Taladro,Herramientas Eléctricas,2022-11-20,7,311333,2179331,Tarjeta Débito
+35206,Agustina Manzanares,La Unión,Esmeril Angular,Herramientas Eléctricas,2023-04-05,7,442007,3094049,Efectivo
+10441,Fabricio Jurado,Paillaco,Refrigerador,Línea Blanca,2022-09-23,6,217621,1305726,Efectivo
+29177,Conrado Escalona,Río Bueno,Home Theater,Línea Marrón,2023-04-09,3,466088,1398264,Tarjeta Débito
+17420,Valero Juárez,Mariquina,Taladro,Herramientas Eléctricas,2023-03-02,5,126557,632785,Efectivo
+25644,Sarita Vélez,Máfil,Refrigerador,Línea Blanca,2022-05-12,3,201424,604272,Transferencia
+98781,Alexandra López,Futrono,Equipo de Música,Línea Marrón,2022-02-06,8,359513,2876104,Transferencia
+45656,Gertrudis Lopez,Lanco,Cocina Eléctrica,Línea Blanca,2023-02-25,1,94204,94204,Tarjeta Débito
+25421,Noé Sierra,La Unión,Cocina Eléctrica,Línea Blanca,2023-12-28,8,296853,2374824,Tarjeta Crédito
+97765,Priscila Rosado,Corral,Refrigerador,Línea Blanca,2023-11-06,8,363466,2907728,Tarjeta Débito
+18813,Leonel Lara,Futrono,Home Theater,Línea Marrón,2022-07-22,9,412964,3716676,Efectivo
+21018,María Teresa Valera,Valdivia,Sierra Circular,Herramientas Eléctricas,2023-12-08,5,62912,314560,Transferencia
+94967,Marco Yáñez,La Unión,Foco LED,Iluminación,2024-04-29,6,280119,1680714,Transferencia
+18838,Encarna Pacheco,Valdivia,Tubo Fluorescente,Iluminación,2023-03-18,7,23656,165592,Tarjeta Débito
+44948,Óscar Rosselló,Futrono,Lavadora,Línea Blanca,2022-08-26,4,104911,419644,Efectivo
+56232,Martín Ferrero,Lago Ranco,Tubo Fluorescente,Iluminación,2023-05-01,9,361523,3253707,Efectivo
+42665,Xiomara Huguet,Corral,Microondas,Línea Blanca,2022-11-02,8,216459,1731672,Tarjeta Crédito
+74175,María Ángeles Gomis,Los Lagos,Tubo Fluorescente,Iluminación,2023-08-25,3,399119,1197357,Transferencia
+71619,Emelina Bayona,Futrono,Equipo de Música,Línea Marrón,2022-11-04,7,131289,919023,Transferencia
+48787,Nilo Noguera,Lago Ranco,Taladro,Herramientas Eléctricas,2023-11-25,8,76607,612856,Transferencia
+76066,Danilo Molina,Futrono,Home Theater,Línea Marrón,2024-01-22,8,122561,980488,Transferencia
+83049,Anselma Somoza,Valdivia,Televisor LED,Línea Marrón,2022-04-04,1,35228,35228,Tarjeta Crédito
+11473,Julieta Barragán,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2024-02-27,4,326465,1305860,Transferencia
+97272,Teodosio Zamorano,Panguipulli,Foco LED,Iluminación,2023-09-11,3,417384,1252152,Tarjeta Crédito
+49010,Toribio Baena,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2023-04-19,3,187344,562032,Transferencia
+55374,Emilia Rueda,Panguipulli,Esmeril Angular,Herramientas Eléctricas,2023-11-27,8,429285,3434280,Tarjeta Crédito
+71854,Dalila Luque,Lago Ranco,Televisor LED,Línea Marrón,2022-09-23,6,143637,861822,Efectivo
+90365,Abilio Escrivá,Paillaco,Home Theater,Línea Marrón,2024-05-23,4,490035,1960140,Transferencia
+50323,Modesta Isern,Lanco,Tubo Fluorescente,Iluminación,2023-06-09,5,48890,244450,Tarjeta Débito
+46444,Pía Escrivá,Corral,Televisor LED,Línea Marrón,2022-09-07,9,179365,1614285,Efectivo
+26276,Teófilo Álvarez,Mariquina,Esmeril Angular,Herramientas Eléctricas,2023-01-23,9,195927,1763343,Efectivo
+11862,Silvestre Casanova,Lanco,Home Theater,Línea Marrón,2024-04-07,1,133608,133608,Transferencia
+48803,Rafael Roig,Paillaco,Equipo de Música,Línea Marrón,2023-08-19,3,484484,1453452,Efectivo
+44781,Severiano Nebot,Valdivia,Foco LED,Iluminación,2024-05-28,7,300692,2104844,Tarjeta Crédito
+48943,Severino Roig,Lanco,Home Theater,Línea Marrón,2023-12-26,2,237919,475838,Tarjeta Crédito
+85068,Marino Villena,Valdivia,Taladro,Herramientas Eléctricas,2024-05-21,8,183844,1470752,Tarjeta Débito
+22088,Modesta Samper,Máfil,Cocina Eléctrica,Línea Blanca,2023-12-10,8,157879,1263032,Transferencia
+82353,Saturnino Royo,La Unión,Sierra Circular,Herramientas Eléctricas,2023-10-21,9,244539,2200851,Efectivo
+74304,Marcelino Buendía,Lago Ranco,Home Theater,Línea Marrón,2023-04-30,7,277655,1943585,Tarjeta Débito
+96709,Roberta Díaz,Máfil,Refrigerador,Línea Blanca,2023-07-02,8,52064,416512,Efectivo
+66893,Galo Esteve,Río Bueno,Home Theater,Línea Marrón,2024-03-02,3,489043,1467129,Tarjeta Crédito
+81620,Isa Abad,Paillaco,Tubo Fluorescente,Iluminación,2024-04-27,8,160725,1285800,Efectivo
+26692,Casandra Viña,Mariquina,Microondas,Línea Blanca,2024-03-17,7,47250,330750,Efectivo
+27457,Mireia Morera,Mariquina,Tubo Fluorescente,Iluminación,2022-10-03,6,263470,1580820,Efectivo
+23518,Joaquín Barreda,Corral,Foco LED,Iluminación,2023-02-27,2,130698,261396,Tarjeta Crédito
+90290,Elba Luna,Lago Ranco,Tubo Fluorescente,Iluminación,2023-11-24,6,142276,853656,Tarjeta Crédito
+44343,Cristina Seguí,Valdivia,Foco LED,Iluminación,2023-01-06,4,83116,332464,Transferencia
+60325,Odalys Gallo,Mariquina,Foco LED,Iluminación,2022-06-20,8,136710,1093680,Transferencia
+61970,Juan Pablo Comas,Lanco,Foco LED,Iluminación,2022-04-19,7,281269,1968883,Tarjeta Débito
+71796,Fulgencio Soler,Mariquina,Tubo Fluorescente,Iluminación,2022-01-26,2,77070,154140,Tarjeta Crédito
+42249,Adelardo Talavera,Panguipulli,Tubo Fluorescente,Iluminación,2023-08-28,9,492572,4433148,Transferencia
+91182,Dulce Huertas,Lanco,Tubo Fluorescente,Iluminación,2023-06-24,3,395609,1186827,Transferencia
+47969,Mireia Vigil,Lanco,Foco LED,Iluminación,2022-12-30,5,377481,1887405,Tarjeta Crédito
+67227,Alfredo Enríquez,Paillaco,Microondas,Línea Blanca,2022-05-02,9,248142,2233278,Tarjeta Crédito
+46488,Rebeca Céspedes,Lago Ranco,Taladro,Herramientas Eléctricas,2022-12-04,4,57751,231004,Transferencia
+97366,Darío Dueñas,Lanco,Equipo de Música,Línea Marrón,2022-07-31,5,31468,157340,Tarjeta Crédito
+50598,Javiera Rey,Panguipulli,Home Theater,Línea Marrón,2023-06-26,4,34554,138216,Efectivo
+49928,Cristian Cortés,Río Bueno,Home Theater,Línea Marrón,2024-03-17,8,12087,96696,Tarjeta Débito
+50919,Piedad Palomar,Panguipulli,Televisor LED,Línea Marrón,2024-04-03,5,471679,2358395,Tarjeta Crédito
+75459,Efraín Mesa,Panguipulli,Lavadora,Línea Blanca,2022-01-12,2,345177,690354,Transferencia
+58994,Nayara Vallés,Río Bueno,Televisor LED,Línea Marrón,2022-02-04,7,451001,3157007,Tarjeta Crédito
+27831,Valerio Coloma,Paillaco,Refrigerador,Línea Blanca,2022-09-04,7,64845,453915,Transferencia
+20343,Felix Pardo,La Unión,Lavadora,Línea Blanca,2022-11-08,2,35181,70362,Efectivo
+12796,Onofre Marí,Lago Ranco,Microondas,Línea Blanca,2024-03-11,8,252154,2017232,Efectivo
+60492,Lupe Borrell,Los Lagos,Ampolleta LED,Iluminación,2023-05-29,1,209916,209916,Tarjeta Crédito
+24677,Cándido Rodríguez,La Unión,Foco LED,Iluminación,2024-02-27,8,342746,2741968,Transferencia
+25562,María Teresa Verdugo,Valdivia,Home Theater,Línea Marrón,2022-09-23,9,137906,1241154,Efectivo
+96690,Epifanio Ribas,Mariquina,Foco LED,Iluminación,2022-03-17,3,451587,1354761,Efectivo
+88279,Ariel Narváez,Lanco,Televisor LED,Línea Marrón,2024-02-27,4,252428,1009712,Tarjeta Débito
+45334,Maite Benet,Valdivia,Ampolleta LED,Iluminación,2022-06-16,7,495168,3466176,Tarjeta Crédito
+93408,Débora Navarrete,Valdivia,Home Theater,Línea Marrón,2024-03-21,7,227299,1591093,Tarjeta Débito
+87284,Octavio Lago,Máfil,Taladro,Herramientas Eléctricas,2024-05-19,8,294997,2359976,Efectivo
+77678,Ernesto Sotelo,Lago Ranco,Televisor LED,Línea Marrón,2023-02-23,5,403736,2018680,Transferencia
+20721,Mariano Valcárcel,Mariquina,Esmeril Angular,Herramientas Eléctricas,2022-04-07,2,347612,695224,Tarjeta Crédito
+30609,Hugo Ramirez,Río Bueno,Equipo de Música,Línea Marrón,2022-07-12,7,166317,1164219,Transferencia
+71741,Isa Sacristán,Valdivia,Home Theater,Línea Marrón,2024-03-21,9,417469,3757221,Tarjeta Débito
+66075,Imelda Catalá,Los Lagos,Ampolleta LED,Iluminación,2022-02-11,8,351782,2814256,Tarjeta Crédito
+14527,Telmo Serrano,Paillaco,Televisor LED,Línea Marrón,2022-04-03,8,127406,1019248,Efectivo
+89807,Carlito Chaves,Panguipulli,Taladro,Herramientas Eléctricas,2022-02-06,2,220003,440006,Tarjeta Débito
+14432,Tristán Sosa,Río Bueno,Tubo Fluorescente,Iluminación,2022-09-25,8,369314,2954512,Efectivo
+82020,Lupita Benito,Mariquina,Televisor LED,Línea Marrón,2023-02-04,5,390387,1951935,Tarjeta Débito
+74727,Azucena Giralt,Río Bueno,Refrigerador,Línea Blanca,2022-10-08,1,94872,94872,Tarjeta Crédito
+73041,Remigio Canales,Corral,Ampolleta LED,Iluminación,2022-01-03,5,489508,2447540,Efectivo
+24000,Melchor Garmendia,Futrono,Sierra Circular,Herramientas Eléctricas,2023-08-28,6,166454,998724,Tarjeta Crédito
+29624,Teófila Chico,Máfil,Tubo Fluorescente,Iluminación,2023-11-10,7,455116,3185812,Tarjeta Crédito
+86580,Jesusa Vallejo,Valdivia,Taladro,Herramientas Eléctricas,2022-07-27,2,268583,537166,Tarjeta Débito
+79867,Jaime Reina,Lanco,Microondas,Línea Blanca,2022-11-18,8,190504,1524032,Tarjeta Crédito
+10348,Rosario Jódar,Río Bueno,Ampolleta LED,Iluminación,2022-06-20,2,362216,724432,Tarjeta Débito
+42070,Claudia Martinez,Paillaco,Ampolleta LED,Iluminación,2022-12-08,7,246804,1727628,Tarjeta Crédito
+20727,Augusto Recio,Máfil,Foco LED,Iluminación,2022-04-14,5,279052,1395260,Transferencia
+42359,Angelita Márquez,Panguipulli,Ampolleta LED,Iluminación,2022-11-27,8,374291,2994328,Tarjeta Crédito
+76739,Charo Gonzalo,Paillaco,Sierra Circular,Herramientas Eléctricas,2022-05-21,6,448546,2691276,Efectivo
+64838,Humberto Bertrán,Corral,Microondas,Línea Blanca,2022-10-03,1,471204,471204,Transferencia
+57523,Azeneth Escrivá,Lanco,Equipo de Música,Línea Marrón,2022-07-16,1,325803,325803,Transferencia
+90968,Federico Valls,La Unión,Taladro,Herramientas Eléctricas,2022-04-04,5,200219,1001095,Tarjeta Débito
+73484,Pili López,Lanco,Foco LED,Iluminación,2022-05-31,6,26918,161508,Efectivo
+86494,Silvia Ribes,Corral,Home Theater,Línea Marrón,2022-05-22,1,327044,327044,Efectivo
+36125,Jimena Colom,Los Lagos,Taladro,Herramientas Eléctricas,2022-11-12,7,102460,717220,Transferencia
+49127,Basilio Martí,Mariquina,Microondas,Línea Blanca,2023-09-07,3,98165,294495,Transferencia
+69863,Maximiliano Donoso,Futrono,Ampolleta LED,Iluminación,2022-05-24,7,122744,859208,Transferencia
+83351,Petrona Elías,Los Lagos,Televisor LED,Línea Marrón,2024-02-07,6,166059,996354,Tarjeta Crédito
+28416,Joaquín Polo,Valdivia,Esmeril Angular,Herramientas Eléctricas,2023-07-31,9,290326,2612934,Tarjeta Débito
+87269,Zoraida Hidalgo,Lago Ranco,Equipo de Música,Línea Marrón,2024-06-27,6,372866,2237196,Transferencia
+12236,Lupe Vicens,Panguipulli,Cocina Eléctrica,Línea Blanca,2023-03-24,2,224431,448862,Transferencia
+59618,Leocadio Alegre,Panguipulli,Home Theater,Línea Marrón,2024-05-20,4,216762,867048,Tarjeta Crédito
+39282,Odalis Valle,La Unión,Home Theater,Línea Marrón,2022-04-28,5,113318,566590,Tarjeta Débito
+12660,Herminio Vazquez,Valdivia,Sierra Circular,Herramientas Eléctricas,2022-05-17,9,300379,2703411,Efectivo
+86613,Bernardino Lastra,Mariquina,Esmeril Angular,Herramientas Eléctricas,2022-03-10,4,295200,1180800,Transferencia
+80708,Carla Pi,Valdivia,Ampolleta LED,Iluminación,2022-06-10,7,340506,2383542,Tarjeta Crédito
+92379,Marino Arranz,Corral,Esmeril Angular,Herramientas Eléctricas,2023-02-26,6,422233,2533398,Transferencia
+70039,María Manuela Sedano,Los Lagos,Taladro,Herramientas Eléctricas,2022-12-24,4,252572,1010288,Tarjeta Crédito
+63612,Baudelio Azcona,Mariquina,Taladro,Herramientas Eléctricas,2024-05-07,8,287433,2299464,Tarjeta Débito
+47858,Clara Casado,Mariquina,Ampolleta LED,Iluminación,2024-05-13,5,145198,725990,Tarjeta Débito
+44062,Cintia Rocha,Corral,Taladro,Herramientas Eléctricas,2022-05-08,7,127058,889406,Tarjeta Débito
+21296,Filomena Caballero,Valdivia,Tubo Fluorescente,Iluminación,2022-06-25,1,407503,407503,Efectivo
+85702,Albino Lloret,Máfil,Cocina Eléctrica,Línea Blanca,2022-08-01,9,293721,2643489,Tarjeta Débito
+57892,Rufino Sevillano,Valdivia,Esmeril Angular,Herramientas Eléctricas,2022-07-07,4,155657,622628,Transferencia
+33620,Nydia Alberdi,La Unión,Sierra Circular,Herramientas Eléctricas,2023-03-16,6,441166,2646996,Tarjeta Débito
+52052,Valerio Sánchez,Lago Ranco,Sierra Circular,Herramientas Eléctricas,2022-06-07,9,97092,873828,Efectivo
+24164,Cosme Cerro,Lanco,Equipo de Música,Línea Marrón,2024-06-10,2,200998,401996,Tarjeta Crédito
+47899,Octavia Dueñas,Lago Ranco,Equipo de Música,Línea Marrón,2022-01-02,7,216952,1518664,Tarjeta Crédito
+82069,Darío Narváez,Río Bueno,Microondas,Línea Blanca,2023-04-01,7,438212,3067484,Tarjeta Débito
+59838,Marcos Reina,Río Bueno,Esmeril Angular,Herramientas Eléctricas,2024-03-28,5,113227,566135,Transferencia
+61373,Nereida Campo,Lanco,Tubo Fluorescente,Iluminación,2022-11-13,1,54509,54509,Transferencia
+61548,Patricio Cózar,Lanco,Esmeril Angular,Herramientas Eléctricas,2023-09-23,7,43526,304682,Tarjeta Crédito
+66999,Zoraida Verdugo,Corral,Tubo Fluorescente,Iluminación,2023-01-08,8,299105,2392840,Tarjeta Crédito
+20886,Hilda Mariscal,La Unión,Sierra Circular,Herramientas Eléctricas,2024-01-03,4,362405,1449620,Transferencia
+87472,Lucila Marí,Río Bueno,Cocina Eléctrica,Línea Blanca,2024-01-01,4,143862,575448,Tarjeta Débito
+27063,Nicolás Aparicio,Futrono,Ampolleta LED,Iluminación,2023-09-20,9,288351,2595159,Tarjeta Crédito
+74123,Elena Rivera,Paillaco,Lavadora,Línea Blanca,2024-02-08,3,410122,1230366,Efectivo
+49481,Crescencia Tamayo,Mariquina,Sierra Circular,Herramientas Eléctricas,2023-01-02,2,236256,472512,Transferencia
+83814,Josefa Benito,Máfil,Sierra Circular,Herramientas Eléctricas,2024-01-03,6,473580,2841480,Tarjeta Débito
+87062,Marco Romero,Valdivia,Taladro,Herramientas Eléctricas,2023-08-02,1,63564,63564,Efectivo
+77866,Anselmo Huerta,Paillaco,Cocina Eléctrica,Línea Blanca,2023-02-23,8,27516,220128,Tarjeta Crédito
+27920,Pío Pla,Río Bueno,Ampolleta LED,Iluminación,2022-06-02,3,285178,855534,Transferencia
+90898,Custodio Lara,Río Bueno,Foco LED,Iluminación,2023-08-04,1,303660,303660,Tarjeta Crédito
+78997,Adelardo Monreal,Valdivia,Cocina Eléctrica,Línea Blanca,2023-08-27,2,83706,167412,Tarjeta Crédito
+66947,Horacio Bermúdez,La Unión,Foco LED,Iluminación,2024-03-17,7,292474,2047318,Tarjeta Crédito
+64320,Tere Ribes,La Unión,Taladro,Herramientas Eléctricas,2024-03-14,9,489863,4408767,Tarjeta Débito
+96982,Anastasia Pujol,Los Lagos,Esmeril Angular,Herramientas Eléctricas,2023-04-05,3,383836,1151508,Transferencia
+67032,Rolando Alfonso,Panguipulli,Televisor LED,Línea Marrón,2024-06-18,2,153093,306186,Tarjeta Crédito
+20034,Enrique Izquierdo,Mariquina,Equipo de Música,Línea Marrón,2023-06-29,7,488015,3416105,Tarjeta Débito
+13209,Jorge Paz,Paillaco,Foco LED,Iluminación,2024-06-23,6,191542,1149252,Tarjeta Crédito
+96650,Irma Villanueva,Lago Ranco,Equipo de Música,Línea Marrón,2024-06-08,3,178339,535017,Efectivo
+68045,Simón Granados,Futrono,Home Theater,Línea Marrón,2022-09-10,9,349169,3142521,Transferencia
+16655,Jaime Plaza,Lago Ranco,Home Theater,Línea Marrón,2023-12-01,6,425880,2555280,Efectivo
+53412,Baldomero Casado,Corral,Televisor LED,Línea Marrón,2023-06-10,2,166205,332410,Tarjeta Crédito
+83936,Dorita Valenciano,La Unión,Home Theater,Línea Marrón,2022-09-11,5,193145,965725,Tarjeta Crédito
+87591,Manola Muñoz,Río Bueno,Equipo de Música,Línea Marrón,2022-08-10,2,376564,753128,Transferencia
+45403,Jafet Catalán,Río Bueno,Tubo Fluorescente,Iluminación,2023-11-25,5,273624,1368120,Transferencia
+66746,Josefa Lara,Corral,Taladro,Herramientas Eléctricas,2022-12-16,4,277200,1108800,Tarjeta Crédito
+31139,Jorge Baños,Lanco,Equipo de Música,Línea Marrón,2024-05-23,9,275552,2479968,Efectivo
+63076,Isaías Recio,Río Bueno,Foco LED,Iluminación,2023-02-16,1,455862,455862,Transferencia
+43997,Dora Conesa,Máfil,Sierra Circular,Herramientas Eléctricas,2022-04-10,1,279516,279516,Efectivo
+86473,Anselma Dávila,Mariquina,Cocina Eléctrica,Línea Blanca,2023-07-16,9,349260,3143340,Tarjeta Débito
+13157,Miguel Ángel Raya,Lago Ranco,Tubo Fluorescente,Iluminación,2023-12-13,7,220510,1543570,Tarjeta Débito
+63639,Eric Talavera,Paillaco,Foco LED,Iluminación,2024-01-30,1,171856,171856,Tarjeta Crédito
+66971,Tania Ferrán,Panguipulli,Lavadora,Línea Blanca,2023-12-05,3,15267,45801,Transferencia
+12382,Eva María Roca,Los Lagos,Microondas,Línea Blanca,2022-06-24,9,439104,3951936,Tarjeta Débito
+58064,Elena Guijarro,Mariquina,Taladro,Herramientas Eléctricas,2023-04-20,2,255464,510928,Tarjeta Débito
+17897,Marciano Roig,Lanco,Sierra Circular,Herramientas Eléctricas,2022-08-18,3,243883,731649,Tarjeta Débito
+37131,Roxana Segarra,Paillaco,Sierra Circular,Herramientas Eléctricas,2022-12-08,5,219765,1098825,Tarjeta Débito
+33709,Constanza Aroca,La Unión,Ampolleta LED,Iluminación,2024-04-17,4,122415,489660,Tarjeta Crédito
+77536,Febe Lerma,Futrono,Home Theater,Línea Marrón,2022-08-27,8,484405,3875240,Tarjeta Débito
+67914,Maricruz Sosa,Lago Ranco,Equipo de Música,Línea Marrón,2024-05-09,8,126712,1013696,Tarjeta Crédito
+33766,Buenaventura Benito,Panguipulli,Home Theater,Línea Marrón,2023-05-12,3,343142,1029426,Tarjeta Crédito
+31681,Natalio Rubio,Lanco,Refrigerador,Línea Blanca,2022-12-24,8,74956,599648,Tarjeta Crédito
+40936,Leocadia Peral,Mariquina,Ampolleta LED,Iluminación,2023-02-03,8,435280,3482240,Tarjeta Débito
+38052,Anunciación Baeza,La Unión,Tubo Fluorescente,Iluminación,2023-05-15,2,16648,33296,Tarjeta Débito
+72895,Camilo Alarcón,Lago Ranco,Tubo Fluorescente,Iluminación,2024-03-07,7,396181,2773267,Efectivo
+26363,Noemí Boada,Lanco,Ampolleta LED,Iluminación,2022-07-07,6,157801,946806,Tarjeta Crédito
+95757,Mamen Caro,Lago Ranco,Home Theater,Línea Marrón,2023-02-28,5,322109,1610545,Efectivo
+11939,Sonia Montoya,Lago Ranco,Home Theater,Línea Marrón,2024-01-23,4,169432,677728,Transferencia
+38414,Lalo Marqués,Panguipulli,Microondas,Línea Blanca,2023-08-10,2,116562,233124,Tarjeta Débito
+40756,Ovidio Casares,Los Lagos,Cocina Eléctrica,Línea Blanca,2024-03-30,7,112423,786961,Transferencia
+22807,Maristela Palmer,Panguipulli,Microondas,Línea Blanca,2024-04-16,8,119658,957264,Tarjeta Débito
+49274,Nilo Gallo,Lanco,Cocina Eléctrica,Línea Blanca,2023-12-08,2,329224,658448,Transferencia
+51386,Anita Villa,Los Lagos,Foco LED,Iluminación,2022-11-03,9,309880,2788920,Tarjeta Crédito
+34318,Macario Real,La Unión,Sierra Circular,Herramientas Eléctricas,2022-10-13,6,275476,1652856,Transferencia
+65284,Fátima Salvà,Futrono,Taladro,Herramientas Eléctricas,2024-04-29,2,493682,987364,Efectivo
+42016,Cándida Palacios,Corral,Lavadora,Línea Blanca,2022-07-11,7,392870,2750090,Transferencia
+75191,Loreto Tamayo,Panguipulli,Cocina Eléctrica,Línea Blanca,2023-06-15,2,119797,239594,Efectivo
+56652,Juan Anguita,Los Lagos,Equipo de Música,Línea Marrón,2024-03-21,6,406770,2440620,Tarjeta Crédito
+22728,Ángel Iriarte,Panguipulli,Sierra Circular,Herramientas Eléctricas,2022-06-21,6,163242,979452,Transferencia
+27180,Marisela Fabra,Río Bueno,Foco LED,Iluminación,2023-12-13,3,85639,256917,Efectivo
+98757,Gilberto Pazos,Panguipulli,Taladro,Herramientas Eléctricas,2022-03-25,5,100997,504985,Tarjeta Crédito
