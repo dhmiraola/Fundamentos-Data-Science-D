@@ -1,0 +1,1001 @@
+fecha,comuna,categoria,producto,cantidad,precio_unitario,total_venta,medio_pago,cliente_nuevo
+2023-11-23,Futrono,Ropa,Polera,3,100600.0,301800.0,Crédito,False
+2023-11-13,La Unión,Ropa,Chaqueta,4,192900.0,771600.0,Crédito,False
+2023-06-27,La Unión,Ropa,Polera,3,112100.0,336300.0,Débito,False
+2023-03-05,Lanco,Deportes,Balón,2,361400.0,722800.0,Efectivo,True
+2023-07-20,Panguipulli,Electrodomésticos,Microondas,2,297700.0,595400.0,Transferencia,True
+2023-11-04,Futrono,Alimentos,Huevos,1,466200.0,466200.0,Efectivo,False
+2023-07-28,Los Lagos,Deportes,Zapatillas,3,239800.0,719400.0,Efectivo,False
+2023-09-22,Los Lagos,Alimentos,Huevos,2,138900.0,277800.0,Débito,False
+2023-07-25,Mariquina,Hogar,Mesa,1,497500.0,497500.0,Crédito,False
+2023-02-26,Mariquina,Electrodomésticos,Hervidor,1,496400.0,496400.0,Efectivo,False
+2023-03-19,Río Bueno,Electrodomésticos,Refrigerador,4,402200.0,1608800.0,Débito,True
+2023-01-17,La Unión,Tecnología,Tablet,2,80100.0,160200.0,Débito,False
+2023-06-25,La Unión,Deportes,Bicicleta,4,263300.0,1053200.0,Transferencia,False
+2023-09-28,Río Bueno,Ropa,Pantalón,1,321400.0,321400.0,Débito,True
+2023-12-11,Los Lagos,Electrodomésticos,Microondas,1,452900.0,452900.0,Transferencia,True
+2023-09-30,Panguipulli,Alimentos,Leche,4,271100.0,1084400.0,Débito,False
+2023-08-23,Futrono,Tecnología,Tablet,3,225700.0,677100.0,Crédito,True
+2023-02-02,Corral,Electrodomésticos,Hervidor,1,316700.0,316700.0,Transferencia,True
+2023-01-02,Lanco,Hogar,Lámpara,4,190800.0,763200.0,Crédito,True
+2023-10-31,Río Bueno,Alimentos,Arroz,2,255100.0,510200.0,Débito,True
+2023-07-14,Lanco,Deportes,Zapatillas,1,436400.0,436400.0,Efectivo,True
+2023-08-09,Los Lagos,Electrodomésticos,Microondas,1,10700.0,10700.0,Crédito,False
+2023-01-22,Lanco,Deportes,Zapatillas,4,314000.0,1256000.0,Débito,False
+2023-07-11,Futrono,Hogar,Lámpara,2,452700.0,905400.0,Débito,False
+2023-02-12,Mariquina,Tecnología,Notebook,4,105700.0,422800.0,Crédito,True
+2023-04-09,Paillaco,Deportes,Bicicleta,1,228100.0,228100.0,Transferencia,False
+2023-01-28,Lanco,Hogar,Lámpara,4,390300.0,1561200.0,Transferencia,True
+2023-09-12,Valdivia,Hogar,Mesa,1,203900.0,203900.0,Transferencia,True
+2023-02-26,Panguipulli,Alimentos,Huevos,1,101200.0,101200.0,Efectivo,False
+2023-06-19,Panguipulli,Ropa,Chaqueta,4,349700.0,1398800.0,Transferencia,False
+2023-07-25,Panguipulli,Ropa,Polera,1,220900.0,220900.0,Débito,False
+2023-05-21,Mariquina,Hogar,Mesa,1,112500.0,112500.0,Crédito,False
+2023-02-19,Los Lagos,Tecnología,Tablet,1,304200.0,304200.0,Efectivo,False
+2023-06-26,Futrono,Electrodomésticos,Hervidor,2,343500.0,687000.0,Efectivo,True
+2023-11-29,Paillaco,Electrodomésticos,Hervidor,3,230200.0,690600.0,Débito,False
+2023-02-11,Valdivia,Deportes,Zapatillas,4,96300.0,385200.0,Débito,True
+2023-09-10,Corral,Electrodomésticos,Microondas,3,386800.0,1160400.0,Efectivo,False
+2023-08-18,Panguipulli,Hogar,Lámpara,1,356000.0,356000.0,Débito,True
+2023-10-15,Los Lagos,Ropa,Chaqueta,3,148800.0,446400.0,Débito,True
+2023-04-13,Panguipulli,Alimentos,Huevos,2,428900.0,857800.0,Crédito,False
+2023-09-17,Paillaco,Deportes,Balón,1,248100.0,248100.0,Efectivo,False
+2023-03-29,Los Lagos,Electrodomésticos,Refrigerador,2,13700.0,27400.0,Efectivo,False
+2023-11-21,Los Lagos,Tecnología,Notebook,2,56100.0,112200.0,Transferencia,True
+2023-08-15,La Unión,Ropa,Chaqueta,4,90900.0,363600.0,Débito,True
+2023-03-27,Futrono,Ropa,Pantalón,3,184700.0,554100.0,Débito,False
+2023-11-11,Corral,Deportes,Zapatillas,3,454200.0,1362600.0,Transferencia,True
+2023-11-07,Los Lagos,Tecnología,Celular,2,231000.0,462000.0,Débito,True
+2023-01-14,Lanco,Hogar,Mesa,4,354500.0,1418000.0,Crédito,False
+2023-06-20,Paillaco,Tecnología,Celular,1,114300.0,114300.0,Efectivo,False
+2023-03-19,Los Lagos,Tecnología,Tablet,4,343500.0,1374000.0,Efectivo,False
+2023-03-15,Paillaco,Ropa,Polera,4,127300.0,509200.0,Transferencia,True
+2023-04-26,Paillaco,Deportes,Balón,4,70200.0,280800.0,Transferencia,True
+2023-05-27,Panguipulli,Deportes,Balón,2,63900.0,127800.0,Transferencia,False
+2023-02-23,Paillaco,Deportes,Bicicleta,2,351400.0,702800.0,Débito,False
+2023-05-13,Río Bueno,Ropa,Chaqueta,3,452900.0,1358700.0,Efectivo,True
+2023-04-17,Futrono,Hogar,Lámpara,2,369200.0,738400.0,Crédito,False
+2023-03-17,Valdivia,Deportes,Zapatillas,1,129500.0,129500.0,Débito,False
+2023-03-29,Lanco,Electrodomésticos,Hervidor,3,472900.0,1418700.0,Transferencia,False
+2023-07-21,Río Bueno,Tecnología,Notebook,2,69700.0,139400.0,Efectivo,False
+2023-12-16,Los Lagos,Electrodomésticos,Microondas,2,150500.0,301000.0,Transferencia,True
+2023-03-05,Panguipulli,Hogar,Lámpara,1,256200.0,256200.0,Crédito,False
+2023-05-07,Paillaco,Tecnología,Notebook,3,489100.0,1467300.0,Efectivo,False
+2023-06-06,La Unión,Ropa,Polera,4,186200.0,744800.0,Crédito,False
+2023-04-22,Panguipulli,Hogar,Silla,2,473600.0,947200.0,Crédito,False
+2023-02-14,La Unión,Tecnología,Celular,4,5700.0,22800.0,Crédito,True
+2023-02-23,Futrono,Alimentos,Pan,3,252900.0,758700.0,Transferencia,True
+2023-02-20,Panguipulli,Tecnología,Celular,3,341800.0,1025400.0,Efectivo,True
+2023-03-28,Mariquina,Deportes,Bicicleta,2,446100.0,892200.0,Débito,True
+2023-11-20,Mariquina,Tecnología,Tablet,4,219300.0,877200.0,Transferencia,True
+2023-12-22,Mariquina,Ropa,Chaqueta,4,480200.0,1920800.0,Débito,False
+2023-04-13,Mariquina,Electrodomésticos,Refrigerador,3,452900.0,1358700.0,Débito,False
+2023-06-21,Futrono,Hogar,Silla,4,374000.0,1496000.0,Efectivo,False
+2023-11-03,Río Bueno,Hogar,Mesa,1,409500.0,409500.0,Efectivo,True
+2023-10-11,Lanco,Tecnología,Notebook,3,424500.0,1273500.0,Efectivo,False
+2023-01-03,Mariquina,Hogar,Mesa,3,107800.0,323400.0,Transferencia,False
+2023-09-06,Mariquina,Tecnología,Tablet,4,373000.0,1492000.0,Transferencia,True
+2023-12-10,Corral,Ropa,Chaqueta,4,197800.0,791200.0,Efectivo,False
+2023-05-31,Corral,Hogar,Mesa,3,67400.0,202200.0,Efectivo,False
+2023-12-07,Lanco,Ropa,Chaqueta,3,482900.0,1448700.0,Transferencia,False
+2023-10-04,Paillaco,Electrodomésticos,Hervidor,1,368400.0,368400.0,Débito,True
+2023-02-08,Lanco,Deportes,Zapatillas,3,306700.0,920100.0,Débito,False
+2023-12-30,Los Lagos,Hogar,Mesa,2,146900.0,293800.0,Débito,False
+2023-07-21,Corral,Ropa,Pantalón,2,132500.0,265000.0,Efectivo,True
+2023-01-02,Corral,Ropa,Pantalón,2,447900.0,895800.0,Débito,True
+2023-06-17,Río Bueno,Electrodomésticos,Hervidor,1,452900.0,452900.0,Crédito,True
+2023-08-17,Lanco,Electrodomésticos,Refrigerador,3,68400.0,205200.0,Crédito,False
+2023-05-08,La Unión,Tecnología,Notebook,3,437400.0,1312200.0,Efectivo,False
+2023-07-13,Panguipulli,Hogar,Silla,2,366100.0,732200.0,Crédito,False
+2023-03-23,Mariquina,Electrodomésticos,Refrigerador,3,115600.0,346800.0,Transferencia,True
+2023-12-03,La Unión,Deportes,Balón,3,154400.0,463200.0,Crédito,False
+2023-11-13,Mariquina,Deportes,Zapatillas,1,146000.0,146000.0,Efectivo,False
+2023-03-29,Futrono,Tecnología,Notebook,3,329600.0,988800.0,Débito,True
+2023-12-24,Panguipulli,Hogar,Mesa,1,91800.0,91800.0,Crédito,False
+2023-03-23,Paillaco,Electrodomésticos,Hervidor,1,295200.0,295200.0,Efectivo,False
+2023-01-31,Río Bueno,Electrodomésticos,Hervidor,2,211400.0,422800.0,Crédito,False
+2023-03-06,Futrono,Tecnología,Tablet,4,215500.0,862000.0,Transferencia,False
+2023-04-02,Lanco,Deportes,Zapatillas,3,205300.0,615900.0,Débito,False
+2023-03-06,Panguipulli,Deportes,Balón,4,251800.0,1007200.0,Efectivo,True
+2023-08-25,Valdivia,Electrodomésticos,Microondas,3,341100.0,1023300.0,Crédito,True
+2023-02-02,Lanco,Ropa,Polera,1,93200.0,93200.0,Transferencia,False
+2023-09-17,Corral,Alimentos,Pan,3,238600.0,715800.0,Transferencia,True
+2023-04-21,Los Lagos,Ropa,Pantalón,2,357000.0,714000.0,Efectivo,True
+2023-08-10,Panguipulli,Deportes,Bicicleta,1,407200.0,407200.0,Transferencia,False
+2023-09-05,La Unión,Alimentos,Leche,3,294700.0,884100.0,Transferencia,False
+2023-12-18,Los Lagos,Deportes,Balón,4,388400.0,1553600.0,Débito,True
+2023-01-13,Los Lagos,Alimentos,Leche,2,71900.0,143800.0,Efectivo,True
+2023-03-05,Futrono,Deportes,Zapatillas,2,123300.0,246600.0,Efectivo,False
+2023-10-11,Paillaco,Deportes,Bicicleta,2,142400.0,284800.0,Efectivo,False
+2023-02-06,Mariquina,Tecnología,Celular,2,166700.0,333400.0,Crédito,False
+2023-05-19,Mariquina,Alimentos,Huevos,4,317000.0,1268000.0,Crédito,True
+2023-06-14,Los Lagos,Hogar,Lámpara,2,228000.0,456000.0,Débito,True
+2023-10-14,Paillaco,Electrodomésticos,Refrigerador,1,165100.0,165100.0,Débito,True
+2023-10-30,Futrono,Deportes,Zapatillas,3,323500.0,970500.0,Débito,False
+2023-06-04,La Unión,Hogar,Mesa,4,327500.0,1310000.0,Crédito,False
+2023-01-04,Corral,Ropa,Pantalón,4,12600.0,50400.0,Crédito,False
+2023-08-09,Valdivia,Ropa,Chaqueta,3,166800.0,500400.0,Crédito,False
+2023-12-16,Panguipulli,Electrodomésticos,Microondas,1,150700.0,150700.0,Crédito,True
+2023-04-23,La Unión,Alimentos,Leche,1,358800.0,358800.0,Transferencia,False
+2023-08-15,Valdivia,Hogar,Lámpara,3,252900.0,758700.0,Crédito,True
+2023-04-19,Río Bueno,Alimentos,Leche,1,225800.0,225800.0,Débito,False
+2023-02-21,Lanco,Hogar,Silla,4,25200.0,100800.0,Débito,True
+2023-08-18,La Unión,Tecnología,Tablet,1,162600.0,162600.0,Débito,False
+2023-12-05,Paillaco,Alimentos,Huevos,4,185200.0,740800.0,Efectivo,False
+2023-01-06,Paillaco,Hogar,Mesa,1,27900.0,27900.0,Crédito,False
+2023-03-04,Paillaco,Alimentos,Arroz,4,37600.0,150400.0,Efectivo,False
+2023-10-27,Mariquina,Ropa,Chaqueta,1,185600.0,185600.0,Transferencia,False
+2023-06-26,Río Bueno,Tecnología,Celular,3,234600.0,703800.0,Transferencia,True
+2023-12-04,Lanco,Deportes,Bicicleta,3,252500.0,757500.0,Débito,False
+2023-08-30,Los Lagos,Ropa,Polera,1,56500.0,56500.0,Transferencia,True
+2023-07-21,Futrono,Ropa,Pantalón,3,232600.0,697800.0,Débito,False
+2023-09-06,La Unión,Alimentos,Huevos,2,423800.0,847600.0,Crédito,False
+2023-09-30,Los Lagos,Alimentos,Pan,3,311600.0,934800.0,Débito,False
+2023-04-06,Futrono,Hogar,Silla,2,491000.0,982000.0,Crédito,True
+2023-06-05,Paillaco,Hogar,Silla,2,25900.0,51800.0,Débito,False
+2023-04-09,Río Bueno,Deportes,Bicicleta,3,286900.0,860700.0,Crédito,True
+2023-02-27,Río Bueno,Electrodomésticos,Hervidor,4,484400.0,1937600.0,Efectivo,False
+2023-03-28,Paillaco,Tecnología,Notebook,2,490100.0,980200.0,Crédito,True
+2023-11-22,Panguipulli,Deportes,Zapatillas,1,226900.0,226900.0,Crédito,False
+2023-01-21,Futrono,Electrodomésticos,Microondas,1,352000.0,352000.0,Débito,False
+2023-09-09,Mariquina,Alimentos,Huevos,1,365000.0,365000.0,Transferencia,True
+2023-11-26,Futrono,Electrodomésticos,Refrigerador,2,470200.0,940400.0,Transferencia,False
+2023-12-08,Los Lagos,Deportes,Zapatillas,3,283700.0,851100.0,Efectivo,True
+2023-08-05,Mariquina,Ropa,Polera,2,371400.0,742800.0,Efectivo,True
+2023-12-03,Río Bueno,Alimentos,Pan,1,243400.0,243400.0,Crédito,True
+2023-12-26,Corral,Deportes,Zapatillas,2,494300.0,988600.0,Efectivo,True
+2023-06-29,Paillaco,Electrodomésticos,Hervidor,2,263200.0,526400.0,Débito,False
+2023-09-19,Valdivia,Ropa,Polera,4,345100.0,1380400.0,Efectivo,True
+2023-02-28,Lanco,Ropa,Chaqueta,2,393200.0,786400.0,Efectivo,True
+2023-09-28,Lanco,Alimentos,Pan,2,333300.0,666600.0,Crédito,True
+2023-03-24,Futrono,Alimentos,Leche,4,492200.0,1968800.0,Efectivo,False
+2023-08-06,Valdivia,Ropa,Pantalón,3,436000.0,1308000.0,Débito,False
+2023-05-19,Paillaco,Deportes,Zapatillas,2,419800.0,839600.0,Efectivo,True
+2023-10-13,Río Bueno,Deportes,Balón,3,46700.0,140100.0,Transferencia,True
+2023-07-22,Lanco,Ropa,Pantalón,3,200000.0,600000.0,Crédito,False
+2023-02-09,Mariquina,Tecnología,Tablet,1,239700.0,239700.0,Crédito,False
+2023-06-18,Corral,Ropa,Pantalón,1,95600.0,95600.0,Transferencia,True
+2023-07-13,Futrono,Hogar,Lámpara,2,98300.0,196600.0,Crédito,True
+2023-02-24,Lanco,Electrodomésticos,Refrigerador,3,464800.0,1394400.0,Transferencia,True
+2023-01-15,Río Bueno,Deportes,Zapatillas,1,451100.0,451100.0,Crédito,False
+2023-05-01,Panguipulli,Electrodomésticos,Microondas,2,304800.0,609600.0,Efectivo,False
+2023-02-07,Panguipulli,Ropa,Polera,1,457900.0,457900.0,Débito,True
+2023-03-02,Lanco,Electrodomésticos,Microondas,1,497100.0,497100.0,Efectivo,False
+2023-08-10,Mariquina,Deportes,Balón,2,474700.0,949400.0,Crédito,False
+2023-05-18,Los Lagos,Ropa,Chaqueta,2,144200.0,288400.0,Transferencia,False
+2023-06-22,Corral,Ropa,Chaqueta,3,32500.0,97500.0,Efectivo,True
+2023-06-16,Panguipulli,Deportes,Balón,2,312600.0,625200.0,Transferencia,True
+2023-07-10,Río Bueno,Hogar,Silla,4,241500.0,966000.0,Débito,False
+2023-01-19,Futrono,Ropa,Pantalón,4,308900.0,1235600.0,Débito,True
+2023-10-18,Panguipulli,Tecnología,Tablet,1,151200.0,151200.0,Transferencia,True
+2023-03-20,Lanco,Hogar,Lámpara,2,343000.0,686000.0,Débito,True
+2023-08-23,Río Bueno,Electrodomésticos,Hervidor,4,133900.0,535600.0,Débito,True
+2023-01-21,Panguipulli,Electrodomésticos,Hervidor,3,38800.0,116400.0,Transferencia,True
+2023-06-05,Mariquina,Ropa,Chaqueta,3,272200.0,816600.0,Efectivo,False
+2023-08-19,Panguipulli,Ropa,Polera,4,291300.0,1165200.0,Débito,False
+2023-10-23,Los Lagos,Deportes,Zapatillas,2,234300.0,468600.0,Transferencia,True
+2023-05-06,Río Bueno,Ropa,Chaqueta,1,470500.0,470500.0,Transferencia,True
+2023-01-02,Panguipulli,Electrodomésticos,Refrigerador,1,19600.0,19600.0,Crédito,True
+2023-05-08,Corral,Alimentos,Leche,2,171500.0,343000.0,Efectivo,False
+2023-03-04,Río Bueno,Electrodomésticos,Microondas,3,438300.0,1314900.0,Crédito,False
+2023-03-29,Lanco,Ropa,Chaqueta,2,226200.0,452400.0,Débito,False
+2023-12-18,Corral,Tecnología,Tablet,2,475000.0,950000.0,Efectivo,True
+2023-04-19,Panguipulli,Hogar,Silla,2,283700.0,567400.0,Crédito,True
+2023-03-31,Lanco,Ropa,Chaqueta,4,85000.0,340000.0,Débito,False
+2023-09-01,Futrono,Ropa,Chaqueta,2,50300.0,100600.0,Transferencia,False
+2023-12-08,Lanco,Ropa,Chaqueta,3,184000.0,552000.0,Crédito,False
+2023-05-07,Mariquina,Hogar,Lámpara,3,182600.0,547800.0,Crédito,True
+2023-09-21,Futrono,Electrodomésticos,Refrigerador,4,105600.0,422400.0,Débito,False
+2023-04-16,Futrono,Tecnología,Notebook,2,24800.0,49600.0,Efectivo,True
+2023-01-06,Panguipulli,Hogar,Mesa,4,194400.0,777600.0,Crédito,True
+2023-05-28,Mariquina,Ropa,Pantalón,2,163200.0,326400.0,Efectivo,False
+2023-05-28,Paillaco,Alimentos,Huevos,4,399800.0,1599200.0,Crédito,True
+2023-04-04,Paillaco,Tecnología,Celular,4,468000.0,1872000.0,Débito,False
+2023-05-02,Corral,Deportes,Balón,1,296100.0,296100.0,Efectivo,True
+2023-01-13,Los Lagos,Hogar,Mesa,1,36700.0,36700.0,Transferencia,False
+2023-04-27,Paillaco,Tecnología,Notebook,4,407700.0,1630800.0,Débito,True
+2023-09-25,Valdivia,Tecnología,Tablet,1,407000.0,407000.0,Crédito,False
+2023-01-31,La Unión,Tecnología,Notebook,3,237500.0,712500.0,Transferencia,True
+2023-08-03,Panguipulli,Electrodomésticos,Hervidor,4,106900.0,427600.0,Débito,False
+2023-11-13,La Unión,Hogar,Lámpara,4,135400.0,541600.0,Transferencia,False
+2023-04-23,La Unión,Hogar,Silla,3,498400.0,1495200.0,Crédito,False
+2023-09-21,Lanco,Tecnología,Celular,2,282400.0,564800.0,Transferencia,True
+2023-03-06,Río Bueno,Electrodomésticos,Hervidor,2,409000.0,818000.0,Transferencia,False
+2023-06-11,La Unión,Hogar,Mesa,1,489900.0,489900.0,Transferencia,False
+2023-10-10,Los Lagos,Deportes,Zapatillas,1,54900.0,54900.0,Efectivo,False
+2023-08-26,Paillaco,Electrodomésticos,Hervidor,2,300500.0,601000.0,Crédito,True
+2023-10-12,Paillaco,Tecnología,Notebook,1,288000.0,288000.0,Débito,True
+2023-02-06,Valdivia,Tecnología,Tablet,4,378000.0,1512000.0,Débito,False
+2023-11-10,Valdivia,Ropa,Pantalón,2,310000.0,620000.0,Débito,False
+2023-05-24,Futrono,Ropa,Chaqueta,4,129800.0,519200.0,Crédito,False
+2023-08-20,Mariquina,Hogar,Silla,2,385500.0,771000.0,Crédito,False
+2023-10-27,Lanco,Ropa,Chaqueta,4,357300.0,1429200.0,Transferencia,True
+2023-10-17,Corral,Deportes,Zapatillas,2,234900.0,469800.0,Efectivo,False
+2023-11-25,La Unión,Tecnología,Celular,1,227300.0,227300.0,Débito,False
+2023-09-12,Corral,Deportes,Zapatillas,4,99900.0,399600.0,Débito,False
+2023-02-08,Mariquina,Deportes,Zapatillas,1,207500.0,207500.0,Efectivo,True
+2023-01-07,Corral,Deportes,Zapatillas,2,338900.0,677800.0,Efectivo,False
+2023-12-13,Los Lagos,Tecnología,Notebook,1,310800.0,310800.0,Crédito,False
+2023-06-22,Los Lagos,Tecnología,Tablet,3,432800.0,1298400.0,Crédito,True
+2023-07-31,Río Bueno,Electrodomésticos,Hervidor,4,73200.0,292800.0,Crédito,False
+2023-07-03,Panguipulli,Electrodomésticos,Hervidor,1,134100.0,134100.0,Débito,True
+2023-09-04,Paillaco,Electrodomésticos,Hervidor,3,312400.0,937200.0,Transferencia,False
+2023-10-17,Panguipulli,Hogar,Mesa,1,18100.0,18100.0,Crédito,True
+2023-11-02,Panguipulli,Deportes,Zapatillas,2,364100.0,728200.0,Crédito,False
+2023-04-24,Río Bueno,Tecnología,Notebook,4,310400.0,1241600.0,Débito,False
+2023-09-15,Mariquina,Hogar,Silla,3,420000.0,1260000.0,Débito,True
+2023-03-27,Panguipulli,Alimentos,Huevos,2,253900.0,507800.0,Transferencia,True
+2023-11-21,Paillaco,Deportes,Balón,3,27800.0,83400.0,Crédito,True
+2023-11-05,Río Bueno,Deportes,Bicicleta,4,256500.0,1026000.0,Crédito,True
+2023-05-10,Valdivia,Deportes,Bicicleta,2,70900.0,141800.0,Efectivo,True
+2023-08-14,Corral,Deportes,Zapatillas,3,3300.0,9900.0,Crédito,True
+2023-05-02,Río Bueno,Tecnología,Notebook,4,98600.0,394400.0,Efectivo,True
+2023-09-18,Los Lagos,Deportes,Balón,4,399600.0,1598400.0,Crédito,True
+2023-10-09,Río Bueno,Ropa,Polera,1,378100.0,378100.0,Efectivo,False
+2023-06-05,Panguipulli,Ropa,Polera,1,77100.0,77100.0,Débito,False
+2023-03-12,La Unión,Electrodomésticos,Hervidor,1,468200.0,468200.0,Débito,False
+2023-01-10,Mariquina,Ropa,Chaqueta,3,39500.0,118500.0,Crédito,True
+2023-11-17,Futrono,Hogar,Mesa,3,307200.0,921600.0,Crédito,True
+2023-09-08,Valdivia,Hogar,Lámpara,2,454000.0,908000.0,Efectivo,True
+2023-08-17,Panguipulli,Alimentos,Huevos,2,318800.0,637600.0,Transferencia,False
+2023-03-22,Los Lagos,Deportes,Zapatillas,1,297600.0,297600.0,Débito,False
+2023-02-01,La Unión,Tecnología,Celular,1,166100.0,166100.0,Crédito,False
+2023-05-20,Corral,Hogar,Silla,2,166100.0,332200.0,Transferencia,True
+2023-07-07,Lanco,Deportes,Bicicleta,1,403800.0,403800.0,Efectivo,True
+2023-04-11,Panguipulli,Ropa,Pantalón,4,185300.0,741200.0,Efectivo,True
+2023-03-15,Mariquina,Deportes,Zapatillas,3,70700.0,212100.0,Transferencia,False
+2023-02-19,Lanco,Hogar,Lámpara,1,95600.0,95600.0,Efectivo,False
+2023-01-14,Los Lagos,Tecnología,Tablet,1,226400.0,226400.0,Transferencia,True
+2023-03-28,Valdivia,Hogar,Silla,1,40900.0,40900.0,Débito,True
+2023-04-05,Mariquina,Hogar,Lámpara,2,251300.0,502600.0,Débito,False
+2023-11-02,Mariquina,Electrodomésticos,Hervidor,1,315800.0,315800.0,Transferencia,False
+2023-08-17,Paillaco,Deportes,Balón,4,132300.0,529200.0,Crédito,False
+2023-08-08,Río Bueno,Electrodomésticos,Hervidor,4,67700.0,270800.0,Transferencia,True
+2023-09-20,Panguipulli,Tecnología,Celular,1,34800.0,34800.0,Transferencia,False
+2023-09-12,Río Bueno,Electrodomésticos,Microondas,3,370300.0,1110900.0,Crédito,True
+2023-03-17,Lanco,Hogar,Silla,3,59300.0,177900.0,Débito,False
+2023-12-27,Río Bueno,Hogar,Lámpara,3,91400.0,274200.0,Transferencia,True
+2023-03-01,Futrono,Ropa,Chaqueta,1,91600.0,91600.0,Crédito,False
+2023-03-02,Lanco,Electrodomésticos,Refrigerador,2,28100.0,56200.0,Efectivo,False
+2023-09-30,Futrono,Tecnología,Celular,3,462100.0,1386300.0,Débito,False
+2023-10-05,Los Lagos,Ropa,Pantalón,3,78300.0,234900.0,Efectivo,False
+2023-06-22,Lanco,Alimentos,Pan,2,152400.0,304800.0,Crédito,True
+2023-10-23,Panguipulli,Alimentos,Huevos,1,97700.0,97700.0,Efectivo,False
+2023-07-01,Los Lagos,Hogar,Lámpara,2,374200.0,748400.0,Débito,False
+2023-11-02,La Unión,Alimentos,Leche,4,239800.0,959200.0,Transferencia,False
+2023-12-03,Río Bueno,Electrodomésticos,Refrigerador,1,466200.0,466200.0,Crédito,True
+2023-08-30,Mariquina,Alimentos,Huevos,1,243500.0,243500.0,Transferencia,True
+2023-12-28,Panguipulli,Deportes,Bicicleta,3,420500.0,1261500.0,Transferencia,True
+2023-05-21,Mariquina,Tecnología,Notebook,1,428900.0,428900.0,Efectivo,True
+2023-01-28,Río Bueno,Tecnología,Celular,1,383600.0,383600.0,Crédito,True
+2023-03-16,Futrono,Deportes,Bicicleta,4,121300.0,485200.0,Transferencia,True
+2023-12-14,Futrono,Deportes,Balón,3,34900.0,104700.0,Crédito,True
+2023-05-04,Futrono,Deportes,Balón,2,47900.0,95800.0,Efectivo,True
+2023-01-06,Río Bueno,Alimentos,Huevos,3,11500.0,34500.0,Crédito,True
+2023-07-18,Panguipulli,Ropa,Polera,3,20500.0,61500.0,Transferencia,False
+2023-07-14,Panguipulli,Hogar,Mesa,3,38300.0,114900.0,Transferencia,False
+2023-07-02,Los Lagos,Hogar,Lámpara,2,341200.0,682400.0,Efectivo,True
+2023-12-27,Panguipulli,Electrodomésticos,Hervidor,1,196300.0,196300.0,Transferencia,True
+2023-05-11,Lanco,Tecnología,Tablet,1,155800.0,155800.0,Débito,True
+2023-01-07,Mariquina,Electrodomésticos,Refrigerador,2,92600.0,185200.0,Efectivo,False
+2023-12-11,Valdivia,Deportes,Bicicleta,1,498200.0,498200.0,Débito,False
+2023-09-09,Panguipulli,Electrodomésticos,Microondas,4,279000.0,1116000.0,Débito,True
+2023-10-31,Mariquina,Deportes,Balón,2,425700.0,851400.0,Crédito,False
+2023-06-27,Mariquina,Deportes,Bicicleta,1,124900.0,124900.0,Crédito,True
+2023-11-13,Valdivia,Deportes,Balón,1,363500.0,363500.0,Transferencia,False
+2023-03-26,Mariquina,Tecnología,Tablet,2,233800.0,467600.0,Débito,True
+2023-09-04,Valdivia,Deportes,Zapatillas,1,325700.0,325700.0,Transferencia,False
+2023-01-21,Corral,Alimentos,Arroz,1,23500.0,23500.0,Crédito,True
+2023-04-08,Valdivia,Deportes,Bicicleta,1,22900.0,22900.0,Crédito,True
+2023-03-21,Panguipulli,Ropa,Pantalón,3,116100.0,348300.0,Efectivo,False
+2023-11-20,Lanco,Alimentos,Huevos,4,340400.0,1361600.0,Débito,False
+2023-01-18,Río Bueno,Alimentos,Huevos,1,455700.0,455700.0,Débito,True
+2023-04-04,Los Lagos,Hogar,Silla,3,276700.0,830100.0,Transferencia,True
+2023-10-11,Corral,Alimentos,Pan,2,482500.0,965000.0,Transferencia,True
+2023-11-19,La Unión,Deportes,Zapatillas,4,161300.0,645200.0,Transferencia,False
+2023-02-05,Mariquina,Alimentos,Leche,1,220600.0,220600.0,Transferencia,True
+2023-03-12,Lanco,Electrodomésticos,Microondas,4,314700.0,1258800.0,Crédito,True
+2023-03-13,Corral,Deportes,Zapatillas,4,268100.0,1072400.0,Crédito,True
+2023-04-21,Valdivia,Hogar,Silla,4,6200.0,24800.0,Efectivo,False
+2023-04-13,Panguipulli,Ropa,Polera,4,395500.0,1582000.0,Crédito,True
+2023-12-30,Mariquina,Electrodomésticos,Hervidor,2,103900.0,207800.0,Transferencia,False
+2023-12-03,Lanco,Alimentos,Huevos,3,177100.0,531300.0,Crédito,False
+2023-08-12,Futrono,Tecnología,Celular,1,327800.0,327800.0,Crédito,False
+2023-11-28,Panguipulli,Hogar,Lámpara,2,185100.0,370200.0,Efectivo,False
+2023-06-17,Futrono,Alimentos,Leche,4,298000.0,1192000.0,Débito,False
+2023-06-21,Lanco,Alimentos,Arroz,4,358500.0,1434000.0,Débito,False
+2023-09-12,Río Bueno,Electrodomésticos,Refrigerador,1,407900.0,407900.0,Efectivo,True
+2023-10-25,Paillaco,Hogar,Mesa,1,264700.0,264700.0,Efectivo,False
+2023-05-28,La Unión,Hogar,Mesa,3,316000.0,948000.0,Efectivo,False
+2023-03-21,Río Bueno,Electrodomésticos,Microondas,2,213600.0,427200.0,Efectivo,True
+2023-07-21,Río Bueno,Alimentos,Leche,1,266600.0,266600.0,Crédito,True
+2023-04-24,Paillaco,Hogar,Mesa,4,128500.0,514000.0,Crédito,True
+2023-03-22,Corral,Tecnología,Tablet,2,446200.0,892400.0,Efectivo,False
+2023-07-08,Río Bueno,Hogar,Lámpara,2,161500.0,323000.0,Transferencia,False
+2023-06-24,Los Lagos,Alimentos,Huevos,4,409500.0,1638000.0,Crédito,False
+2023-09-12,Corral,Alimentos,Huevos,2,447400.0,894800.0,Débito,True
+2023-08-21,Futrono,Deportes,Balón,3,185500.0,556500.0,Crédito,False
+2023-08-08,Paillaco,Electrodomésticos,Microondas,2,271200.0,542400.0,Crédito,True
+2023-09-30,Corral,Ropa,Pantalón,4,44700.0,178800.0,Crédito,False
+2023-02-27,Río Bueno,Alimentos,Pan,1,143900.0,143900.0,Transferencia,False
+2023-09-12,Futrono,Alimentos,Huevos,1,191600.0,191600.0,Transferencia,True
+2023-04-19,Valdivia,Deportes,Zapatillas,2,157600.0,315200.0,Débito,True
+2023-10-19,Los Lagos,Tecnología,Tablet,2,435200.0,870400.0,Efectivo,True
+2023-06-28,Los Lagos,Tecnología,Celular,2,48000.0,96000.0,Efectivo,True
+2023-08-01,Futrono,Electrodomésticos,Refrigerador,1,127500.0,127500.0,Débito,True
+2023-06-23,Panguipulli,Tecnología,Tablet,4,61300.0,245200.0,Transferencia,False
+2023-03-09,Paillaco,Ropa,Polera,3,404900.0,1214700.0,Débito,True
+2023-05-07,La Unión,Electrodomésticos,Microondas,4,132800.0,531200.0,Transferencia,True
+2023-05-12,Los Lagos,Ropa,Pantalón,2,157100.0,314200.0,Débito,False
+2023-01-04,Río Bueno,Deportes,Bicicleta,1,99500.0,99500.0,Débito,False
+2023-08-22,La Unión,Deportes,Bicicleta,3,186000.0,558000.0,Transferencia,True
+2023-11-12,Valdivia,Alimentos,Pan,3,47200.0,141600.0,Efectivo,False
+2023-07-29,Valdivia,Hogar,Lámpara,4,279200.0,1116800.0,Crédito,False
+2023-11-18,Río Bueno,Alimentos,Huevos,4,103800.0,415200.0,Transferencia,True
+2023-11-06,Lanco,Tecnología,Tablet,3,120100.0,360300.0,Crédito,True
+2023-05-04,Paillaco,Tecnología,Tablet,3,16500.0,49500.0,Crédito,True
+2023-01-20,Paillaco,Ropa,Chaqueta,3,473000.0,1419000.0,Efectivo,True
+2023-11-20,Panguipulli,Tecnología,Notebook,2,102200.0,204400.0,Transferencia,False
+2023-11-02,Futrono,Hogar,Mesa,4,42800.0,171200.0,Transferencia,False
+2023-12-10,Mariquina,Deportes,Balón,1,296400.0,296400.0,Débito,False
+2023-02-26,Lanco,Hogar,Silla,1,320600.0,320600.0,Crédito,True
+2023-08-11,La Unión,Deportes,Zapatillas,1,207500.0,207500.0,Crédito,False
+2023-03-30,Los Lagos,Alimentos,Huevos,2,278500.0,557000.0,Transferencia,False
+2023-08-20,Corral,Electrodomésticos,Refrigerador,1,322900.0,322900.0,Débito,False
+2023-04-05,Corral,Alimentos,Leche,1,363300.0,363300.0,Crédito,True
+2023-01-11,Río Bueno,Deportes,Bicicleta,2,238900.0,477800.0,Crédito,False
+2023-08-14,Lanco,Deportes,Zapatillas,2,32800.0,65600.0,Efectivo,True
+2023-12-14,Panguipulli,Deportes,Bicicleta,4,37900.0,151600.0,Efectivo,False
+2023-07-12,Futrono,Hogar,Lámpara,3,283500.0,850500.0,Efectivo,False
+2023-05-11,Mariquina,Ropa,Chaqueta,1,249800.0,249800.0,Crédito,False
+2023-12-25,Panguipulli,Hogar,Lámpara,3,69200.0,207600.0,Efectivo,False
+2023-10-01,Los Lagos,Hogar,Lámpara,2,122100.0,244200.0,Crédito,False
+2023-06-28,Corral,Electrodomésticos,Microondas,1,332100.0,332100.0,Débito,True
+2023-09-09,Lanco,Tecnología,Tablet,3,248900.0,746700.0,Débito,True
+2023-02-04,Río Bueno,Alimentos,Leche,4,392000.0,1568000.0,Efectivo,True
+2023-07-23,La Unión,Tecnología,Notebook,1,375500.0,375500.0,Débito,False
+2023-09-25,Corral,Electrodomésticos,Refrigerador,1,293000.0,293000.0,Efectivo,False
+2023-11-11,La Unión,Deportes,Zapatillas,3,144200.0,432600.0,Transferencia,False
+2023-09-29,Río Bueno,Hogar,Lámpara,3,340400.0,1021200.0,Débito,False
+2023-05-10,Corral,Alimentos,Huevos,4,100400.0,401600.0,Débito,True
+2023-09-10,Paillaco,Electrodomésticos,Hervidor,3,184300.0,552900.0,Transferencia,False
+2023-07-04,Valdivia,Hogar,Lámpara,4,193100.0,772400.0,Crédito,False
+2023-10-27,Futrono,Ropa,Chaqueta,3,232000.0,696000.0,Transferencia,False
+2023-10-16,Mariquina,Ropa,Pantalón,1,241400.0,241400.0,Efectivo,False
+2023-02-05,Lanco,Tecnología,Tablet,2,287800.0,575600.0,Transferencia,False
+2023-01-19,Futrono,Hogar,Lámpara,2,330400.0,660800.0,Transferencia,False
+2023-12-06,Paillaco,Electrodomésticos,Microondas,4,382500.0,1530000.0,Crédito,False
+2023-01-06,Valdivia,Electrodomésticos,Microondas,2,142400.0,284800.0,Transferencia,False
+2023-02-25,Los Lagos,Deportes,Zapatillas,4,435200.0,1740800.0,Efectivo,False
+2023-06-07,Los Lagos,Electrodomésticos,Refrigerador,4,105900.0,423600.0,Crédito,False
+2023-09-14,Valdivia,Electrodomésticos,Microondas,3,87800.0,263400.0,Débito,False
+2023-08-10,La Unión,Ropa,Polera,2,324200.0,648400.0,Efectivo,True
+2023-09-27,Paillaco,Alimentos,Pan,4,258400.0,1033600.0,Débito,True
+2023-04-12,Paillaco,Alimentos,Pan,3,2300.0,6900.0,Crédito,True
+2023-09-19,Panguipulli,Hogar,Lámpara,4,130000.0,520000.0,Débito,True
+2023-12-06,Río Bueno,Hogar,Lámpara,3,65900.0,197700.0,Transferencia,True
+2023-02-05,Corral,Tecnología,Notebook,4,385200.0,1540800.0,Débito,False
+2023-07-12,Valdivia,Alimentos,Huevos,4,116100.0,464400.0,Efectivo,False
+2023-02-05,Los Lagos,Deportes,Zapatillas,2,493700.0,987400.0,Débito,True
+2023-02-10,La Unión,Tecnología,Notebook,3,91900.0,275700.0,Efectivo,False
+2023-10-19,La Unión,Ropa,Polera,4,316900.0,1267600.0,Transferencia,True
+2023-01-18,Futrono,Electrodomésticos,Refrigerador,1,291200.0,291200.0,Transferencia,True
+2023-09-16,Los Lagos,Ropa,Pantalón,2,289500.0,579000.0,Efectivo,True
+2023-01-15,Corral,Deportes,Balón,1,58800.0,58800.0,Crédito,True
+2023-01-22,Futrono,Electrodomésticos,Refrigerador,4,240000.0,960000.0,Débito,False
+2023-11-19,Los Lagos,Electrodomésticos,Hervidor,1,371100.0,371100.0,Efectivo,True
+2023-07-05,Mariquina,Ropa,Polera,1,144700.0,144700.0,Efectivo,True
+2023-11-02,Paillaco,Hogar,Lámpara,2,434300.0,868600.0,Transferencia,True
+2023-11-07,La Unión,Electrodomésticos,Hervidor,2,343300.0,686600.0,Crédito,False
+2023-11-17,Corral,Alimentos,Leche,3,307200.0,921600.0,Crédito,False
+2023-02-08,La Unión,Tecnología,Celular,1,144500.0,144500.0,Transferencia,False
+2023-02-18,Lanco,Hogar,Mesa,3,369900.0,1109700.0,Transferencia,True
+2023-06-01,Paillaco,Alimentos,Pan,2,415800.0,831600.0,Débito,True
+2023-10-20,Valdivia,Alimentos,Leche,3,466000.0,1398000.0,Débito,True
+2023-01-23,La Unión,Ropa,Chaqueta,2,116400.0,232800.0,Efectivo,True
+2023-05-09,Corral,Ropa,Polera,1,424100.0,424100.0,Transferencia,False
+2023-10-06,Lanco,Tecnología,Celular,3,58800.0,176400.0,Efectivo,True
+2023-02-16,Valdivia,Deportes,Zapatillas,3,495200.0,1485600.0,Efectivo,False
+2023-12-14,Río Bueno,Electrodomésticos,Refrigerador,4,470200.0,1880800.0,Crédito,False
+2023-04-11,La Unión,Electrodomésticos,Microondas,4,225600.0,902400.0,Transferencia,False
+2023-08-16,Los Lagos,Alimentos,Huevos,3,317800.0,953400.0,Crédito,True
+2023-07-09,Lanco,Deportes,Bicicleta,4,235800.0,943200.0,Transferencia,False
+2023-05-06,Valdivia,Electrodomésticos,Hervidor,3,217500.0,652500.0,Efectivo,False
+2023-10-12,Río Bueno,Tecnología,Notebook,4,371200.0,1484800.0,Efectivo,True
+2023-01-18,La Unión,Tecnología,Celular,3,170300.0,510900.0,Transferencia,False
+2023-03-22,Valdivia,Alimentos,Arroz,1,177200.0,177200.0,Crédito,True
+2023-04-23,Panguipulli,Electrodomésticos,Hervidor,4,33500.0,134000.0,Crédito,False
+2023-09-18,Río Bueno,Hogar,Lámpara,4,264400.0,1057600.0,Débito,False
+2023-01-28,Panguipulli,Alimentos,Leche,4,63200.0,252800.0,Débito,False
+2023-07-20,Paillaco,Ropa,Pantalón,4,3500.0,14000.0,Crédito,False
+2023-04-29,Mariquina,Hogar,Lámpara,3,233100.0,699300.0,Efectivo,False
+2023-08-11,La Unión,Ropa,Chaqueta,3,338700.0,1016100.0,Débito,True
+2023-09-27,Mariquina,Ropa,Pantalón,3,92800.0,278400.0,Transferencia,False
+2023-03-06,Mariquina,Tecnología,Tablet,2,102000.0,204000.0,Transferencia,True
+2023-10-10,Los Lagos,Deportes,Bicicleta,4,54600.0,218400.0,Efectivo,True
+2023-07-31,Panguipulli,Hogar,Mesa,3,275100.0,825300.0,Transferencia,False
+2023-01-23,Río Bueno,Alimentos,Huevos,2,164800.0,329600.0,Transferencia,True
+2023-01-26,Los Lagos,Ropa,Polera,1,483100.0,483100.0,Crédito,False
+2023-02-13,Panguipulli,Ropa,Chaqueta,3,217300.0,651900.0,Transferencia,True
+2023-04-14,Mariquina,Electrodomésticos,Hervidor,1,356500.0,356500.0,Efectivo,False
+2023-10-31,Lanco,Alimentos,Huevos,3,98500.0,295500.0,Débito,False
+2023-08-07,Río Bueno,Ropa,Polera,4,450800.0,1803200.0,Transferencia,True
+2023-08-09,Los Lagos,Tecnología,Celular,4,225100.0,900400.0,Débito,True
+2023-06-29,Panguipulli,Hogar,Mesa,2,382000.0,764000.0,Transferencia,False
+2023-04-03,Mariquina,Alimentos,Huevos,4,213400.0,853600.0,Crédito,True
+2023-02-04,Valdivia,Tecnología,Notebook,3,64500.0,193500.0,Transferencia,True
+2023-07-18,La Unión,Alimentos,Leche,2,234000.0,468000.0,Crédito,True
+2023-02-01,Los Lagos,Hogar,Mesa,4,497700.0,1990800.0,Transferencia,True
+2023-03-05,Panguipulli,Deportes,Zapatillas,1,438800.0,438800.0,Crédito,True
+2023-11-17,Valdivia,Tecnología,Notebook,3,306700.0,920100.0,Efectivo,False
+2023-09-08,Futrono,Alimentos,Huevos,4,390700.0,1562800.0,Débito,True
+2023-10-25,Futrono,Hogar,Silla,1,358700.0,358700.0,Transferencia,True
+2023-02-22,Lanco,Hogar,Silla,4,242500.0,970000.0,Transferencia,True
+2023-09-18,Futrono,Ropa,Pantalón,3,477100.0,1431300.0,Transferencia,False
+2023-11-04,La Unión,Electrodomésticos,Microondas,2,79000.0,158000.0,Crédito,True
+2023-11-09,Lanco,Alimentos,Pan,3,348200.0,1044600.0,Efectivo,True
+2023-12-14,Panguipulli,Tecnología,Celular,3,456400.0,1369200.0,Transferencia,True
+2023-06-21,Valdivia,Hogar,Silla,3,131200.0,393600.0,Efectivo,True
+2023-06-09,Valdivia,Tecnología,Celular,3,169300.0,507900.0,Transferencia,True
+2023-02-09,Valdivia,Hogar,Mesa,2,193600.0,387200.0,Crédito,False
+2023-04-12,Río Bueno,Electrodomésticos,Microondas,2,457100.0,914200.0,Crédito,False
+2023-08-18,Mariquina,Alimentos,Arroz,4,426000.0,1704000.0,Efectivo,False
+2023-10-20,Panguipulli,Hogar,Mesa,1,365100.0,365100.0,Débito,True
+2023-07-17,Los Lagos,Hogar,Lámpara,3,272600.0,817800.0,Débito,True
+2023-08-18,La Unión,Electrodomésticos,Hervidor,2,210400.0,420800.0,Transferencia,True
+2023-03-14,Corral,Alimentos,Pan,3,468400.0,1405200.0,Efectivo,False
+2023-02-11,Lanco,Deportes,Bicicleta,3,37400.0,112200.0,Débito,True
+2023-04-03,Panguipulli,Tecnología,Celular,4,294900.0,1179600.0,Débito,True
+2023-06-19,Los Lagos,Tecnología,Tablet,1,309200.0,309200.0,Crédito,True
+2023-12-16,Valdivia,Alimentos,Pan,4,176900.0,707600.0,Crédito,False
+2023-10-06,Mariquina,Tecnología,Tablet,4,246200.0,984800.0,Transferencia,False
+2023-03-28,Paillaco,Electrodomésticos,Hervidor,1,165800.0,165800.0,Crédito,True
+2023-01-20,Río Bueno,Ropa,Chaqueta,4,268300.0,1073200.0,Débito,False
+2023-08-04,Río Bueno,Hogar,Mesa,1,242400.0,242400.0,Crédito,True
+2023-07-11,Río Bueno,Alimentos,Huevos,2,240400.0,480800.0,Débito,True
+2023-12-22,Mariquina,Hogar,Lámpara,1,408200.0,408200.0,Crédito,False
+2023-12-11,Río Bueno,Ropa,Polera,3,106500.0,319500.0,Crédito,False
+2023-01-16,La Unión,Electrodomésticos,Hervidor,2,114100.0,228200.0,Transferencia,True
+2023-03-14,Paillaco,Tecnología,Notebook,4,324700.0,1298800.0,Efectivo,False
+2023-11-21,Río Bueno,Deportes,Bicicleta,1,413300.0,413300.0,Efectivo,True
+2023-08-17,Valdivia,Alimentos,Arroz,3,392700.0,1178100.0,Transferencia,True
+2023-11-22,Lanco,Electrodomésticos,Hervidor,1,299600.0,299600.0,Débito,False
+2023-09-29,Valdivia,Ropa,Pantalón,3,392500.0,1177500.0,Débito,False
+2023-03-02,Futrono,Deportes,Bicicleta,3,207200.0,621600.0,Efectivo,True
+2023-01-12,Río Bueno,Tecnología,Notebook,2,21800.0,43600.0,Efectivo,True
+2023-06-02,Lanco,Tecnología,Celular,4,40800.0,163200.0,Efectivo,True
+2023-10-04,Mariquina,Alimentos,Arroz,3,498600.0,1495800.0,Crédito,True
+2023-03-20,Panguipulli,Hogar,Silla,3,498400.0,1495200.0,Débito,False
+2023-03-18,Mariquina,Alimentos,Leche,1,156000.0,156000.0,Transferencia,True
+2023-01-19,Mariquina,Hogar,Silla,3,85900.0,257700.0,Débito,True
+2023-02-07,Corral,Hogar,Silla,2,246800.0,493600.0,Transferencia,True
+2023-02-13,Corral,Deportes,Balón,4,149200.0,596800.0,Crédito,True
+2023-03-07,Mariquina,Deportes,Bicicleta,2,49900.0,99800.0,Efectivo,False
+2023-03-17,Corral,Tecnología,Notebook,2,281400.0,562800.0,Débito,False
+2023-11-23,Lanco,Electrodomésticos,Refrigerador,2,422400.0,844800.0,Transferencia,False
+2023-06-04,La Unión,Alimentos,Pan,1,226100.0,226100.0,Transferencia,True
+2023-02-14,Río Bueno,Hogar,Lámpara,4,172300.0,689200.0,Efectivo,True
+2023-08-29,Corral,Deportes,Zapatillas,3,5200.0,15600.0,Débito,False
+2023-03-27,Corral,Tecnología,Celular,2,73200.0,146400.0,Crédito,True
+2023-04-14,Paillaco,Electrodomésticos,Refrigerador,2,85000.0,170000.0,Transferencia,False
+2023-05-23,Mariquina,Tecnología,Notebook,2,50100.0,100200.0,Efectivo,False
+2023-05-29,Valdivia,Hogar,Lámpara,4,245100.0,980400.0,Débito,True
+2023-02-03,Corral,Alimentos,Huevos,4,166700.0,666800.0,Transferencia,False
+2023-12-16,Panguipulli,Hogar,Lámpara,4,191300.0,765200.0,Crédito,True
+2023-09-29,Valdivia,Electrodomésticos,Refrigerador,4,416300.0,1665200.0,Efectivo,True
+2023-01-13,Los Lagos,Deportes,Bicicleta,4,308500.0,1234000.0,Crédito,True
+2023-09-25,Mariquina,Hogar,Mesa,1,397000.0,397000.0,Débito,True
+2023-09-14,Corral,Hogar,Lámpara,1,105000.0,105000.0,Débito,True
+2023-04-15,Los Lagos,Electrodomésticos,Microondas,3,353400.0,1060200.0,Transferencia,False
+2023-09-13,Río Bueno,Alimentos,Pan,4,401000.0,1604000.0,Crédito,False
+2023-02-14,Los Lagos,Electrodomésticos,Refrigerador,2,51600.0,103200.0,Transferencia,False
+2023-09-20,Río Bueno,Alimentos,Huevos,1,378900.0,378900.0,Débito,True
+2023-08-23,Futrono,Tecnología,Notebook,1,283200.0,283200.0,Débito,False
+2023-01-24,Valdivia,Ropa,Polera,4,159800.0,639200.0,Débito,False
+2023-06-26,Corral,Deportes,Zapatillas,3,446900.0,1340700.0,Efectivo,True
+2023-10-06,Lanco,Electrodomésticos,Refrigerador,1,42800.0,42800.0,Efectivo,True
+2023-12-06,La Unión,Deportes,Bicicleta,2,54200.0,108400.0,Efectivo,False
+2023-01-28,Futrono,Electrodomésticos,Refrigerador,4,278400.0,1113600.0,Crédito,False
+2023-10-07,La Unión,Hogar,Silla,3,499000.0,1497000.0,Efectivo,True
+2023-09-25,Panguipulli,Tecnología,Tablet,3,4600.0,13800.0,Débito,True
+2023-04-25,Río Bueno,Deportes,Zapatillas,1,489900.0,489900.0,Crédito,True
+2023-02-14,La Unión,Alimentos,Leche,4,189300.0,757200.0,Débito,False
+2023-09-09,Los Lagos,Hogar,Lámpara,4,458000.0,1832000.0,Crédito,True
+2023-03-29,Lanco,Electrodomésticos,Hervidor,1,329100.0,329100.0,Débito,True
+2023-02-23,Los Lagos,Tecnología,Tablet,4,327900.0,1311600.0,Débito,False
+2023-06-20,Lanco,Hogar,Mesa,2,262400.0,524800.0,Débito,True
+2023-01-18,Futrono,Tecnología,Notebook,4,332500.0,1330000.0,Transferencia,False
+2023-12-10,La Unión,Deportes,Zapatillas,1,222900.0,222900.0,Débito,True
+2023-09-01,Mariquina,Electrodomésticos,Hervidor,3,447100.0,1341300.0,Débito,True
+2023-01-18,Los Lagos,Tecnología,Tablet,3,176300.0,528900.0,Efectivo,False
+2023-07-09,Corral,Electrodomésticos,Refrigerador,2,370300.0,740600.0,Débito,True
+2023-04-08,Valdivia,Alimentos,Arroz,2,42800.0,85600.0,Efectivo,False
+2023-03-22,Mariquina,Electrodomésticos,Hervidor,1,188100.0,188100.0,Efectivo,False
+2023-08-21,Valdivia,Hogar,Mesa,4,179900.0,719600.0,Transferencia,False
+2023-12-09,Futrono,Electrodomésticos,Microondas,4,59200.0,236800.0,Crédito,False
+2023-09-20,Mariquina,Ropa,Polera,1,59000.0,59000.0,Efectivo,True
+2023-07-06,Los Lagos,Deportes,Zapatillas,2,421600.0,843200.0,Transferencia,True
+2023-06-18,Futrono,Hogar,Lámpara,2,124200.0,248400.0,Efectivo,True
+2023-07-18,Mariquina,Deportes,Bicicleta,1,104900.0,104900.0,Débito,True
+2023-09-23,Mariquina,Ropa,Polera,3,27100.0,81300.0,Débito,True
+2023-09-10,Lanco,Alimentos,Pan,3,38100.0,114300.0,Efectivo,False
+2023-06-16,Lanco,Electrodomésticos,Refrigerador,3,43400.0,130200.0,Efectivo,False
+2023-01-24,La Unión,Hogar,Lámpara,4,278400.0,1113600.0,Débito,False
+2023-10-05,Paillaco,Tecnología,Celular,3,47200.0,141600.0,Transferencia,False
+2023-01-16,Los Lagos,Alimentos,Huevos,4,116100.0,464400.0,Crédito,False
+2023-10-04,La Unión,Ropa,Polera,4,286300.0,1145200.0,Efectivo,True
+2023-04-27,Corral,Alimentos,Huevos,3,267800.0,803400.0,Débito,True
+2023-12-31,Paillaco,Deportes,Zapatillas,1,42500.0,42500.0,Transferencia,True
+2023-07-30,Valdivia,Ropa,Chaqueta,2,171100.0,342200.0,Efectivo,False
+2023-12-19,Paillaco,Ropa,Chaqueta,3,30300.0,90900.0,Débito,False
+2023-10-22,Valdivia,Tecnología,Notebook,2,78100.0,156200.0,Transferencia,True
+2023-11-26,Los Lagos,Deportes,Zapatillas,2,330300.0,660600.0,Crédito,False
+2023-09-06,Los Lagos,Deportes,Balón,2,268200.0,536400.0,Crédito,True
+2023-07-31,Panguipulli,Electrodomésticos,Refrigerador,2,208700.0,417400.0,Crédito,False
+2023-10-13,Los Lagos,Alimentos,Leche,2,216700.0,433400.0,Crédito,False
+2023-08-30,Futrono,Hogar,Mesa,1,267500.0,267500.0,Transferencia,False
+2023-10-08,Los Lagos,Ropa,Chaqueta,4,60000.0,240000.0,Crédito,False
+2023-01-02,Río Bueno,Alimentos,Huevos,4,364600.0,1458400.0,Transferencia,False
+2023-04-15,Los Lagos,Ropa,Polera,1,320900.0,320900.0,Crédito,False
+2023-10-12,Paillaco,Hogar,Mesa,2,3200.0,6400.0,Efectivo,False
+2023-05-10,Panguipulli,Deportes,Zapatillas,4,313100.0,1252400.0,Crédito,True
+2023-12-30,La Unión,Electrodomésticos,Refrigerador,4,349300.0,1397200.0,Crédito,False
+2023-01-19,Mariquina,Deportes,Bicicleta,3,469100.0,1407300.0,Débito,True
+2023-10-03,Los Lagos,Ropa,Polera,1,266700.0,266700.0,Transferencia,True
+2023-12-12,Mariquina,Alimentos,Huevos,1,81100.0,81100.0,Transferencia,False
+2023-02-24,Valdivia,Electrodomésticos,Hervidor,1,277500.0,277500.0,Efectivo,True
+2023-11-22,Panguipulli,Electrodomésticos,Microondas,1,45200.0,45200.0,Crédito,False
+2023-06-09,Paillaco,Tecnología,Celular,1,40000.0,40000.0,Débito,True
+2023-03-04,La Unión,Deportes,Zapatillas,4,94700.0,378800.0,Efectivo,False
+2023-02-08,La Unión,Ropa,Pantalón,3,297800.0,893400.0,Débito,True
+2023-12-28,Corral,Alimentos,Leche,3,39100.0,117300.0,Crédito,False
+2023-03-08,Corral,Tecnología,Celular,2,209000.0,418000.0,Crédito,True
+2023-06-12,Panguipulli,Deportes,Bicicleta,2,329800.0,659600.0,Efectivo,False
+2023-08-25,Río Bueno,Electrodomésticos,Hervidor,4,33600.0,134400.0,Débito,True
+2023-04-24,Valdivia,Tecnología,Notebook,2,173900.0,347800.0,Débito,True
+2023-06-01,La Unión,Tecnología,Notebook,1,377000.0,377000.0,Crédito,False
+2023-07-07,La Unión,Ropa,Polera,2,107400.0,214800.0,Transferencia,True
+2023-06-18,Los Lagos,Electrodomésticos,Hervidor,3,397300.0,1191900.0,Transferencia,False
+2023-08-04,Futrono,Deportes,Balón,3,392000.0,1176000.0,Débito,True
+2023-11-16,Panguipulli,Ropa,Chaqueta,2,254000.0,508000.0,Transferencia,False
+2023-07-04,Lanco,Deportes,Balón,2,380200.0,760400.0,Débito,True
+2023-01-05,Los Lagos,Alimentos,Pan,3,384200.0,1152600.0,Crédito,True
+2023-03-10,Los Lagos,Ropa,Chaqueta,4,85200.0,340800.0,Débito,False
+2023-01-27,La Unión,Ropa,Polera,4,130300.0,521200.0,Efectivo,False
+2023-08-29,Corral,Hogar,Silla,1,208100.0,208100.0,Crédito,False
+2023-12-18,Futrono,Electrodomésticos,Refrigerador,3,20700.0,62100.0,Crédito,False
+2023-06-24,Río Bueno,Alimentos,Pan,1,117100.0,117100.0,Débito,False
+2023-02-14,La Unión,Electrodomésticos,Refrigerador,1,445500.0,445500.0,Efectivo,True
+2023-08-24,La Unión,Hogar,Lámpara,1,395100.0,395100.0,Crédito,False
+2023-09-30,Lanco,Hogar,Silla,4,90300.0,361200.0,Transferencia,True
+2023-07-16,Corral,Electrodomésticos,Hervidor,2,22200.0,44400.0,Efectivo,False
+2023-10-03,Valdivia,Hogar,Mesa,4,20400.0,81600.0,Transferencia,False
+2023-11-09,La Unión,Electrodomésticos,Microondas,1,185300.0,185300.0,Débito,False
+2023-04-30,La Unión,Electrodomésticos,Microondas,3,330400.0,991200.0,Crédito,False
+2023-09-22,La Unión,Ropa,Polera,3,418500.0,1255500.0,Crédito,False
+2023-08-15,Panguipulli,Hogar,Mesa,1,233200.0,233200.0,Débito,True
+2023-12-27,Valdivia,Deportes,Balón,4,488100.0,1952400.0,Débito,False
+2023-07-03,Río Bueno,Hogar,Lámpara,3,60100.0,180300.0,Crédito,False
+2023-07-25,Panguipulli,Alimentos,Pan,2,482800.0,965600.0,Transferencia,False
+2023-05-17,Futrono,Hogar,Mesa,2,239400.0,478800.0,Débito,False
+2023-04-29,Río Bueno,Electrodomésticos,Refrigerador,2,36700.0,73400.0,Crédito,True
+2023-01-06,Los Lagos,Alimentos,Arroz,2,232200.0,464400.0,Efectivo,False
+2023-03-06,Río Bueno,Deportes,Balón,1,236000.0,236000.0,Crédito,True
+2023-12-10,Los Lagos,Hogar,Silla,1,22200.0,22200.0,Débito,True
+2023-06-05,Panguipulli,Hogar,Mesa,2,357200.0,714400.0,Efectivo,False
+2023-05-25,Lanco,Hogar,Silla,1,28400.0,28400.0,Transferencia,True
+2023-04-16,Paillaco,Ropa,Polera,2,265500.0,531000.0,Crédito,False
+2023-01-15,Lanco,Alimentos,Huevos,2,90300.0,180600.0,Débito,True
+2023-03-08,Valdivia,Alimentos,Huevos,4,273000.0,1092000.0,Crédito,True
+2023-03-12,Lanco,Ropa,Polera,2,321200.0,642400.0,Efectivo,False
+2023-09-08,Mariquina,Deportes,Zapatillas,3,492100.0,1476300.0,Débito,False
+2023-08-09,Paillaco,Ropa,Chaqueta,3,16200.0,48600.0,Transferencia,True
+2023-08-13,Corral,Ropa,Pantalón,2,330500.0,661000.0,Transferencia,False
+2023-12-14,Río Bueno,Alimentos,Arroz,1,51800.0,51800.0,Transferencia,False
+2023-08-11,Los Lagos,Deportes,Zapatillas,2,267400.0,534800.0,Efectivo,True
+2023-07-28,Los Lagos,Deportes,Zapatillas,3,181100.0,543300.0,Efectivo,False
+2023-03-10,Futrono,Hogar,Silla,4,456700.0,1826800.0,Efectivo,False
+2023-09-03,La Unión,Alimentos,Pan,2,451400.0,902800.0,Transferencia,False
+2023-09-08,La Unión,Tecnología,Celular,3,86000.0,258000.0,Débito,False
+2023-07-23,Río Bueno,Deportes,Bicicleta,4,420200.0,1680800.0,Efectivo,True
+2023-10-26,Valdivia,Alimentos,Pan,2,19200.0,38400.0,Transferencia,True
+2023-02-16,Panguipulli,Electrodomésticos,Refrigerador,1,292300.0,292300.0,Crédito,True
+2023-07-31,Futrono,Electrodomésticos,Refrigerador,3,272900.0,818700.0,Efectivo,False
+2023-06-17,Mariquina,Ropa,Polera,3,373700.0,1121100.0,Transferencia,True
+2023-03-18,Mariquina,Deportes,Bicicleta,2,31000.0,62000.0,Efectivo,True
+2023-04-15,Los Lagos,Electrodomésticos,Refrigerador,1,209600.0,209600.0,Transferencia,False
+2023-05-17,Futrono,Hogar,Lámpara,4,431000.0,1724000.0,Débito,True
+2023-01-07,Lanco,Deportes,Bicicleta,4,138900.0,555600.0,Transferencia,True
+2023-07-01,Valdivia,Electrodomésticos,Microondas,3,290400.0,871200.0,Débito,False
+2023-12-28,Mariquina,Ropa,Chaqueta,4,466700.0,1866800.0,Crédito,True
+2023-08-24,Los Lagos,Hogar,Silla,1,230500.0,230500.0,Débito,False
+2023-07-04,Río Bueno,Alimentos,Huevos,3,235700.0,707100.0,Transferencia,False
+2023-08-18,Lanco,Electrodomésticos,Hervidor,2,113800.0,227600.0,Transferencia,False
+2023-10-12,Los Lagos,Deportes,Bicicleta,3,499300.0,1497900.0,Débito,True
+2023-09-05,Mariquina,Ropa,Chaqueta,4,73600.0,294400.0,Transferencia,True
+2023-10-02,La Unión,Tecnología,Celular,2,204400.0,408800.0,Transferencia,False
+2023-10-22,Paillaco,Deportes,Bicicleta,2,229000.0,458000.0,Efectivo,False
+2023-02-13,Paillaco,Alimentos,Huevos,1,220500.0,220500.0,Transferencia,False
+2023-08-27,Futrono,Alimentos,Pan,4,415100.0,1660400.0,Transferencia,True
+2023-05-22,Valdivia,Tecnología,Celular,4,219000.0,876000.0,Crédito,True
+2023-08-09,Paillaco,Ropa,Chaqueta,4,263800.0,1055200.0,Crédito,True
+2023-05-21,Los Lagos,Hogar,Lámpara,3,269200.0,807600.0,Crédito,True
+2023-12-27,Río Bueno,Deportes,Balón,4,168200.0,672800.0,Débito,False
+2023-11-11,La Unión,Deportes,Zapatillas,2,498200.0,996400.0,Crédito,True
+2023-11-16,Lanco,Electrodomésticos,Hervidor,1,366800.0,366800.0,Crédito,True
+2023-10-09,Río Bueno,Alimentos,Leche,3,30800.0,92400.0,Crédito,True
+2023-06-07,Los Lagos,Deportes,Balón,3,88000.0,264000.0,Débito,False
+2023-07-17,Corral,Deportes,Bicicleta,2,141100.0,282200.0,Transferencia,True
+2023-02-16,Panguipulli,Electrodomésticos,Hervidor,1,106700.0,106700.0,Débito,False
+2023-07-06,Valdivia,Ropa,Polera,3,45600.0,136800.0,Débito,True
+2023-04-19,Río Bueno,Hogar,Lámpara,3,178500.0,535500.0,Crédito,True
+2023-12-29,Los Lagos,Hogar,Mesa,3,489700.0,1469100.0,Efectivo,False
+2023-05-27,Los Lagos,Hogar,Silla,2,341500.0,683000.0,Débito,False
+2023-09-02,Valdivia,Deportes,Zapatillas,3,78700.0,236100.0,Transferencia,False
+2023-02-19,Corral,Deportes,Balón,3,37500.0,112500.0,Efectivo,False
+2023-10-08,Futrono,Alimentos,Huevos,4,183200.0,732800.0,Transferencia,True
+2023-04-10,Corral,Tecnología,Celular,1,7100.0,7100.0,Transferencia,True
+2023-08-23,Corral,Deportes,Zapatillas,1,182000.0,182000.0,Efectivo,False
+2023-11-22,Futrono,Electrodomésticos,Refrigerador,2,285700.0,571400.0,Crédito,True
+2023-04-14,Los Lagos,Electrodomésticos,Refrigerador,2,189000.0,378000.0,Efectivo,False
+2023-08-23,Paillaco,Ropa,Polera,2,64500.0,129000.0,Efectivo,False
+2023-02-13,La Unión,Electrodomésticos,Microondas,2,299800.0,599600.0,Efectivo,False
+2023-03-10,Panguipulli,Ropa,Chaqueta,3,404500.0,1213500.0,Transferencia,False
+2023-02-11,Río Bueno,Electrodomésticos,Hervidor,4,188500.0,754000.0,Transferencia,True
+2023-12-08,Futrono,Electrodomésticos,Microondas,2,444100.0,888200.0,Crédito,True
+2023-06-05,Valdivia,Tecnología,Notebook,2,2600.0,5200.0,Efectivo,True
+2023-01-08,Corral,Alimentos,Huevos,3,32500.0,97500.0,Crédito,False
+2023-07-28,Paillaco,Ropa,Pantalón,1,327500.0,327500.0,Transferencia,False
+2023-11-09,Mariquina,Electrodomésticos,Microondas,2,322500.0,645000.0,Efectivo,False
+2023-05-30,Paillaco,Alimentos,Pan,2,253800.0,507600.0,Débito,False
+2023-02-07,Río Bueno,Tecnología,Notebook,4,266100.0,1064400.0,Crédito,True
+2023-01-23,Los Lagos,Ropa,Chaqueta,3,308600.0,925800.0,Efectivo,True
+2023-05-19,Lanco,Tecnología,Tablet,4,375600.0,1502400.0,Débito,True
+2023-12-12,La Unión,Deportes,Balón,2,394600.0,789200.0,Transferencia,False
+2023-09-07,Valdivia,Hogar,Silla,3,116500.0,349500.0,Débito,False
+2023-08-13,Mariquina,Alimentos,Huevos,1,339600.0,339600.0,Efectivo,False
+2023-08-19,Lanco,Tecnología,Notebook,2,289300.0,578600.0,Crédito,False
+2023-06-15,Mariquina,Electrodomésticos,Refrigerador,2,496000.0,992000.0,Efectivo,False
+2023-10-01,Río Bueno,Electrodomésticos,Hervidor,2,287800.0,575600.0,Débito,True
+2023-05-31,Río Bueno,Deportes,Balón,2,89500.0,179000.0,Efectivo,True
+2023-12-03,Río Bueno,Electrodomésticos,Microondas,1,234200.0,234200.0,Débito,False
+2023-08-26,Río Bueno,Electrodomésticos,Microondas,3,359400.0,1078200.0,Crédito,False
+2023-09-01,Futrono,Electrodomésticos,Hervidor,2,391700.0,783400.0,Efectivo,True
+2023-02-08,Los Lagos,Electrodomésticos,Refrigerador,4,265900.0,1063600.0,Efectivo,True
+2023-02-21,Valdivia,Alimentos,Arroz,1,83800.0,83800.0,Transferencia,True
+2023-06-01,Corral,Hogar,Silla,1,462600.0,462600.0,Efectivo,False
+2023-11-20,Valdivia,Hogar,Silla,3,65300.0,195900.0,Efectivo,False
+2023-09-27,Valdivia,Ropa,Pantalón,4,405900.0,1623600.0,Efectivo,True
+2023-09-02,Paillaco,Alimentos,Leche,2,445100.0,890200.0,Débito,True
+2023-11-30,La Unión,Ropa,Polera,1,65900.0,65900.0,Débito,True
+2023-01-08,Mariquina,Tecnología,Tablet,2,307200.0,614400.0,Crédito,False
+2023-06-27,Paillaco,Hogar,Mesa,4,110600.0,442400.0,Débito,True
+2023-06-13,Panguipulli,Alimentos,Huevos,3,185500.0,556500.0,Efectivo,True
+2023-06-28,Futrono,Hogar,Lámpara,2,388700.0,777400.0,Débito,False
+2023-10-22,Valdivia,Tecnología,Notebook,1,31400.0,31400.0,Transferencia,True
+2023-03-06,Mariquina,Ropa,Pantalón,4,238600.0,954400.0,Débito,False
+2023-11-05,Futrono,Electrodomésticos,Microondas,2,490400.0,980800.0,Transferencia,True
+2023-04-05,La Unión,Deportes,Zapatillas,3,322100.0,966300.0,Efectivo,False
+2023-10-03,Río Bueno,Electrodomésticos,Microondas,2,296400.0,592800.0,Efectivo,True
+2023-05-16,Río Bueno,Hogar,Lámpara,3,129700.0,389100.0,Efectivo,True
+2023-07-02,Mariquina,Hogar,Silla,4,319700.0,1278800.0,Efectivo,False
+2023-11-21,Futrono,Electrodomésticos,Hervidor,4,351600.0,1406400.0,Efectivo,True
+2023-07-01,Futrono,Tecnología,Notebook,1,465600.0,465600.0,Transferencia,False
+2023-07-29,Futrono,Hogar,Silla,2,122600.0,245200.0,Efectivo,True
+2023-12-17,Paillaco,Tecnología,Tablet,4,368700.0,1474800.0,Transferencia,False
+2023-12-05,Futrono,Hogar,Silla,2,365700.0,731400.0,Efectivo,False
+2023-01-25,Lanco,Hogar,Lámpara,3,159900.0,479700.0,Crédito,False
+2023-06-23,Futrono,Deportes,Zapatillas,2,256200.0,512400.0,Crédito,False
+2023-07-12,Panguipulli,Hogar,Silla,4,240100.0,960400.0,Débito,False
+2023-01-13,Panguipulli,Alimentos,Arroz,2,469500.0,939000.0,Transferencia,False
+2023-01-10,Futrono,Deportes,Balón,3,319100.0,957300.0,Débito,True
+2023-04-19,Los Lagos,Hogar,Silla,1,166200.0,166200.0,Crédito,False
+2023-08-16,Lanco,Alimentos,Leche,1,187200.0,187200.0,Transferencia,False
+2023-09-20,Valdivia,Deportes,Zapatillas,2,314600.0,629200.0,Crédito,False
+2023-11-28,Valdivia,Deportes,Zapatillas,1,362000.0,362000.0,Crédito,True
+2023-07-19,Río Bueno,Electrodomésticos,Refrigerador,1,267700.0,267700.0,Efectivo,True
+2023-08-22,Panguipulli,Ropa,Chaqueta,4,357700.0,1430800.0,Débito,True
+2023-06-15,Panguipulli,Hogar,Mesa,3,469200.0,1407600.0,Transferencia,True
+2023-05-13,Río Bueno,Alimentos,Leche,3,378700.0,1136100.0,Crédito,False
+2023-09-18,Los Lagos,Deportes,Zapatillas,1,304300.0,304300.0,Transferencia,True
+2023-06-29,Valdivia,Hogar,Mesa,4,299100.0,1196400.0,Débito,False
+2023-05-12,Corral,Electrodomésticos,Refrigerador,4,87500.0,350000.0,Crédito,False
+2023-09-05,La Unión,Hogar,Lámpara,4,463500.0,1854000.0,Crédito,False
+2023-09-18,Corral,Ropa,Pantalón,1,102300.0,102300.0,Débito,True
+2023-06-08,Paillaco,Deportes,Bicicleta,2,301800.0,603600.0,Crédito,False
+2023-09-12,Lanco,Deportes,Zapatillas,1,404300.0,404300.0,Transferencia,False
+2023-05-22,Valdivia,Hogar,Silla,1,418500.0,418500.0,Efectivo,False
+2023-10-23,Mariquina,Ropa,Chaqueta,1,171700.0,171700.0,Crédito,False
+2023-01-17,La Unión,Ropa,Chaqueta,4,422500.0,1690000.0,Crédito,False
+2023-09-05,Corral,Hogar,Mesa,2,171300.0,342600.0,Débito,False
+2023-05-07,Futrono,Hogar,Silla,3,319300.0,957900.0,Efectivo,False
+2023-06-07,La Unión,Tecnología,Tablet,2,437100.0,874200.0,Débito,True
+2023-01-20,Panguipulli,Tecnología,Notebook,4,432500.0,1730000.0,Crédito,False
+2023-04-29,Valdivia,Ropa,Polera,4,140300.0,561200.0,Débito,True
+2023-04-27,Río Bueno,Deportes,Zapatillas,2,357600.0,715200.0,Crédito,True
+2023-10-14,Paillaco,Deportes,Bicicleta,1,67100.0,67100.0,Crédito,True
+2023-06-20,Paillaco,Ropa,Pantalón,4,56100.0,224400.0,Transferencia,True
+2023-12-20,Los Lagos,Alimentos,Arroz,3,452000.0,1356000.0,Débito,False
+2023-12-17,La Unión,Tecnología,Notebook,3,49500.0,148500.0,Crédito,True
+2023-09-11,Mariquina,Alimentos,Pan,1,317100.0,317100.0,Transferencia,False
+2023-04-05,Paillaco,Hogar,Mesa,4,283400.0,1133600.0,Crédito,True
+2023-03-29,Futrono,Ropa,Pantalón,4,169200.0,676800.0,Débito,False
+2023-11-23,La Unión,Alimentos,Pan,1,241300.0,241300.0,Efectivo,False
+2023-09-14,Futrono,Tecnología,Celular,1,139200.0,139200.0,Crédito,True
+2023-09-02,Los Lagos,Deportes,Balón,3,127500.0,382500.0,Crédito,True
+2023-03-29,Río Bueno,Deportes,Bicicleta,4,171600.0,686400.0,Efectivo,True
+2023-06-18,Mariquina,Tecnología,Notebook,3,46400.0,139200.0,Crédito,True
+2023-04-08,Paillaco,Tecnología,Celular,1,24800.0,24800.0,Efectivo,True
+2023-01-11,La Unión,Alimentos,Leche,1,110200.0,110200.0,Débito,True
+2023-07-10,Río Bueno,Tecnología,Celular,2,486400.0,972800.0,Crédito,False
+2023-12-30,Paillaco,Tecnología,Notebook,2,494400.0,988800.0,Efectivo,False
+2023-02-18,Paillaco,Deportes,Balón,4,365300.0,1461200.0,Débito,False
+2023-11-15,Lanco,Deportes,Zapatillas,2,239800.0,479600.0,Transferencia,False
+2023-06-01,Mariquina,Tecnología,Tablet,1,76400.0,76400.0,Efectivo,False
+2023-12-26,Futrono,Hogar,Lámpara,4,93900.0,375600.0,Crédito,False
+2023-12-01,La Unión,Tecnología,Celular,3,426200.0,1278600.0,Crédito,True
+2023-05-05,Río Bueno,Deportes,Bicicleta,1,326800.0,326800.0,Crédito,False
+2023-01-17,Corral,Hogar,Mesa,4,413700.0,1654800.0,Efectivo,False
+2023-02-20,Mariquina,Electrodomésticos,Microondas,1,22700.0,22700.0,Transferencia,True
+2023-03-02,Mariquina,Electrodomésticos,Refrigerador,3,432300.0,1296900.0,Débito,False
+2023-06-23,Futrono,Hogar,Silla,2,413800.0,827600.0,Débito,False
+2023-01-31,Paillaco,Hogar,Silla,3,320900.0,962700.0,Efectivo,True
+2023-12-19,Lanco,Electrodomésticos,Hervidor,4,450800.0,1803200.0,Efectivo,False
+2023-04-04,Mariquina,Tecnología,Tablet,2,174700.0,349400.0,Débito,True
+2023-07-23,Valdivia,Ropa,Pantalón,2,411600.0,823200.0,Efectivo,True
+2023-12-09,Valdivia,Ropa,Chaqueta,1,351600.0,351600.0,Débito,True
+2023-09-02,Panguipulli,Ropa,Polera,4,51600.0,206400.0,Crédito,False
+2023-08-20,Mariquina,Alimentos,Pan,1,312500.0,312500.0,Crédito,False
+2023-03-02,Mariquina,Electrodomésticos,Microondas,4,433700.0,1734800.0,Crédito,False
+2023-04-25,Valdivia,Deportes,Balón,2,432200.0,864400.0,Efectivo,False
+2023-03-26,Los Lagos,Deportes,Bicicleta,4,80100.0,320400.0,Transferencia,False
+2023-11-25,Mariquina,Ropa,Chaqueta,3,433700.0,1301100.0,Débito,True
+2023-08-28,Lanco,Electrodomésticos,Hervidor,3,141000.0,423000.0,Transferencia,True
+2023-04-01,Panguipulli,Deportes,Bicicleta,1,144000.0,144000.0,Crédito,False
+2023-08-18,Paillaco,Ropa,Pantalón,2,148500.0,297000.0,Efectivo,True
+2023-11-05,Mariquina,Electrodomésticos,Hervidor,4,423500.0,1694000.0,Crédito,False
+2023-10-08,Mariquina,Alimentos,Huevos,4,7900.0,31600.0,Débito,True
+2023-04-22,Panguipulli,Deportes,Bicicleta,1,161600.0,161600.0,Efectivo,False
+2023-06-18,La Unión,Deportes,Bicicleta,4,33900.0,135600.0,Efectivo,True
+2023-05-27,Futrono,Ropa,Polera,2,460100.0,920200.0,Crédito,True
+2023-06-23,La Unión,Alimentos,Pan,1,110200.0,110200.0,Débito,False
+2023-06-16,Valdivia,Deportes,Balón,1,198300.0,198300.0,Efectivo,True
+2023-02-12,Lanco,Hogar,Lámpara,1,469200.0,469200.0,Débito,False
+2023-06-23,Lanco,Alimentos,Arroz,2,19300.0,38600.0,Transferencia,True
+2023-06-01,Futrono,Ropa,Pantalón,4,159000.0,636000.0,Efectivo,True
+2023-11-04,Paillaco,Deportes,Balón,4,183300.0,733200.0,Débito,False
+2023-03-14,Los Lagos,Alimentos,Leche,4,231400.0,925600.0,Débito,True
+2023-05-15,Los Lagos,Electrodomésticos,Microondas,3,310000.0,930000.0,Crédito,True
+2023-02-21,Corral,Tecnología,Celular,3,36500.0,109500.0,Débito,True
+2023-07-21,Mariquina,Electrodomésticos,Refrigerador,2,102100.0,204200.0,Débito,True
+2023-11-21,Los Lagos,Tecnología,Celular,3,416500.0,1249500.0,Crédito,True
+2023-08-24,Valdivia,Hogar,Silla,2,392000.0,784000.0,Crédito,True
+2023-12-30,La Unión,Deportes,Balón,3,495400.0,1486200.0,Efectivo,False
+2023-01-31,Mariquina,Tecnología,Tablet,2,229000.0,458000.0,Efectivo,True
+2023-02-08,Mariquina,Ropa,Chaqueta,4,92100.0,368400.0,Transferencia,False
+2023-10-19,Mariquina,Electrodomésticos,Refrigerador,4,483600.0,1934400.0,Efectivo,True
+2023-12-30,Mariquina,Tecnología,Tablet,1,183800.0,183800.0,Efectivo,False
+2023-09-21,La Unión,Hogar,Lámpara,4,483600.0,1934400.0,Débito,True
+2023-03-08,Los Lagos,Ropa,Pantalón,4,411800.0,1647200.0,Transferencia,False
+2023-04-06,Río Bueno,Tecnología,Tablet,1,160600.0,160600.0,Débito,True
+2023-10-15,Río Bueno,Alimentos,Pan,2,462600.0,925200.0,Transferencia,True
+2023-11-19,Lanco,Tecnología,Tablet,3,358800.0,1076400.0,Transferencia,True
+2023-10-01,Futrono,Alimentos,Huevos,4,262400.0,1049600.0,Transferencia,False
+2023-09-23,Panguipulli,Hogar,Lámpara,4,252200.0,1008800.0,Transferencia,False
+2023-12-04,Lanco,Ropa,Pantalón,1,110000.0,110000.0,Débito,False
+2023-02-27,Paillaco,Hogar,Silla,1,391200.0,391200.0,Crédito,True
+2023-12-11,Mariquina,Ropa,Polera,3,66500.0,199500.0,Débito,True
+2023-02-25,Mariquina,Ropa,Pantalón,1,427500.0,427500.0,Crédito,True
+2023-05-09,Panguipulli,Alimentos,Leche,1,488200.0,488200.0,Transferencia,True
+2023-05-11,Lanco,Alimentos,Leche,3,156700.0,470100.0,Efectivo,True
+2023-02-05,Río Bueno,Alimentos,Arroz,3,88600.0,265800.0,Débito,True
+2023-07-28,Paillaco,Ropa,Pantalón,4,144800.0,579200.0,Crédito,True
+2023-01-01,Futrono,Ropa,Pantalón,3,157500.0,472500.0,Crédito,False
+2023-07-17,Los Lagos,Deportes,Zapatillas,1,477700.0,477700.0,Transferencia,True
+2023-05-05,Río Bueno,Alimentos,Pan,1,362400.0,362400.0,Débito,False
+2023-06-20,La Unión,Electrodomésticos,Hervidor,4,362500.0,1450000.0,Transferencia,True
+2023-11-29,Los Lagos,Electrodomésticos,Microondas,3,83900.0,251700.0,Transferencia,True
+2023-01-20,Lanco,Tecnología,Notebook,1,246900.0,246900.0,Transferencia,True
+2023-11-20,Valdivia,Electrodomésticos,Refrigerador,1,326500.0,326500.0,Crédito,True
+2023-03-07,Corral,Ropa,Chaqueta,1,372400.0,372400.0,Transferencia,False
+2023-06-04,Panguipulli,Hogar,Mesa,2,353400.0,706800.0,Transferencia,True
+2023-02-23,Corral,Tecnología,Notebook,2,425700.0,851400.0,Transferencia,True
+2023-07-17,Panguipulli,Tecnología,Tablet,1,102900.0,102900.0,Transferencia,True
+2023-11-23,La Unión,Electrodomésticos,Microondas,3,338600.0,1015800.0,Efectivo,True
+2023-12-07,Valdivia,Tecnología,Notebook,2,452300.0,904600.0,Transferencia,True
+2023-04-12,Corral,Hogar,Silla,4,475900.0,1903600.0,Efectivo,True
+2023-12-20,Mariquina,Tecnología,Notebook,4,491500.0,1966000.0,Efectivo,True
+2023-05-28,Paillaco,Deportes,Bicicleta,4,474300.0,1897200.0,Transferencia,True
+2023-03-31,Paillaco,Electrodomésticos,Refrigerador,2,464300.0,928600.0,Débito,False
+2023-12-13,Río Bueno,Alimentos,Pan,4,148100.0,592400.0,Efectivo,False
+2023-03-29,Corral,Hogar,Mesa,1,358100.0,358100.0,Débito,False
+2023-07-29,Panguipulli,Alimentos,Pan,3,440700.0,1322100.0,Transferencia,False
+2023-07-20,Futrono,Tecnología,Celular,1,323800.0,323800.0,Crédito,False
+2023-07-16,Futrono,Ropa,Polera,3,282200.0,846600.0,Débito,False
+2023-01-09,Lanco,Deportes,Zapatillas,3,457600.0,1372800.0,Transferencia,False
+2023-05-28,La Unión,Alimentos,Arroz,3,152500.0,457500.0,Débito,True
+2023-05-24,Valdivia,Ropa,Polera,3,11400.0,34200.0,Crédito,True
+2023-08-16,Paillaco,Alimentos,Huevos,3,91000.0,273000.0,Transferencia,True
+2023-05-13,Panguipulli,Deportes,Bicicleta,1,359600.0,359600.0,Débito,False
+2023-03-10,Los Lagos,Deportes,Bicicleta,3,64400.0,193200.0,Efectivo,False
+2023-03-16,Futrono,Alimentos,Leche,4,383200.0,1532800.0,Crédito,True
+2023-11-15,Río Bueno,Deportes,Balón,3,204400.0,613200.0,Crédito,True
+2023-12-04,Mariquina,Tecnología,Tablet,3,297600.0,892800.0,Efectivo,True
+2023-02-20,Río Bueno,Ropa,Polera,4,353200.0,1412800.0,Débito,True
+2023-11-21,Mariquina,Alimentos,Huevos,4,4100.0,16400.0,Transferencia,True
+2023-09-11,Lanco,Tecnología,Notebook,2,250500.0,501000.0,Efectivo,True
+2023-10-19,La Unión,Tecnología,Tablet,2,287200.0,574400.0,Efectivo,True
+2023-12-16,Panguipulli,Hogar,Silla,1,243400.0,243400.0,Efectivo,True
+2023-10-25,Panguipulli,Electrodomésticos,Hervidor,3,440600.0,1321800.0,Débito,True
+2023-05-06,Corral,Tecnología,Tablet,3,62900.0,188700.0,Efectivo,True
+2023-12-21,Corral,Alimentos,Pan,3,203500.0,610500.0,Efectivo,False
+2023-01-15,Los Lagos,Tecnología,Tablet,1,216000.0,216000.0,Transferencia,True
+2023-12-18,Los Lagos,Deportes,Balón,4,40500.0,162000.0,Crédito,True
+2023-11-21,Futrono,Electrodomésticos,Refrigerador,4,362600.0,1450400.0,Transferencia,False
+2023-07-28,Río Bueno,Electrodomésticos,Microondas,1,285100.0,285100.0,Crédito,False
+2023-11-14,Panguipulli,Alimentos,Huevos,4,176600.0,706400.0,Transferencia,False
+2023-02-09,Mariquina,Alimentos,Pan,1,318800.0,318800.0,Débito,True
+2023-08-14,Panguipulli,Ropa,Chaqueta,2,87400.0,174800.0,Débito,False
+2023-04-17,Río Bueno,Ropa,Pantalón,3,263600.0,790800.0,Efectivo,True
+2023-03-17,Río Bueno,Hogar,Lámpara,2,213500.0,427000.0,Crédito,True
+2023-02-13,La Unión,Deportes,Bicicleta,1,444300.0,444300.0,Débito,True
+2023-05-21,Futrono,Deportes,Balón,1,41300.0,41300.0,Efectivo,False
+2023-07-14,Mariquina,Deportes,Bicicleta,2,8800.0,17600.0,Efectivo,True
+2023-02-07,Mariquina,Tecnología,Celular,3,427500.0,1282500.0,Efectivo,False
+2023-06-25,Lanco,Electrodomésticos,Refrigerador,3,66000.0,198000.0,Transferencia,True
+2023-03-12,Futrono,Deportes,Balón,1,81700.0,81700.0,Efectivo,False
+2023-05-06,La Unión,Hogar,Mesa,1,471900.0,471900.0,Efectivo,False
+2023-08-20,Valdivia,Electrodomésticos,Refrigerador,2,327800.0,655600.0,Efectivo,False
+2023-12-31,Mariquina,Electrodomésticos,Hervidor,2,244900.0,489800.0,Crédito,True
+2023-10-12,Mariquina,Tecnología,Celular,4,13200.0,52800.0,Débito,True
+2023-10-14,Los Lagos,Alimentos,Huevos,2,135000.0,270000.0,Transferencia,True
+2023-06-05,Mariquina,Electrodomésticos,Microondas,4,334900.0,1339600.0,Transferencia,True
+2023-01-16,La Unión,Deportes,Bicicleta,1,181500.0,181500.0,Crédito,False
+2023-12-26,Corral,Tecnología,Tablet,3,272100.0,816300.0,Efectivo,True
+2023-03-04,Corral,Hogar,Mesa,1,58700.0,58700.0,Transferencia,True
+2023-11-11,Valdivia,Alimentos,Arroz,4,141500.0,566000.0,Crédito,False
+2023-06-26,La Unión,Ropa,Chaqueta,3,266900.0,800700.0,Crédito,False
+2023-03-07,La Unión,Deportes,Balón,4,341800.0,1367200.0,Efectivo,True
+2023-05-10,Mariquina,Deportes,Balón,4,319000.0,1276000.0,Efectivo,False
+2023-02-17,Futrono,Ropa,Pantalón,2,498100.0,996200.0,Débito,False
+2023-05-30,Corral,Deportes,Balón,4,178600.0,714400.0,Crédito,True
+2023-08-02,Panguipulli,Alimentos,Leche,3,283900.0,851700.0,Crédito,False
+2023-09-19,Mariquina,Hogar,Mesa,3,483500.0,1450500.0,Crédito,False
+2023-10-31,Corral,Alimentos,Arroz,4,492200.0,1968800.0,Transferencia,False
+2023-11-11,Mariquina,Electrodomésticos,Hervidor,3,156300.0,468900.0,Efectivo,True
+2023-07-16,Lanco,Deportes,Balón,2,292600.0,585200.0,Efectivo,False
+2023-10-02,Panguipulli,Ropa,Chaqueta,2,372500.0,745000.0,Débito,True
+2023-09-15,Corral,Electrodomésticos,Hervidor,1,328200.0,328200.0,Crédito,True
+2023-02-27,Mariquina,Alimentos,Huevos,4,208000.0,832000.0,Transferencia,True
+2023-12-03,Río Bueno,Ropa,Chaqueta,1,497900.0,497900.0,Efectivo,False
+2023-05-12,Lanco,Hogar,Mesa,4,96700.0,386800.0,Débito,True
+2023-07-23,Lanco,Hogar,Lámpara,1,384700.0,384700.0,Débito,False
+2023-08-15,Lanco,Tecnología,Notebook,4,289200.0,1156800.0,Transferencia,False
+2023-01-31,Futrono,Electrodomésticos,Hervidor,1,4200.0,4200.0,Efectivo,False
+2023-04-09,Río Bueno,Hogar,Mesa,2,380600.0,761200.0,Efectivo,True
+2023-07-14,Corral,Deportes,Zapatillas,2,221100.0,442200.0,Crédito,False
+2023-01-09,Río Bueno,Hogar,Lámpara,4,194400.0,777600.0,Transferencia,True
+2023-02-11,Corral,Alimentos,Arroz,1,281900.0,281900.0,Débito,False
+2023-05-29,Futrono,Ropa,Polera,1,332500.0,332500.0,Transferencia,False
+2023-07-25,Valdivia,Alimentos,Arroz,1,180000.0,180000.0,Efectivo,False
+2023-08-22,Los Lagos,Electrodomésticos,Microondas,1,33000.0,33000.0,Efectivo,False
+2023-09-14,Mariquina,Deportes,Balón,4,26900.0,107600.0,Efectivo,False
+2023-05-13,Paillaco,Alimentos,Arroz,2,408800.0,817600.0,Crédito,True
+2023-04-16,Valdivia,Deportes,Balón,4,167500.0,670000.0,Débito,True
+2023-09-27,Río Bueno,Hogar,Lámpara,1,77500.0,77500.0,Débito,False
+2023-08-31,Río Bueno,Tecnología,Tablet,1,286200.0,286200.0,Crédito,True
+2023-08-28,Los Lagos,Hogar,Mesa,2,7800.0,15600.0,Crédito,True
+2023-08-24,Lanco,Ropa,Pantalón,1,499800.0,499800.0,Débito,True
+2023-03-25,Río Bueno,Ropa,Pantalón,2,126800.0,253600.0,Débito,True
+2023-12-21,Río Bueno,Electrodomésticos,Microondas,3,386300.0,1158900.0,Efectivo,True
+2023-03-15,Corral,Electrodomésticos,Microondas,1,35300.0,35300.0,Transferencia,True
+2023-08-15,Panguipulli,Alimentos,Pan,4,358600.0,1434400.0,Transferencia,True
+2023-12-27,Futrono,Ropa,Polera,2,162900.0,325800.0,Efectivo,False
+2023-02-21,Mariquina,Alimentos,Arroz,4,440000.0,1760000.0,Crédito,True
+2023-06-24,Panguipulli,Deportes,Balón,3,78200.0,234600.0,Transferencia,True
+2023-08-02,Paillaco,Ropa,Pantalón,3,452400.0,1357200.0,Transferencia,True
+2023-08-15,Mariquina,Alimentos,Huevos,2,432000.0,864000.0,Transferencia,False
+2023-06-10,Futrono,Electrodomésticos,Microondas,3,407900.0,1223700.0,Débito,False
+2023-10-23,Los Lagos,Deportes,Balón,3,111800.0,335400.0,Transferencia,True
+2023-06-18,La Unión,Deportes,Bicicleta,4,369400.0,1477600.0,Crédito,False
+2023-06-16,Lanco,Deportes,Bicicleta,1,378300.0,378300.0,Transferencia,True
+2023-08-13,Río Bueno,Hogar,Mesa,4,275200.0,1100800.0,Efectivo,True
+2023-10-05,La Unión,Ropa,Polera,4,281100.0,1124400.0,Transferencia,True
+2023-01-11,Lanco,Hogar,Mesa,4,72900.0,291600.0,Transferencia,False
+2023-10-16,Mariquina,Alimentos,Pan,1,4300.0,4300.0,Efectivo,False
+2023-12-07,Mariquina,Electrodomésticos,Refrigerador,4,63300.0,253200.0,Débito,True
+2023-10-20,Panguipulli,Electrodomésticos,Hervidor,3,183000.0,549000.0,Débito,False
+2023-09-30,Los Lagos,Alimentos,Pan,3,112800.0,338400.0,Débito,True
+2023-05-13,La Unión,Alimentos,Pan,3,254200.0,762600.0,Crédito,False
+2023-01-23,Mariquina,Ropa,Chaqueta,3,161600.0,484800.0,Transferencia,False
+2023-02-09,Valdivia,Deportes,Zapatillas,3,275800.0,827400.0,Débito,False
+2023-04-19,Paillaco,Ropa,Pantalón,3,245100.0,735300.0,Efectivo,False
+2023-09-17,Lanco,Alimentos,Leche,3,168900.0,506700.0,Débito,False
+2023-12-02,Panguipulli,Alimentos,Pan,2,234200.0,468400.0,Efectivo,True
+2023-02-18,Valdivia,Alimentos,Arroz,2,267200.0,534400.0,Crédito,True
+2023-02-01,Panguipulli,Electrodomésticos,Refrigerador,3,49900.0,149700.0,Crédito,False
+2023-10-01,Río Bueno,Deportes,Bicicleta,2,264200.0,528400.0,Crédito,False
+2023-01-30,Mariquina,Tecnología,Tablet,3,19600.0,58800.0,Débito,True
+2023-02-18,Paillaco,Alimentos,Arroz,3,37400.0,112200.0,Crédito,True
+2023-04-11,Valdivia,Hogar,Mesa,3,158300.0,474900.0,Débito,True
+2023-05-15,Paillaco,Hogar,Mesa,2,455100.0,910200.0,Efectivo,False
+2023-06-10,Corral,Tecnología,Tablet,4,253200.0,1012800.0,Transferencia,False
+2023-10-07,Lanco,Ropa,Polera,1,160900.0,160900.0,Efectivo,False
+2023-04-21,La Unión,Deportes,Zapatillas,3,241300.0,723900.0,Crédito,True
+2023-08-24,Lanco,Deportes,Zapatillas,2,209200.0,418400.0,Crédito,True
+2023-08-07,La Unión,Electrodomésticos,Microondas,3,215300.0,645900.0,Transferencia,False
+2023-08-31,Los Lagos,Electrodomésticos,Hervidor,4,181100.0,724400.0,Transferencia,True
+2023-04-08,Río Bueno,Alimentos,Arroz,2,20300.0,40600.0,Efectivo,False
+2023-04-23,La Unión,Electrodomésticos,Microondas,3,349600.0,1048800.0,Transferencia,False
+2023-11-21,La Unión,Hogar,Mesa,3,29700.0,89100.0,Débito,True
+2023-11-28,Valdivia,Electrodomésticos,Refrigerador,4,341600.0,1366400.0,Efectivo,True
+2023-08-04,Río Bueno,Electrodomésticos,Hervidor,3,156000.0,468000.0,Crédito,False
+2023-06-13,La Unión,Hogar,Lámpara,4,61200.0,244800.0,Transferencia,False
+2023-04-15,Los Lagos,Alimentos,Huevos,1,470400.0,470400.0,Transferencia,True
+2023-08-10,Paillaco,Hogar,Mesa,2,212600.0,425200.0,Crédito,False
+2023-05-01,Futrono,Tecnología,Celular,4,224200.0,896800.0,Débito,False
+2023-08-25,Mariquina,Hogar,Mesa,4,220100.0,880400.0,Débito,False
+2023-02-27,Paillaco,Deportes,Bicicleta,2,454700.0,909400.0,Débito,False
+2023-08-30,Panguipulli,Tecnología,Tablet,1,97600.0,97600.0,Crédito,True
+2023-09-14,Río Bueno,Deportes,Balón,3,360200.0,1080600.0,Efectivo,False
+2023-05-25,Lanco,Deportes,Bicicleta,2,8200.0,16400.0,Efectivo,False
+2023-12-18,Lanco,Alimentos,Leche,2,288700.0,577400.0,Débito,False
+2023-12-23,Valdivia,Tecnología,Tablet,3,358800.0,1076400.0,Crédito,False
+2023-05-23,La Unión,Electrodomésticos,Refrigerador,2,201600.0,403200.0,Débito,True
+2023-04-15,Corral,Ropa,Pantalón,1,238500.0,238500.0,Transferencia,False
+2023-03-19,Río Bueno,Ropa,Polera,2,89500.0,179000.0,Crédito,True
+2023-04-16,Río Bueno,Alimentos,Pan,3,273500.0,820500.0,Efectivo,True
+2023-01-21,Los Lagos,Tecnología,Tablet,3,125100.0,375300.0,Efectivo,False
+2023-04-09,Futrono,Deportes,Zapatillas,2,148400.0,296800.0,Crédito,True
+2023-11-24,Futrono,Alimentos,Pan,4,328900.0,1315600.0,Efectivo,False
+2023-08-07,La Unión,Ropa,Chaqueta,3,170100.0,510300.0,Crédito,False
+2023-05-12,Mariquina,Ropa,Chaqueta,1,351400.0,351400.0,Débito,True
+2023-12-21,Paillaco,Alimentos,Leche,4,229100.0,916400.0,Débito,False
+2023-11-20,Valdivia,Alimentos,Pan,2,400000.0,800000.0,Débito,False
+2023-03-03,Mariquina,Tecnología,Tablet,3,216400.0,649200.0,Efectivo,False
+2023-06-25,La Unión,Tecnología,Celular,4,194500.0,778000.0,Transferencia,True
+2023-04-08,Lanco,Alimentos,Leche,3,189300.0,567900.0,Transferencia,False
+2023-11-17,Río Bueno,Tecnología,Tablet,1,134000.0,134000.0,Efectivo,False
+2023-03-18,Paillaco,Hogar,Mesa,1,183700.0,183700.0,Crédito,False
+2023-01-29,Paillaco,Electrodomésticos,Microondas,2,361200.0,722400.0,Efectivo,True
+2023-10-04,Río Bueno,Electrodomésticos,Refrigerador,1,79700.0,79700.0,Crédito,False
+2023-03-05,Mariquina,Ropa,Pantalón,1,365500.0,365500.0,Efectivo,False
+2023-10-02,Valdivia,Tecnología,Notebook,4,412000.0,1648000.0,Efectivo,True
+2023-03-03,Mariquina,Alimentos,Pan,2,346200.0,692400.0,Transferencia,False
+2023-03-20,La Unión,Tecnología,Tablet,4,27800.0,111200.0,Débito,False
+2023-05-01,Futrono,Electrodomésticos,Microondas,1,303500.0,303500.0,Transferencia,False
+2023-01-02,Corral,Deportes,Bicicleta,3,261300.0,783900.0,Transferencia,False
+2023-02-28,Panguipulli,Ropa,Polera,4,100400.0,401600.0,Efectivo,False
+2023-12-30,Río Bueno,Hogar,Mesa,1,153600.0,153600.0,Transferencia,False
+2023-05-10,Panguipulli,Deportes,Balón,3,285800.0,857400.0,Crédito,False
+2023-01-27,Los Lagos,Tecnología,Notebook,1,75300.0,75300.0,Crédito,False
+2023-12-22,Los Lagos,Alimentos,Leche,1,215200.0,215200.0,Efectivo,False
+2023-01-23,La Unión,Deportes,Balón,4,207700.0,830800.0,Débito,False
+2023-09-04,Mariquina,Electrodomésticos,Microondas,2,332300.0,664600.0,Crédito,True
+2023-11-05,Mariquina,Alimentos,Arroz,2,325000.0,650000.0,Débito,False
+2023-02-23,Valdivia,Deportes,Zapatillas,3,276600.0,829800.0,Crédito,True
+2023-11-22,Los Lagos,Ropa,Polera,2,212000.0,424000.0,Crédito,True
+2023-10-02,Mariquina,Electrodomésticos,Microondas,2,344800.0,689600.0,Transferencia,False
+2023-02-27,Futrono,Hogar,Mesa,4,47200.0,188800.0,Débito,False
+2023-02-02,Lanco,Electrodomésticos,Refrigerador,3,208200.0,624600.0,Efectivo,True
+2023-01-16,Río Bueno,Deportes,Bicicleta,4,26600.0,106400.0,Débito,True
+2023-07-02,Futrono,Hogar,Mesa,4,233400.0,933600.0,Transferencia,True
+2023-02-26,Panguipulli,Electrodomésticos,Refrigerador,3,131800.0,395400.0,Débito,False
+2023-07-21,Lanco,Alimentos,Huevos,4,24800.0,99200.0,Efectivo,True
+2023-02-01,Panguipulli,Deportes,Balón,4,404400.0,1617600.0,Efectivo,True
+2023-10-13,Mariquina,Ropa,Chaqueta,1,401800.0,401800.0,Efectivo,False
+2023-06-03,Río Bueno,Tecnología,Notebook,2,214500.0,429000.0,Efectivo,False
+2023-01-12,Mariquina,Electrodomésticos,Microondas,2,154700.0,309400.0,Débito,False
+2023-09-11,Futrono,Alimentos,Pan,4,151200.0,604800.0,Débito,False
+2023-08-15,Paillaco,Electrodomésticos,Hervidor,3,345900.0,1037700.0,Efectivo,False
+2023-03-10,Valdivia,Hogar,Silla,3,342600.0,1027800.0,Efectivo,True
+2023-06-10,Río Bueno,Deportes,Bicicleta,4,449500.0,1798000.0,Transferencia,False
+2023-10-01,Mariquina,Ropa,Pantalón,3,171900.0,515700.0,Crédito,False
+2023-05-05,Panguipulli,Deportes,Balón,3,288000.0,864000.0,Débito,True
+2023-01-01,Panguipulli,Deportes,Bicicleta,4,160000.0,640000.0,Crédito,False
+2023-09-08,Corral,Deportes,Bicicleta,2,403100.0,806200.0,Débito,False
+2023-11-15,La Unión,Tecnología,Notebook,2,452700.0,905400.0,Débito,False
+2023-09-21,Panguipulli,Electrodomésticos,Hervidor,3,348200.0,1044600.0,Crédito,True
+2023-07-27,Mariquina,Deportes,Balón,3,237700.0,713100.0,Débito,True
+2023-08-15,Corral,Hogar,Lámpara,2,23000.0,46000.0,Crédito,True
+2023-12-14,Los Lagos,Alimentos,Leche,1,109200.0,109200.0,Efectivo,True
